@@ -1,4 +1,4 @@
-[有자겸어문_존현문_비교연구.html](https://github.com/user-attachments/files/30248760/_._.html)
+[有 자겸어문_존현문_비교연구.html](https://github.com/user-attachments/files/30248760/_._.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
