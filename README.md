@@ -1,522 +1,563 @@
-[有자 겸어문과 존현문 비교 연구 테이터.xml](https://github.com/user-attachments/files/31304709/default.xml)
-<有자문>
-	<有자겸어문>
-		<PersonalNoun>
-			<Example id="1">他们有26种产品<Verb type="action">获得</Verb>国、部、市优质产品称号。</Example>
-			<Example id="2">他有20多件雕塑<Verb type="action">建立</Verb>在许多大中城市里。</Example>
-			<Example id="3">他们有不少作品<Verb type="action">荣获</Verb>全国煤炭系统文艺创作“乌金奖”。</Example>
-			<Example id="4">他们有成群的飞机<Verb type="action">助战</Verb>并指示射击目标。</Example>
-			<Example id="5">他们有大量的技术资料可以<Verb type="action">参考</Verb></Example>
-			<Example id="6">他们有大量的皮子不能<Verb type="action">制</Verb>革</Example>
-			<Example id="7">他们有大片沙荒尚未<Verb type="action">开垦</Verb></Example>
-			<Example id="8">他们有7年的时间来<Verb type="action">准备</Verb></Example>
-			<Example id="9">他们有80％的技工能<Verb type="action">掌握</Verb>二到十二种技术。</Example>
-			<Example id="10">他们有半数以上的日子<Verb type="relation">是</Verb>在乡下度过的。</Example>
-			<Example id="11">他们有很多人<Verb type="action">参加</Verb><aspect type="completed">了</aspect>当地民兵组织</Example>
-			<Example id="12">他们有很多人在部队里<Verb type="action">担任</Verb><aspect type="experiential">过</aspect>领导工作</Example>
-			<Example id="13">他们有很多人曾<Verb type="action">出席</Verb>或列席过去年召开的全国战斗英雄代表会议</Example>
-			<Example id="14">他们有两件事比较容易<Verb type="action">做</Verb></Example>
-			<Example id="15">他们有两点做法<Verb type="state">值得</Verb>肯定</Example>
-			<Example id="16">他们有六百多人<Verb type="action">参加</Verb>校内美化校院的义务劳动</Example>
-			<Example id="17">他们有六七个人对我们<Verb type="action">进行</Verb><aspect type="completed">了</aspect>机枪扫射</Example>
-			<Example id="18">他们有少数人<Verb type="action">考进</Verb><aspect type="completed">了</aspect>中等技术学校、高中和大学</Example	  
-			<Example id="19">他们有五十多个劳动力长期<Verb type="action">搞</Verb>林业和畜牧业生产。</Example>
-			<Example id="20">他们有许多广告<Verb type="relation">是</Verb>在主体的位置用鲜明的色彩描写正面人物</Example>
-			<Example id="21">他们有许多好的经验<Verb type="state">值得</Verb>借鉴和学习</Example>
-			<Example id="22">他们有一百多名采购人员<Verb type="action">活跃</Verb>在京、津、沪、苏</Example>
-			<Example id="23">他们有许多球员在欧洲<Verb type="action">打</Verb>球</Example>
-			<Example id="24">他们有许多人<Verb type="relation">是</Verb>怀着某种政治动机的。</Example>
-			<Example id="25">他们有一百二十五亩三分田<Verb type="action">准备</Verb>种早稻</Example>
-			<Example id="26">他们有一部分直接<Verb type="action">参加</Verb><aspect type="completed">了</aspect>滇桂黔边区的武装斗争</Example>
-			<Example id="27">他们有一部分<Verb type="action">参加</Verb><aspect type="completed">了</aspect>自由党</Example>
-			<Example id="28">他们有一个姑奶奶<Verb type="state">住</Verb>在村里。</Example>
-			<Example id="29">他们有一些人<Verb type="action">访问</Verb><aspect type="completed">了</aspect>中国。</Example>
-			<Example id="30">他们有11支部队<Verb type="action">包围</Verb><aspect type="progressive">着</aspect>解放区。</Example>
-			<Example id="31">他们有多少人愿意<Verb type="action">撤退</Verb></Example>
-			<Example id="32">他们有八个小姐专门<Verb type="action">负责</Verb>打印合同</Example>
-			<Example id="33">他们有不少顾客<Verb type="relation">是</Verb>在这个街区的</Example>
-			<Example id="34">他们有好多<Verb type="relation">是</Verb>东北的飞行员</Example>
-			<Example id="35">他们有很多人<Verb type="action">熬</Verb>不过从各方面压在头上的灾难</Example>
-			<Example id="36">他们有很多战士在他手里<Verb type="action">送</Verb><aspect type="completed">了</aspect>命</Example>
-			<Example id="37">他们有几个人要把我们的船<Verb type="action">弄到</Verb>城里去</Example>
-			<Example id="38">他们有五个人在地上<Verb type="action">坐</Verb><aspect type="progressive">着</aspect>，围成圆圈</Example>
-			<Example id="39">他们有纽约一家很大的投机公司给他们<Verb type="action">当</Verb>参谋</Example>
-			<Example id="40">他们有许多烦恼需要<Verb type="state">忘</Verb>掉</Example>
-			<Example id="41">他们有许多人从下新城<Verb type="action">回来</Verb></Example>
-			<Example id="42">他们有许多人<Verb type="relation">是</Verb>第一次看到新四军</Example>
-			<Example id="43">他们有两万贵族子弟随时<Verb type="action">准备</Verb>拿起武器打开法国的大门</Example>
-			<Example id="44">他们有各种各样的熏肉可以<Verb type="action">充饥</Verb></Example>
-			<Example id="45">他们有几个朋友正好<Verb type="action">回</Verb>乡</Example>
-			<Example id="46">他们有几位受过教育的人<Verb type="action">担任</Verb>领袖</Example>
-			<Example id="47">他们有一个人<Verb type="action">看</Verb><aspect type="progressive">着</aspect>我</Example>
-			<Example id="48">他们有几个人在厂里<Verb type="action">闹</Verb>事，被开除了</Example>
-			<Example id="49">我们有1000多亩土地<Verb type="action">种植</Verb>订单蔬菜直供上海</Example>
-			<Example id="50">我们有105家星级饭店全部<Verb type="action">参与</Verb></Example>
-			<Example id="51">我们有1500万农民工需要<Verb type="action">进城</Verb>务工</Example>
-			<Example id="52">我们有20多名员工<Verb type="action">留守</Verb>网点，保证快递按时达</Example>
-			<Example id="53">我们有20多位医护人员因<Verb type="action">医治</Verb>、照顾病人而倒下</Example>
-			<Example id="54">我们有23名球员<Verb type="action">准备</Verb>第二场比赛</Example>
-			<Example id="55">我们有25％以上的生产能力在<Verb type="state">闲置</Verb><aspect type="progressive">着</aspect></Example>
-			<Example id="56">我们有320多名工作人员<Verb type="action">扑</Verb>在一线。</Example>
-			<Example id="57">我们有320名会员<Verb type="action">投身</Verb>乡村振兴</Example>
-			<Example id="58">我们有4名运动员<Verb type="action">参加</Verb>田径、柔道和举重项目的比赛</Example>
-			<Example id="59">我们有4万多官兵<Verb type="action">奋战</Verb>在长江两岸</Example>
-			<Example id="60">我们有500多人在<Verb type="action">画</Verb>老虎</Example>
-			<Example id="61">我们有5位营销员和员工<Verb type="relation">成为</Verb>奥运火炬手</Example>
-			<Example id="62">我们有90个同事<Verb type="action">倒下</Verb>。</Example>
-			<Example id="63">我们有不少的技术人员<Verb type="state">懂得</Verb><aspect type="completed">了</aspect>苏联社会主义技术高明</Example>
-			<Example id="64">我们有不少党员把党对党员的基本要求都<Verb type="state">忘</Verb><aspect type="completed">了</aspect>。</Example>
-			<Example id="65">我们有不少的学者和学生要从美国<Verb type="action">回来</Verb>为祖国服务</Example>
-			<Example id="66">我们有不少的研究工作者至今仍然<Verb type="action">带</Verb><aspect type="progressive">着</aspect>教条主义的习气</Example>
-			<Example id="67">我们有不少儿童剧作者只管<Verb type="action">拉</Verb>枪栓扣扳机，至于子弹飞到何处是不操心的</Example>
-			<Example id="68">我们有不少干部<Verb type="relation">是</Verb>通晓业务的。</Example>
-			<Example id="69">我们有不少好的报纸和杂志<Verb type="action">得到</Verb>青年们普遍的欢迎</Example>
-			<Example id="70">我们有不少好东西让外国人白白<Verb type="action">拿走</Verb><aspect type="completed">了</aspect></Example>
-			<Example id="71">我们有不少集体农庄和国营农场<Verb type="action">经营</Verb>得不能令人满意</Example>
-			<Example id="72">我们有不少记者只<Verb type="state">喜欢</Verb>追逐一些零碎新闻</Example>
-			<Example id="73">我们有不少剧作家在艺术上<Verb type="action">进行</Verb>大胆的创新和探索</Example>
-			<Example id="74">我们有不少科学家、教授、医生及其他科学工作者长期不能<Verb type="action">集中</Verb>精力从事教学和科学研究工作</Example>
-			<Example id="75">我们有不少省市区<Verb type="action">建立</Verb><aspect type="completed">了</aspect>知识产权审判庭</Example>
-			<Example id="76">我们有多名队员<Verb type="relation">是</Verb>第一次参加世乒赛</Example>
-			<Example id="77">我们有不少师生在火车上<Verb type="action">帮助</Verb>列车员倒痰盂</Example>
-			<Example id="78">我们有第四野战军在这个区域<Verb type="action">作战</Verb></Example>
-			<Example id="79">我们有耳朵可以<Verb type="action">听</Verb>，有嘴可以问，有脑子可以想和记</Example>
-			<Example id="80">我们有二架飞机被小武器或机枪<Verb type="action">击中</Verb>而负轻伤。</Example>
-			<Example id="81">我们有二十四个人已经<Verb type="action">失去</Verb><aspect type="completed">了</aspect>亲爱的爹娘</Example>
-			<Example id="82">我们有二十五个人<Verb type="action">参加</Verb><aspect type="completed">了</aspect>这课程</Example>
-			<Example id="83">我们有二十一户<Verb type="action">缺</Verb>牛</Example>
-			<Example id="84">我们有个部队在石景山古城到八角地带被<Verb type="action">围困</Verb>三天三夜</Example>
-			<Example id="85">我们有个朋友最近在湖南<Verb type="action">加入</Verb><aspect type="completed">了</aspect>一个MMM金融互助社区。</Example>
-			<Example id="86">我们有个社员<Verb type="relation">叫</Verb>丁有岐，是个老贫农</Example>
-			<Example id="87">我们有个设计人员<Verb type="action">接受</Verb>一件反映农村大丰收的创作任务</Example>
-			<Example id="88">我们有个元器件<Verb type="relation">是</Verb>天津生产的</Example>
-			<Example id="89">我们有个员工<Verb type="relation">叫</Verb>张春青，是技术骨干</Example>
-			<Example id="90">我们有好多队员都<Verb type="relation">是</Verb>在校的高中生</Example>
-			<Example id="91">我们有好几个人<Verb type="action">射</Verb>门成功</Example>
-			<Example id="92">我们有很多出口产品<Verb type="action">获得</Verb><aspect type="completed">了</aspect>欧洲的相关认证</Example>
-			<Example id="93">我们有很多的商业工作同志对农村<Verb type="relation">是</Verb>熟悉的</Example>
-			<Example id="94">我们有八十个侍卫官在这儿<Verb type="action">保卫</Verb>修道院</Example>
-			<Example id="95">我们有二十人明天<Verb type="action">出发</Verb></Example>
-			<Example id="96">我们有个儿子<Verb type="state">在</Verb>前线，暂时也许够了吧</Example>
-			<Example id="97">我们有个老师就<Verb type="relation">是</Verb>个单身女人，一个寡妇，实际上并不算特别老</Example>
-			<Example id="98">我们有个邻居从这儿<Verb type="action">路过</Verb></Example>
-			<Example id="99">我们有个女房客<Verb type="relation">是</Verb>个年轻的格鲁吉亚人</Example>
-			<Example id="100">我们有个人<Verb type="state">住</Verb>在班达圭</Example>
-			<Example id="101">我们有个同事<Verb type="action">死</Verb><aspect type="completed">了</aspect></Example>
-			<Example id="102">我们有个嬷嬷正<Verb type="action">害</Verb><aspect type="progressive">着</aspect>重病</Example>
-			<Example id="103">我们有贵客<Verb type="action">到</Verb><aspect type="completed">了</aspect></Example>
-			<Example id="104">我们有很多事要<Verb type="action">办</Verb></Example>
-			<Example id="105">我们有很好的草药可以<Verb type="action">治</Verb>这些毛病</Example>
-			<Example id="106">我们有几个房间可以<Verb type="action">出租</Verb>，归爱思达经管</Example>
-			<Example id="107">我们有几个人被你们<Verb type="action">捉来</Verb>关在大牢里</Example>
-			<Example id="108">我们有几个人<Verb type="state">考虑</Verb><aspect type="experiential">过</aspect>这个问题</Example>
-			<Example id="109">我们有几个人<Verb type="action">受伤</Verb>，还有几个人死了</Example>
-			<Example id="110">我们有几只煤气灯可以<Verb type="action">用来</Verb>取暖</Example>
-			<Example id="111">我有个亲戚<Verb type="state">有</Verb>病，需要维生素针剂</Example>
-			<Example id="112">我们有个同事<Verb type="action">死</Verb>于芬太尼。</Example>
-			<Example id="113">我有4本书已被<Verb type="action">译成</Verb>法语在法国发行了。</Example>
-			<Example id="114">我有个朋友专<Verb type="action">搞</Verb>电火花切割</Example>
-			<Example id="115">我有68位亲人<Verb type="state">在</Verb>海外，只有父亲的坟墓和我留在国内。</Example>
-			<Example id="116">我有八个儿子、一个女儿和四个孙子<Verb type="action">参军</Verb>。</Example>
-			<Example id="117">我有个爱人<Verb type="state">住</Verb>在拍娜</Example>
-			<Example id="118">我有个表哥在香港<Verb type="action">开</Verb>珠宝行</Example>
-			<Example id="119">我有个不满十四岁的弟弟<Verb type="state">迷恋</Verb>网吧</Example>
-			<Example id="120">我有个弟弟在<Verb type="action">念</Verb>书</Example>
-			<Example id="121">我有个儿子<Verb type="relation">叫</Verb>梁中华，原在郑州市建筑工程学校上学。</Example>
-			<Example id="122">我有个儿子在郊区<Verb type="action">插队</Verb></Example>
-			<Example id="123">我有个高中时的同窗好友在香港<Verb type="action">当</Verb>汽车司机。</Example>
-			<Example id="124">他有5个兄妹<Verb type="state">在</Verb>缅甸。</Example>
-			<Example id="125">我有个哥哥<Verb type="relation">叫</Verb>阿里，他知道的情况比我多</Example>
-			<Example id="126">我有个朋友<Verb type="action">当</Verb><aspect type="completed">了</aspect>几十年小学校长，终身未嫁，独身一人</Example>
-		</PersonalNoun>
+[유자겸어문_존현문_비교연구.html](https://github.com/user-attachments/files/31305030/_._.html)
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>有자 겸어문과 有자 존현문의 비교 연구</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Serif+SC:wght@400;600&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  :root{
+    --ink:#22201b; --ink-soft:#4a463d;
+    --paper:#eeeae0; --paper-deep:#e4dfd0;
+    --celadon:#6b8f7f; --celadon-deep:#4d6d5f;
+    --seal:#a93226; --gold:#b08d57;
+    --line:#cfc8b4;
+    --gyeom:#7F77DD; --gyeom-deep:#5d54c4;
+    --jon:#1D9E75; --jon-deep:#157a5a;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:"Noto Sans KR",sans-serif;line-height:1.7;}
+  .zh{font-family:"Noto Serif SC","Noto Serif KR",serif;}
 
-		<CommonNoun>
-			<Example id="1">诺华有30款药物<Verb type="action">进入</Verb>中国医保目录。</Example>
-			<Example id="2">首批高中毕业生有12人<Verb type="action">考入</Verb>大专院校。</Example>
-			<Example id="3">父亲有阿玉<Verb type="action">跟</Verb><aspect type="progressive">着</aspect></Example>
-			<Example id="4">工程有八亿人民的代表在这里<Verb type="action">施工</Verb>,他们是最幸福最光荣的人。</Example>
-			<Example id="5">书展有103个国家的3000多家公司和13个国际组织<Verb type="action">参加</Verb></Example>
-			<Example id="6">科技有1000多项成果<Verb type="action">荣获</Verb>全国科学大会奖</Example>
-			<Example id="7">农户有1.1万户<Verb type="action">参与</Verb>其中。</Example>
-			<Example id="8">管网有1.8万公里急需<Verb type="action">改造</Verb></Example>
-			<Example id="9">赛季有100多名外籍球员<Verb type="action">出场</Verb></Example>
-			<Example id="10">党有100多个代表团<Verb type="action">出访</Verb>五大洲。</Example>
-			<Example id="11">双方有100多人在交战中<Verb type="action">丧生</Verb>。</Example>
-			<Example id="12">士兵有109人被<Verb type="action">打死</Verb></Example>
-			<Example id="13">小麦有1.5万亩基本<Verb type="state">绝产</Verb></Example>
-			<Example id="14">高峰期有1.8万余名员工同时<Verb type="action">奋战</Verb></Example>
-			<Example id="15">乡村有1.28亿农民<Verb type="action">吃上</Verb><aspect type="completed">了</aspect>自来水</Example>
-			<Example id="16">120多万人口有1/3常年在外<Verb type="action">务工</Verb>、经商。</Example>
-			<Example id="17">45岁以上的黑人有1/3<Verb type="action">表示</Verb>不能支付房租或偿还贷款。</Example>
-			<Example id="18">里面的内容有1/3<Verb type="relation">不是</Verb>傅雷家信而是从傅雷谈音乐、谈艺术的其它作品中摘出来的</Example>	  
-			<Example id="19">马尔代夫全国人口有1/3<Verb type="state">居住</Verb>在首都马累</Example>
-			<Example id="20">癌症有1/3可<Verb type="action">预防</Verb>，1/3可治愈，1/3可缓解</Example>
-			<Example id="21">全美顶尖的人工智能人才有1/3<Verb type="relation">来自</Verb>中国。</Example>
-			<Example id="22">保障房有1/3主体结构基本<Verb type="action">完成</Verb>，1/3进入楼层施工，1/3完成基础施工。</Example>
-			<Example id="23">稻米有1/3左右<Verb type="action">滞留</Verb>在农民手中。</Example>
-			<Example id="24">农民工有1/4以上的人<Verb type="relation">是</Verb>1962—1972年出生的。</Example>
-			<Example id="25">一栋建筑有1/5的住户暖气<Verb type="action">停掉</Verb>，怕是全楼就要凉了。</Example>
-			<Example id="26">脱贫人口有10000多人<Verb type="action">享受</Verb><aspect type="completed">了</aspect>就业免费培训。</Example>
-			<Example id="27">新嫁接的1760棵果树有1000棵<Verb type="action">挂</Verb>果了</Example>
-			<Example id="28">中国当代文学有1000余部作品被<Verb type="action">译成</Verb>英、法、德、意、日、韩、俄、西班牙、葡萄牙等多种文字介绍到国外</Example>
-			<Example id="29">毕业论文有1000字<Verb type="action">没标</Verb>出处</Example>
-			<Example id="30">货车有100多台<Verb type="action">滞留</Verb>在中方口岸</Example>
-			<Example id="31">78户农民有100多头生猪<Verb type="action">卖</Verb>不出去</Example>
-			<Example id="32">苏方有100名功勋运动员<Verb type="action">参加</Verb></Example>
-			<Example id="33">该系统有100余套在全国<Verb type="action">推广</Verb>应用</Example>
-			<Example id="34">此次会议有100余位非公有企业的女企业家<Verb type="action">参加</Verb></Example>
-			<Example id="35">全市公安干警有1017人次<Verb type="action">拒贿</Verb>、拒收礼品1956件,总价值达7万余元,拒吃请2841人次。</Example>
-			<Example id="36">184名干部有102人<Verb type="action">得到</Verb><aspect type="completed">了</aspect>选拔使用。</Example>
-			<Example id="37">本届书展有103个国家的3000多家公司和13个国际组织<Verb type="action">参加</Verb>。</Example>
-			<Example id="38">全系统有103名党员<Verb type="action">受到</Verb>党纪处分，去年减少到36人。</Example>
-			<Example id="39">今年全国各条战线有1059名优秀职工<Verb type="action">荣获</Verb>全国五一劳动奖章。</Example>
-			<Example id="40">全军有105个单位和30名个人被<Verb type="action">评为</Verb>全国、全军文体工作先进集体和先进个人</Example>
-			<Example id="41">新上项目有107个<Verb type="action">实现</Verb>当年投产，当年见效。</Example>
-			<Example id="42">此次飞机108名乘客有107名<Verb type="action">办理</Verb><aspect type="completed">了</aspect>航空人身保险</Example>
-			<Example id="43">全国有1.68万公里的高铁正在<Verb type="action">建设</Verb>中。</Example>
-			<Example id="44">308名代表有108人将先后<Verb type="action">担任</Verb>各个领导职务。</Example>
-			<Example id="45">重庆市173个应急治理项目有109个项目已<Verb type="action">完工</Verb></Example>
-			<Example id="46">伊朗士兵有109人被<Verb type="action">打死</Verb>，11辆坦克被摧毁。</Example>
-			<Example id="47">这批武器有10％—20％随时可能<Verb type="action">爆炸</Verb>。</Example>
-			<Example id="48">农村居民有10％<Verb type="action">购买</Verb>“家庭影院”</Example>
-			<Example id="49">该社的书有10％以上<Verb type="action">开展</Verb><aspect type="completed">了</aspect>对外合作出版和版权贸易</Example>
-			<Example id="50">全国耕地有10％以上<Verb type="action">受到</Verb>不同程度的重金属污染。</Example>
-			<Example id="51">十五大报告有10处<Verb type="action">提到</Verb><aspect type="completed">了</aspect>科技工作。</Example>
-			<Example id="52">吕琦有10个不同业务的微信群可以向企业需要<Verb type="action">提供</Verb>即时服务。</Example>
-			<Example id="53">纺织行业有10个厂需要<Verb type="action">关</Verb>、停、拆、迁，涉及大批劳动力的调整和转移。</Example>
-			<Example id="54">美国海军有10个大企业、10所大学正在大力<Verb type="action">研究</Verb>和发展这个项目，总投资已达2，000万美元。</Example>
-			<Example id="55">7个教师有10个<Verb type="action">获得</Verb>大专以上文凭。</Example>
-			<Example id="56">全村36户人有10户人<Verb type="action">受益</Verb>于文化试点建设</Example>
-			<Example id="57">伊拉克起飞迎战的飞机有10架被<Verb type="action">击落</Verb></Example>
-			<Example id="58">军队系统报送的参评作品和文章有10件<Verb type="action">入选</Verb>，总政治部荣获“五个一工程组织工作奖”</Example>
-			<Example id="59">实习代职的百余名学员有10名<Verb type="action">立</Verb><aspect type="completed">了</aspect>二等功。</Example>
-			<Example id="60">韩国队棋手有10人<Verb type="action">晋级</Verb></Example>
-			<Example id="61">每个职位有10人<Verb type="action">胜出</Verb></Example>
-			<Example id="62">军人有10人<Verb type="action">受伤</Verb>，其中3人重伤。</Example>
-			<Example id="63">中国留学生有12人<Verb type="action">遇难</Verb>，46人受伤住院。</Example>
-			<Example id="64">居民有10亿多人在<Verb type="state">挨饿</Verb></Example>
-			<Example id="65">甘肃矿产储量有10种<Verb type="state">居</Verb>全国首位，34种居全国前5位。</Example>
-			<Example id="66">韩国65岁以上的老人有11.8%想<Verb type="action">参与</Verb>社会活动</Example>
-			<Example id="67">罗周有110部剧作<Verb type="action">搬上</Verb><aspect type="completed">了</aspect>舞台。</Example>
-			<Example id="68">《红楼梦》遗稿有"五六稿"被借阅者<Verb type="action">遗失</Verb></Example>
-			<Example id="69">心内膜弹力纤维增生者有1／4的病人容易<Verb type="action">发生</Verb>血栓。</Example>
-			<Example id="70">这伟大的工程有八亿人民的代表在这里<Verb type="action">施工</Verb></Example>
-			<Example id="71">任先生有柏拉图底才华也<Verb type="action">施展</Verb>不出来的。</Example>
-			<Example id="72">农民工有1/4以上的人<Verb type="relation">是</Verb>1962—1972年出生的。</Example>
-			<Example id="73">比赛结果有百分之八十<Verb type="relation">取决</Verb>于马种的好坏。</Example>
-			<Example id="74">最高级蓝山咖啡有百分之八十五都<Verb type="relation">是</Verb>向日本出口的</Example>
-			<Example id="75">1908级的女校友有百分之六十<Verb type="action">出席</Verb>她们的聚会。</Example>
-			<Example id="76">昨天的报纸有百分之三十的篇幅<Verb type="action">讲</Verb>的是不折不扣的犯罪。</Example>
-			<Example id="77">松露有百分之五十<Verb type="relation">是</Verb>价格相对便宜的沃克吕兹货。</Example>
-			<Example id="78">圣天子有百灵<Verb type="action">呵护</Verb></Example>
-			<Example id="79">日本现代军事密码学有半壁江山<Verb type="relation">是</Verb>你的导师创建的</Example>
-			<Example id="80">人口有10000多人<Verb type="action">享受</Verb><aspect type="completed">了</aspect>就业免费培训。</Example>
-			<Example id="81">一根纸捻有半根<Verb type="action">变成</Verb>灰。</Example>
-			<Example id="82">窗子有半截<Verb type="action">埋</Verb>在雪里，蓝色的曙光隔着窗子照进来。</Example>
-			<Example id="83">人有半数都<Verb type="action">聚集</Verb>在这里</Example>
-			<Example id="84">坎城的警察有半数<Verb type="relation">是</Verb>科西嘉人。</Example>
-			<Example id="85">夏尔的小女孩有半数以上几乎都<Verb type="relation">叫</Verb>这类的名字</Example>
-			<Example id="86">童姥有帮手<Verb type="action">到来</Verb></Example>
-			<Example id="87">这个剧本有比较进步的思想在<Verb type="action">指导</Verb><aspect type="progressive">着</aspect>我</Example>
-			<Example id="88">脑子有病<Verb type="relation">不等于</Verb>就是疯子！</Example>
-			<Example id="89">伤口有玻璃<Verb type="action">进去</Verb><aspect type="completed">了</aspect></Example>
-			<Example id="90">小衣裳有不平正的地方要<Verb type="action">摸</Verb>个二次了。</Example>
-			<Example id="91">露麦罗的母亲有病<Verb type="state">在</Verb>身</Example>
-			<Example id="92">词汇有不少还<Verb type="relation">是</Verb>从古典书里来的。</Example>
-			<Example id="93">妇女有不少事情可<Verb type="action">做</Verb>：看孩子，缝纫，学看护。</Example>
-			<Example id="94">手头有不少事要<Verb type="action">办</Verb></Example>
-			<Example id="95">他的学生有不少<Verb type="relation">是</Verb>今天著名的京剧演员。</Example>
-			<Example id="96">果子有不少<Verb type="relation">是</Verb>由西山与北山来的</Example>
-			<Example id="97">全部管理人员有110人<Verb type="action">落聘</Verb>，到企业基层工作。</Example>
-			<Example id="98">水塔村115户农户有112户<Verb type="action">参与</Verb><aspect type="completed">了</aspect>全国科学大会奖</Example>
-			<Example id="99">少儿艺术团有1000名平均年龄10岁的小演员<Verb type="action">参加</Verb><aspect type="completed">了</aspect>公益林收益权信托计划</Example>
-			<Example id="100">双方有112人<Verb type="action">作证</Verb></Example>
-			<Example id="101">全县科以上干部有114人<Verb type="action">建</Verb><aspect type="completed">了</aspect>私房</Example>
-			<Example id="102">全线187根水泥电线杆有115根<Verb type="action">浸泡</Verb>在洪水之中。</Example>
-			<Example id="103">集体有115间公房<Verb type="state">闲</Verb><aspect type="progressive">着</aspect>Example>
-			<Example id="104">第六版有115位院士<Verb type="action">参与</Verb>前期策划，21位院士担任分册主编。</Example>
-			<Example id="105">参战的干部战士有1163人在火线<Verb type="action">立功</Verb>受奖</Example>
-			<Example id="106">受害者有116名<Verb type="relation">是</Verb>不满5岁的儿童。</Example>
-			<Example id="107">中国乒乓球队有116人<Verb type="relation">成为</Verb>世界冠军</Example>
-			<Example id="108">全国马铃薯有11％已经<Verb type="action">收获</Verb>完毕，柏林专区已收获了30％。</Example>
-			<Example id="109">本届传媒大奖有11部电影<Verb type="action">入围</Verb></Example>
-			<Example id="110">16名检验员有12名都<Verb type="relation">是</Verb>中专文化程度。</Example>
-			<Example id="111">政府工作报告有11处<Verb type="action">提到</Verb>政府如何对待人民群众的问题。</Example>
-			<Example id="112">会议有100多个国家和国际组织的代表在会上<Verb type="action">发</Verb>言</Example>
-			<Example id="113">女篮甲级联赛有11个队<Verb type="action">参加</Verb></Example>
-			<Example id="114">20多个光棍汉有11个<Verb type="action">娶</Verb><aspect type="completed">了</aspect>媳妇。</Example>
-			<Example id="115">这个厂的青年工人有12名<Verb type="action">考进</Verb>高等院校，七名考进电视大学</Example>
-			<Example id="116">全运会比赛项目有11项在萨马兰奇纪念馆周边<Verb type="action">举办</Verb></Example>
-			<Example id="117">销售的奶粉有120个批次被<Verb type="action">检出</Verb>聚氰胺超标或理化指标不合格</Example>
-			<Example id="118">女子单打有120名选手<Verb type="action">参加</Verb>,中国选手6名。</Example>
-			<Example id="119">世界文化遗产国际论坛有120人<Verb type="action">参加</Verb></Example>
-			<Example id="120">175项制度创新举措有123项<Verb type="action">落地</Verb>实施</Example>
-			<Example id="121">1500户农民有1280户<Verb type="action">选择</Verb><aspect type="completed">了</aspect>经济效益好的林果苗</Example>
-			<Example id="122">越军发射的一零五毫米口径的炮弹有12发<Verb type="action">落</Verb>在泰国境内。</Example>
-			<Example id="123">铁路系统有12个大中型项目和单项工程<Verb type="action">建成</Verb>投产</Example>
-			<Example id="124">歌剧节有12个国家的40多位艺术家<Verb type="action">参与</Verb></Example>
-			<Example id="125">15户人有12户<Verb type="action">盖起</Verb><aspect type="completed">了</aspect>瓦房，日子开始过得好了！</Example>
-			<Example id="126">这25人有12人<Verb type="relation">来自</Verb>各方面的推荐</Example>				
-		</CommonNoun>
-	</有자겸어문>
+  nav.sidenav{
+    position:fixed; left:0; top:0; bottom:0; z-index:50; width:172px;
+    background:rgba(238,234,224,0.97); backdrop-filter:blur(6px);
+    border-right:1px solid var(--line);
+    padding:28px 16px; display:flex; flex-direction:column; gap:8px;
+    overflow-y:auto;
+  }
+  nav.sidenav .sidenav-title{
+    font-size:11px; letter-spacing:.12em; color:var(--celadon-deep); text-transform:uppercase;
+    margin-bottom:6px; font-weight:600;
+  }
+  nav.sidenav a{
+    font-size:13px; color:var(--ink-soft); text-decoration:none;
+    padding:9px 12px; border:1px solid var(--line); border-radius:10px;
+    background:var(--paper-deep); transition:all .15s ease; white-space:nowrap;
+  }
+  nav.sidenav a:hover, nav.sidenav a.active{ background:var(--celadon); color:#fff; border-color:var(--celadon-deep); }
+  body{ padding-left:172px; }
+  @media (max-width:720px){
+    nav.sidenav{ position:static; width:auto; flex-direction:row; flex-wrap:wrap; border-right:none; border-bottom:1px solid var(--line); }
+    body{ padding-left:0; }
+    nav.sidenav .sidenav-title{ display:none; }
+  }
 
-	<有자존현문>
-		<PlaceNoun>
-			<Example id="1">树旁有茶花<Verb type="action">盛开</Verb></Example>
-			<Example id="2">家里有个女仆<Verb type="relation">出生</Verb>在圣多明各。</Example>
-			<Example id="3">空中有飞弹<Verb type="action">飞</Verb><aspect type="experiential">过</aspect>，我们之中不少人突然变得特别亢奋。</Example>
-			<Example id="4">不远处有东西在<Verb type="action">移动</Verb></Example>
-			<Example id="5">党里有雄心壮志的人<Verb type="state">有</Verb>向上爬的机会</Example>
-			<Example id="6">街头有斗殴事件<Verb type="action">发生</Verb></Example>
-			<Example id="7">街旁有零落的空心砖的四方房子<Verb type="action">散落</Verb>在夕阳下。</Example>
-			<Example id="8">台前有一些人<Verb type="action">排</Verb><aspect type="progressive">着</aspect>队。</Example>
-			<Example id="9">门底下有一道亮光<Verb type="action">漏</Verb>出来</Example>
-			<Example id="10">东岸有一座城里已经<Verb type="action">建</Verb><aspect type="completed">了</aspect>一个做香水的厂子,专门收辛夷花蕾</Example>
-			<Example id="11">东岸有一位会飞行的戒灵在<Verb type="action">等待</Verb>我们。</Example>
-			<Example id="12">墙下有一条蛇<Verb type="action">盘</Verb><aspect type="progressive">着</aspect>，有面盆那么大一团</Example>
-			<Example id="13">全国有1/5的城市<Verb type="action">做</Verb><aspect type="experiential">过</aspect>划设无车区域的尝试。</Example>
-			<Example id="14">巷里有许多狗<Verb type="action">咬</Verb>，邻家的鸡就扑扑棱棱往树上爬</Example>
-			<Example id="15">军内外有二十多万人<Verb type="action">观看</Verb><aspect type="completed">了</aspect>他们的演出，反映都很好。</Example>
-			<Example id="16">户内有一位老人<Verb type="state">需要</Verb>人照料的，每天超过两个小时的占２７．０％</Example>
-			<Example id="17">寺中有一年老仆妇<Verb type="action">看守</Verb>打扫</Example>
-			<Example id="18">街外有个人正<Verb type="action">跑</Verb>去赶一辆车</Example	  
-			<Example id="19">地区有10%的电商用户在速卖通上<Verb type="action">进行</Verb><aspect type="experiential">过</aspect>交易。</Example>
-			<Example id="20">身边有个伺候她的丫头<Verb type="relation">叫</Verb>入画</Example>
-			<Example id="21">林外有十来个点子<Verb type="action">埋伏</Verb>，给我一阵赶杀，通统逃了！</Example>
-			<Example id="22">天外有一对眼睛在固执地<Verb type="action">盯</Verb><aspect type="progressive">着</aspect>我，打量着我</Example>
-			<Example id="23">台边有女<Verb type="action">来</Verb>窃听，欲学声同意不同。</Example>
-			<Example id="24">乡上有一伙少年常<Verb type="action">欺负</Verb>外来商户</Example>
-			<Example id="25">岸上有个人<Verb type="action">喊叫</Verb>我的名字</Example>
-			<Example id="26">纤维隔下有脊神经根<Verb type="action">通过</Verb></Example>
-			<Example id="27">校里有几个中装和西装的人在<Verb type="action">跳</Verb><aspect type="progressive">着</aspect>，翻着，寻找着</Example>
-			<Example id="28">水内有５４个气动薄膜阀<Verb type="action">控制</Verb></Example>
-			<Example id="29">岸旁有小水鸟吱吱吱吱的<Verb type="action">叫</Verb></Example>
-			<Example id="30">岸旁有五、六百人<Verb type="action">到</Verb>一起收听广播，煤矿工人家属、金鱼池妇女委。</Example>
-			<Example id="31">怀中有一种她从未体验的欢愉和快乐正<Verb type="action">等</Verb><aspect type="progressive">着</aspect>她</Example>
-			<Example id="32">天上有东西<Verb type="action">掉</Verb>下来</Example>
-			<Example id="33">林边有一只兔子在<Verb type="action">跳跃</Verb></Example>
-			<Example id="34">树底有小猫<Verb type="action">戏耍</Verb></Example>
-			<Example id="35">班内有五个战士不会<Verb type="action">瞄准</Verb>和拆卸枪枝</Example>
-			<Example id="36">省外有千余人<Verb type="action">来</Verb>这个乡考察。</Example>
-			<Example id="37">棚内有生锈的铁柱和木柱<Verb type="action">支撑</Verb>楼上，棚顶却破了好几个洞。</Example>
-			<Example id="38">井中有活鱼<Verb type="action">游动</Verb></Example>
-			<Example id="39">片上有轻度骨质<Verb type="action">破坏</Verb></Example>
-			<Example id="40">最前沿有两头大石像<Verb type="action">堵</Verb><aspect type="progressive">着</aspect>，传说是杨六郎捉来守门的野象变成的</Example>
-			<Example id="41">船内有水密舱壁<Verb type="action">分隔</Verb>舱室，并且以加压载法保持行船平稳</Example>
-			<Example id="42">前内方有球型包膜之肿瘤<Verb type="action">压向</Verb>中线侧</Example>
-			<Example id="43">河内有四十多万人先后<Verb type="action">举行</Verb>各种集会和示威游行</Example>
-			<Example id="44">城里有个商人<Verb type="state">病</Verb>得快死了。</Example>
-			<Example id="45">辖内有一条小巷<Verb type="relation">叫</Verb>“卫生巷”</Example>
-			<Example id="46">街南有三家店铺被<Verb type="action">破</Verb>门洗劫</Example>
-			<Example id="47">架旁有工人们<Verb type="action">摆</Verb>起来的小假山，上边有些小草、小花。</Example>
-			<Example id="48">窗旁有一株很大的山茱萸在月华中<Verb type="action">闪</Verb><aspect type="progressive">着</aspect>恬静的光。</Example>
-			<Example id="49">屋下有脚桩<Verb type="action">支</Verb><aspect type="progressive">着</aspect>，临水而立。</Example>
-			<Example id="50">门外有个陌生人<Verb type="action">带来</Verb><aspect type="completed">了</aspect>一条消息。</Example>
-			<Example id="51">舱门口有东西<Verb type="action">动</Verb><aspect type="completed">了</aspect>一下</Example>
-			<Example id="52">当口有敌人<Verb type="action">来</Verb>啦！</Example>
-			<Example id="53">鼻上有几颗珍珠似的汗珠<Verb type="action">滚</Verb>出来<aspect type="completed">了</aspect></Example>
-			<Example id="54">城里有个亲戚就<Verb type="state">住</Verb>在他家隔壁。</Example>
-			<Example id="55">门口有个老师<Verb type="action">看</Verb><aspect type="progressive">着</aspect></Example>
-			<Example id="56">天上有个仙女儿在<Verb type="action">唱歌</Verb></Example>
-			<Example id="57">远空有浓烟在<Verb type="action">舒卷</Verb></Example>
-			<Example id="58">屋里有个女人<Verb type="action">哭</Verb>起来，高羊猜到她就是周金花。</Example>
-			<Example id="59">关下有重兵<Verb type="action">驻守</Verb></Example>
-			<Example id="60">船上有个人正在<Verb type="action">撒</Verb>网捕鱼。</Example>
-			<Example id="61">村里有1/3的村民<Verb type="action">外出</Verb>逃荒要饭。</Example>
-			<Example id="62">镇里有1000多户<Verb type="action">倒下</Verb>。</Example>
-			<Example id="63">地上有个毛茸茸的东西<Verb type="action">闪</Verb><aspect type="experiential">过</aspect></Example>
-			<Example id="64">村里有1000多人<Verb type="action">从事</Verb>家政服务。</Example>
-			<Example id="65">院里有1000多人要<Verb type="action">加班</Verb></Example>
-			<Example id="66">厂里有1000多职工子女<Verb type="state">待业</Verb></Example>
-			<Example id="67">村里有1000头生猪<Verb type="action">出</Verb>栏。</Example>
-			<Example id="68">县里有100多个乡镇在省内外<Verb type="action">设立</Verb><aspect type="completed">了</aspect>经营部、联络点。</Example>
-			<Example id="69">村里有100多户<Verb type="action">买</Verb><aspect type="completed">了</aspect>小汽车！</Example>
-			<Example id="70">身旁有个女人<Verb type="action">站</Verb>起来<aspect type="completed">了</aspect>。</Example>
-			<Example id="71">村里有100多户<Verb type="action">种植</Verb><aspect type="progressive">着</aspect>2000多亩辣椒。</Example>
-			<Example id="72">村里有100多人<Verb type="action">外出</Verb>务工</Example>
-			<Example id="73">村里有100余家<Verb type="action">停火</Verb>歇业。</Example>
-			<Example id="74">村里有5名青年被<Verb type="action">征入</Verb>部队，派往中国大陆前线。</Example>
-			<Example id="75">水中有白鸥在<Verb type="action">嬉戏</Verb></Example>
-			<Example id="76">墙上有个蜘蛛在<Verb type="action">爬动</Verb></Example>
-			<Example id="77">近处有高射炮底孤军<Verb type="action">射击</Verb></Example>
-			<Example id="78">林中有白色牛群在<Verb type="action">吃</Verb>草。</Example>
-			<Example id="79">林中有白烟袅袅<Verb type="action">升起</Verb></Example>
-			<Example id="80">树上有白楂<Verb type="action">指</Verb>路</Example>
-			<Example id="81">家里有保姆<Verb type="action">担</Verb><aspect type="progressive">着</aspect>，回去的早晚没关系。</Example>
-			<Example id="82">海上有暴风雨<Verb type="action">袭来</Verb>，吓得瓦莱丽慌忙从露台上逃走。</Example>
-			<Example id="83">堤上有背枪的人在<Verb type="action">警戒</Verb>，谁也不得过去</Example>
-			<Example id="84">家里有本书里<Verb type="state">有</Verb>一张插图，画的是一片黑暗</Example>
-			<Example id="85">脸上有汗珠在<Verb type="action">流动</Verb></Example>
-			<Example id="86">屋里有更多的古玩<Verb type="action">摆</Verb>在玻璃柜里。</Example>
-			<Example id="87">门外有兵<Verb type="action">把守</Verb>一件反映农村大丰收的创作任务</Example>
-			<Example id="88">场外有兵<Verb type="action">巡逻</Verb>，防备通关节。</Example>
-			<Example id="89">脸上有冰凉的东西一滴滴<Verb type="action">溅</Verb>上来，隐隐生疼</Example>
-			<Example id="90">眼里有不少的眼泪在那儿<Verb type="action">放</Verb>光，但是他的面孔确是显出一种很紧张</Example>
-			<Example id="91">车站出口处有不少开旋的个体户在<Verb type="action">包揽</Verb>生意，条件十分令人垂涎</Example>
-			<Example id="92">窗外有鸽子在<Verb type="action">飞翔</Verb></Example>
-			<Example id="93">街上有不少人亲眼<Verb type="action">目睹</Verb>他出入于延恩巷罗干的家门</Example>
-			<Example id="94">地下有不少人在<Verb type="action">呻吟</Verb>咒骂，偶尔有兵刃相交吆喝之声</Example>
-			<Example id="95">城里有不少王公将军很<Verb type="state">崇拜</Verb>她。</Example>
-			<Example id="96">近处有布谷鸟酣适地<Verb type="action">唱</Verb>起来</Example>
-			<Example id="97">家里有菜刀<Verb type="relation">是</Verb>不是就杀人呀</Example>
-			<Example id="98">家里有残疾孩子<Verb type="action">上</Verb>学，母亲也得跟着去。</Example>
-			<Example id="99">河边有草径可以<Verb type="action">走</Verb></Example>
-			<Example id="100">船上有茶<Verb type="action">喝</Verb>，有点心吃</Example>
-			<Example id="101">全国有1/10的人<Verb type="action">做</Verb><aspect type="experiential">过</aspect>志愿者。</Example>
-			<Example id="102">远处有蝉声<Verb type="action">摇曳</Verb>，花已将开，春已渐浓</Example>
-			<Example id="103">身边有长子夫妇和一个孙女<Verb type="action">陪</Verb><aspect type="progressive">着</aspect></Example>
-			<Example id="104">门前有超乎寻常的一大群非常贫困的人在<Verb type="action">围绕</Verb><aspect type="progressive">着</aspect>火焰跳舞</Example>
-			<Example id="105">近处有车<Verb type="action">开来</Verb></Example>
-			<Example id="106">路上有车辆行人<Verb type="action">越过</Verb>那座人烟稀少的小山。</Example>
-			<Example id="107">门外有车子<Verb type="action">等</Verb>我，见我出来，司机发动了车子。</Example>
-			<Example id="108">楼下有车子<Verb type="action">进来</Verb>。</Example>
-			<Example id="109">家中有成堆的事情要<Verb type="action">做</Verb></Example>
-			<Example id="110">上空有成群的蜻蜓<Verb type="action">盘旋</Verb></Example>
-			<Example id="111">门口有持枪士兵<Verb type="action">守卫</Verb></Example>
-			<Example id="112">地上有虫子<Verb type="action">咬</Verb></Example>
-			<Example id="113">路旁有幢小房子要<Verb type="action">出租</Verb></Example>
-			<Example id="114">窗外有粗大的铁栅栏<Verb type="action">把守</Verb></Example>
-			<Example id="115">远方有村钟<Verb type="action">鸣响</Verb></Example>
-			<Example id="116">天边有大片大片浅灰色的云在<Verb type="action">翻滚</Verb>，气势汹涌</Example>
-			<Example id="117">窗口有大团大团的水汽从里边<Verb type="action">飘</Verb>出来。</Example>
-			<Example id="118">门口有戴缠巾帽的大胡子印度门卫<Verb type="action">把守</Verb>，腰佩彩鞘的印度弯刀。</Example>
-			<Example id="119">窗外有刀光<Verb type="action">闪动</Verb></Example>
-			<Example id="120">不远处有道路清洁管理处的卡车<Verb type="action">负责</Verb>在夜间运走垃圾。</Example>
-			<Example id="121">山上有道泉水<Verb type="action">流</Verb>下来，竞是滚热的。</Example>
-			<Example id="122">车上有德里女王<Verb type="action">去</Verb>替儿子上香祷告的。</Example>
-			<Example id="123">远处有灯火<Verb type="action">闪烁</Verb></Example>
-			<Example id="124">高处有灯泡<Verb type="action">悬</Verb>于其上。</Example>
-			<Example id="125">路上有等车的人<Verb type="action">带</Verb><aspect type="progressive">著</aspect>羊，掮著大袋的马铃薯麻袋</Example>
-			<Example id="126">车上有第三者<Verb type="state">在</Verb></Examp>场				
-		</PlaceNoun>
-		
-		<TimeNoun>
-			<Example id="1">半年内有1.95亿网民<Verb type="action">上网</Verb>时遇到过病毒和木马的攻击</Example>
-			<Example id="2">现在有0.3％的学校在<Verb type="action">使用</Verb></Example>
-			<Example id="3">去年有1.17万人次<Verb type="action">参加</Verb><aspect type="completed">了</aspect>类似劳动</Example>
-			<Example id="4">上半年有1.1万户企业<Verb type="action">享受</Verb><aspect type="completed">了</aspect>实地核查“容缺办理”的服务。</Example>
-			<Example id="5">今年有1.26万名特困企业下岗职工、离退休职工及城镇失业职工<Verb type="action">得到</Verb>救济。</Example>
-			<Example id="6">去年有1.3万名罗兴亚人<Verb type="action">离开</Verb>缅甸</Example>
-			<Example id="7">当天有1.5万件黄金珠宝被<Verb type="action">买</Verb>走。</Example>
-			<Example id="8">当天有1.5万群众<Verb type="action">入场</Verb>应聘，共签订意向性用工协议3620份。</Example>
-			<Example id="9">现在有1.5亿人正在<Verb type="action">经受</Verb><aspect type="progressive">着</aspect>骨关节炎的折磨。</Example>
-			<Example id="10">去年有1.62亿农民工在县域内<Verb type="action">就业</Verb>占全国农民工总数的55%。</Example>
-			<Example id="11">今年有1.7万多名代表团成员、7000多名非政府组织代表和1500名新闻记者<Verb type="action">参加</Verb><aspect type="completed">了</aspect>本次大会。</Example>
-			<Example id="12">今年有1/3的参展商<Verb type="relation">来自</Verb>中国</Example>
-			<Example id="13">今年有1/3的父母给孩子<Verb type="action">买</Verb>玩具的开销不会超过100欧元</Example>
-			<Example id="14">去年有1/3的金银花白白<Verb type="action">荒掉</Verb><aspect type="completed">了</aspect>，产量损失达2000公斤。</Example>
-			<Example id="15">去年有1/3的企业<Verb type="action">停工</Verb>，盈利的企业越来越少。</Example>
-			<Example id="16">现在有1/3的少数族裔儿童<Verb type="state">处于</Verb>贫困当中</Example>
-			<Example id="17">每个工作日有12家科技类企业在这里<Verb type="action">注册</Verb></Example>
-			<Example id="18">现在有1/4的人<Verb type="action">参与</Verb>义务活动，1/3的华沙人当过志愿者。</Example	  
-			<Example id="19">现在有1/6的家长睡前根本不<Verb type="action">给</Verb>孩子讲故事</Example>
-			<Example id="20">未来有10%的农村建设用地<Verb type="action">转化</Verb>为城镇建设用地</Example>
-			<Example id="21">近日有1000多个航班被<Verb type="action">取消</Verb></Example>
-			<Example id="22">现在有1000多个基础设施和社会公益项目正在加快<Verb type="action">实施</Verb>，总投资达540亿元。</Example>
-			<Example id="23">现在有1000多名少年儿童正在<Verb type="action">学习</Verb>弹钢琴。</Example>
-			<Example id="24">今年有1000多名外国记者<Verb type="action">采访</Verb>两会</Example>
-			<Example id="25">今天有1000多人<Verb type="action">举行</Verb>“鲁尔进军”。</Example>
-			<Example id="26">现在有1000多艘船只<Verb type="action">停泊</Verb>在附近河道。</Example>
-			<Example id="27">现在有1000多万人<Verb type="state">处于</Verb>饥饿之中</Example>
-			<Example id="28">年底有1000多座免费<Verb type="action">开放</Verb></Example>
-			<Example id="29">今年有1000名委内瑞拉医生将<Verb type="action">参与</Verb>“深入贫民区”计划。</Example>
-			<Example id="30">上半年有1000名学生<Verb type="action">报读</Verb></Example>
-			<Example id="31">现在有1000只羊要<Verb type="action">走</Verb></Example>
-			<Example id="32">现在有100多个国家的大使都<Verb type="relation">是</Verb>那媛的朋友</Example>
-			<Example id="33">今天有100多个国家的代表<Verb type="action">聚集</Verb>在一起</Example>
-			<Example id="34">现在有100多个将领<Verb type="action">联名</Verb>反对这种错误决定（即戒严）</Example>
-			<Example id="35">今年有100多个中小型茶场<Verb type="action">开始</Verb>用高投入开发优质产品。</Example>
-			<Example id="36">去年有100多户粮食收入<Verb type="action">超</Verb>万斤</Example>
-			<Example id="37">今年有100多棵开始<Verb type="action">挂</Verb>果了。</Example>
-			<Example id="38">现在有100多名3至6岁的儿童在校<Verb type="action">学习</Verb></Example>
-			<Example id="39">去年有100多名青年、团员向党组织<Verb type="action">递交</Verb><aspect type="completed">了</aspect>入党申请书。</Example>
-			<Example id="40">去年有100多名青年因<Verb type="action">拒绝</Verb>去以占区服兵役而被当局送上法庭</Example>
-			<Example id="41">当天有100多名中小学生<Verb type="action">来到</Verb>实践教育基地，挖番薯、野炊</Example>
-			<Example id="42">当天有100多人<Verb type="action">报名</Verb></Example>
-			<Example id="43">今年有100多人<Verb type="action">回来</Verb>种水稻，大家是奔着好政策、好服务来的。</Example>
-			<Example id="44">现在有100多万干部<Verb type="action">结</Verb>对子、认亲戚</Example>
-			<Example id="45">今年有100多万劳务工<Verb type="action">留</Verb>在深圳过年。</Example>
-			<Example id="46">今年有100多万亩农田<Verb type="action">采用</Verb><aspect type="completed">了</aspect>控氮增钾技术。</Example>
-			<Example id="47">去年有100多万难民<Verb type="action">抵达</Verb>德国</Example>
-			<Example id="48">去年有100多万平方米的房屋<Verb type="relation">属于</Verb>这种情况</Example>
-			<Example id="49">解放后有100多万人被<Verb type="action">杀</Verb></Example>
-			<Example id="50">近年来有100多项相关工作<Verb type="action">进</Verb>校园。</Example>
-			<Example id="51">现在有100多座拔廊房<Verb type="action">经过</Verb>保护性改造</Example>
-			<Example id="52">上半年有100家企业<Verb type="action">进行</Verb>现代企业制度改革试点</Example>
-			<Example id="53">今年有100名<Verb type="action">考上</Verb>全国重点和省属重点院校的特困生像蔡皓一样</Example>
-			<Example id="54">今年有100名乡村小学优秀教师<Verb type="action">获</Verb>奖。</Example>
-			<Example id="55">今年有100人可<Verb type="action">享受</Verb>每月300元至400元的津贴</Example>
-			<Example id="56">昨晚有100万人<Verb type="action">聚集</Verb>在时报广场</Example>
-			<Example id="57">当晚有100万元的赌额<Verb type="action">进入</Verb></Example>
-			<Example id="58">去年有100万至200万阿富汗平民直接<Verb type="action">死</Verb>于苏联的军事行动。</Example>
-			<Example id="59">今年有100位加地方教育官员和中小学校长<Verb type="action">访华</Verb></Example>
-			<Example id="60">上半年有1027家企业<Verb type="action">实现</Verb><aspect type="completed">了</aspect>私有化</Example>
-			<Example id="61">今年有102个中央部门向社会<Verb type="action">公开</Verb>决算</Example>
-			<Example id="62">上个月有105人<Verb type="action">开</Verb>小差逃回家乡。</Example>
-			<Example id="63">近年有108幅作品在全国少儿摄影比赛中<Verb type="action">获</Verb>奖</Example>
-			<Example id="64">去年有108位干部家属未能正常<Verb type="action">来</Verb>队探亲。</Example>
-			<Example id="65">中旬有10％的生产任务<Verb type="state">没有</Verb>完成</Example>
-			<Example id="66">现在有10场比赛、总计20余名裁判和运动员<Verb type="state">有</Verb>问题</Example>
-			<Example id="67">上半年有10多个建筑队想<Verb type="action">承包</Verb>市局机关沿街楼和办公楼加高工程</Example>
-			<Example id="68">当天有10多个旅行团<Verb type="action">乘坐</Verb>高铁赴内地</Example>
-			<Example id="69">今年有10多家外资银行已<Verb type="action">获</Verb>港府批准在这里设立分行</Example>
-			<Example id="70">现在有10多间酒店已<Verb type="action">停止</Verb>接受明年6月25日至7月5日期间的新客预订房间</Example>
-			<Example id="71">今年有10多名高校毕业生即将<Verb type="action">种植</Verb><aspect type="progressive">着</aspect>2000多亩辣椒。</Example>
-			<Example id="72">去年有10多万城里人<Verb type="action">来</Verb>村里“耍”过</Example>
-			<Example id="73">今天有10多万市民<Verb type="action">来</Verb>到现场或通过电视直播观看了南昆文化列车艺术团的演出</Example>
-			<Example id="74">现在有10多位小区业主每隔三四天<Verb type="action">来</Verb>充一次电</Example>
-			<Example id="75">去年有10个钢的品种<Verb type="relation">成为</Verb>部优产品</Example>
-			<Example id="76">今年有10个码头机场俱乐部被海军<Verb type="action">通报</Verb>表彰为“十佳”俱乐部</Example>
-			<Example id="77">去年有10个支队级单位被武警总部和地方有关部门<Verb type="relation">评为</Verb>拥政爱民先进集体</Example>
-			<Example id="78">去年有10个重点老区县<Verb type="action">脱贫</Verb></Example>
-			<Example id="79">今天有10件党员领导干部的问题线索要<Verb type="action">整理</Verb>完成</Example>
-			<Example id="80">今晚有10名中国选手<Verb type="action">参加</Verb>8个级别的角逐。</Example>
-			<Example id="81">年前有10人从武汉<Verb type="action">务工</Verb>回来</Example>
-			<Example id="82">今天有10人高兴地<Verb type="action">参加</Verb><aspect type="completed">了</aspect>纪念大会</Example>
-			<Example id="83">今年有10人<Verb type="action">考上</Verb>清华北大</Example>
-			<Example id="84">年间有10人<Verb type="action">死</Verb>于狂犬病。</Example>
-			<Example id="85">去年有10艘大型油轮<Verb type="action">出</Verb>事</Example>
-			<Example id="86">今天有10万名志愿者<Verb type="action">走上</Verb>街头</Example>
-			<Example id="87">现在有10万农民<Verb type="action">参与</Verb>捕虾、贩虾</Example>
-			<Example id="88">今年有10万群众<Verb type="action">赶</Verb>会</Example>
-			<Example id="89">今晚有10万人<Verb type="action">组成</Verb><aspect type="completed">了</aspect>10公里长的光链</Example>
-			<Example id="90">今年有10位个人和一个集体最终<Verb type="action">获</Verb>奖。</Example>
-			<Example id="91">当天有10位患者准备<Verb type="action">采集</Verb>咽拭子进行分泌物实验。</Example>
-			<Example id="92">今年有10亿欧元的现金可<Verb type="action">供</Verb>自由支配</Example>
-			<Example id="93">上半年有10种药品被<Verb type="action">停用</Verb></Example>
-			<Example id="94">今年有110多名职工的家属<Verb type="action">带</Verb><aspect type="progressive">着</aspect>孩子到矿上过年</Example>
-			<Example id="95">上半年有110家外国公司在美国股市<Verb type="action">挂</Verb>牌</Example>
-			<Example id="96">今年有1117家<Verb type="action">受到</Verb><aspect type="completed">了</aspect>表彰</Example>
-			<Example id="97">去年有111名毕业生<Verb type="action">签约</Verb>西部</Example>
-			<Example id="98">今年有1125个城市<Verb type="action">参加</Verb>“无车日”</Example>
-			<Example id="99">去年有116个生产队<Verb type="action">实行</Verb><aspect type="completed">了</aspect>包产到户</Example>
-			<Example id="100">现在有116名病人在深切治疗部<Verb type="action">接受</Verb>治疗。</Example>
-			<Example id="101">2020年有100万美国人<Verb type="action">学习</Verb>汉语。</Example>
-			<Example id="102">1994年有1036．6万名先进青年<Verb type="action">加入</Verb><aspect type="completed">了</aspect>团组织，各条战线团员数量全面增长。</Example>
-			<Example id="103">今天有个同学和我<Verb type="action">换</Verb>做值日。</Example>
-			<Example id="104">昨天有个职员也继续<Verb type="action">使用</Verb>这个错拼的字，替他在飞机票上面写上“d.o.布雷罗”。</Example>
-			<Example id="105">从前有个值班大夫也<Verb type="relation">是</Verb>北海道的，他是函馆人</Example>
-			<Example id="106">从前有个中国小铁匠<Verb type="action">跟</Verb><aspect type="progressive">着</aspect>过那座人烟稀少的小山。</Example>
-			<Example id="107">上午有个重要会议必须<Verb type="action">参加</Verb></Example>
-			<Example id="108">春天有各式各样的鸟<Verb type="action">叫</Verb></Example>
-			<Example id="109">下午有个人要<Verb type="action">来</Verb>看我。</Example>
-			<Example id="110">现在有个人<Verb type="action">走</Verb>过去<aspect type="completed">了</aspect>。</Example>
-			<Example id="111">从前有个商人<Verb type="action">叫</Verb>阿凡提帮他搬一摞盘子到他家</Example>
-			<Example id="112">晚上有个哨兵<Verb type="action">站</Verb>岗，防止走私贩子溜进来。</Example>
-			<Example id="113">从前有个十八岁的第一高校的学生<Verb type="action">留下</Verb>‘日、不可解’这句话后跳潭自杀了。</Example>
-			<Example id="114">晚上有个朋友<Verb type="action">带</Verb><aspect type="progressive">着</aspect>儿子来看我</Example>
-			<Example id="115">昨天有个朋友<Verb type="action">给</Verb>我看了篇东西</Example>
-			<Example id="116">今天有个亲戚<Verb type="action">请</Verb>他们吃饭</Example>
-			<Example id="117">昨天有个人<Verb type="action">来</Verb>，记不起姓名了</Example>
-			<Example id="118">昨天有个人<Verb type="action">来访</Verb>，真怪，就是那个小塞泽纳克。</Example>
-			<Example id="119">从前有个人名<Verb type="relation">叫</Verb>哈里，又称荒原狼。</Example>
-			<Example id="120">下午有个人要<Verb type="action">来</Verb>看我。</Example>
-			<Example id="121">晚上有个客人<Verb type="action">看</Verb><aspect type="completed">了</aspect>那琴。</Example><Example id="122">昨天有个满脸麻皮、丑得可怕的银行老板<Verb type="action">看中</Verb><aspect type="completed">了</aspect>她。</Example>
-			<Example id="123">昨天有个魔术师在剧院<Verb type="action">表演</Verb><aspect type="completed">了</aspect>几种非常新奇的魔术，有趣极了</Example>
-			<Example id="124">昨天有个男人<Verb type="action">来</Verb>电话，说如果我不立刻停止三体问题的研究</Example>
-			<Example id="125">今天有个警察<Verb type="action">到</Verb>店门口围着‘野马’转了三圈</Example>
-			<Example id="126">从前有个公主战乱中<Verb type="action">走失</Verb><aspect type="completed">了</aspect></Example>
-		</TimeNoun>
-	</有자존현문>
-</有자문>
+  header.hero{ padding:72px 20px 56px; text-align:center; }
+  .seal{
+    width:60px;height:60px;margin:0 auto 24px;border:2.5px solid var(--seal);border-radius:6px;
+    display:flex;align-items:center;justify-content:center;color:var(--seal);
+    font-family:"Noto Serif SC",serif;font-size:28px;font-weight:700;transform:rotate(-2deg);
+  }
+  .eyebrow{letter-spacing:.2em;font-size:12px;color:var(--celadon-deep);text-transform:uppercase;margin-bottom:16px;font-weight:500;}
+  h1.paper-title{
+    font-family:"Noto Serif KR",serif;font-weight:700;
+    font-size:clamp(26px,4.4vw,40px); line-height:1.45; margin:0 auto 18px; max-width:760px;
+  }
+  .paper-lede{color:var(--ink-soft);font-size:16px;max-width:560px;margin:0 auto;}
 
+  main{max-width:920px;margin:0 auto;padding:0 20px 100px;}
+  section{padding:64px 0;border-top:1px solid var(--line);scroll-margin-top:70px;}
+
+  .section-tag{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.1em;color:var(--seal);text-transform:uppercase;margin-bottom:12px;font-weight:500;}
+  .stamp{width:18px;height:18px;border:1.5px solid var(--seal);border-radius:3px;display:flex;align-items:center;justify-content:center;font-family:"Noto Serif SC",serif;font-size:11px;color:var(--seal);}
+  h2{font-family:"Noto Serif KR",serif;font-size:23px;margin:0 0 10px;font-weight:600;}
+  .section-desc{color:var(--ink-soft);font-size:14.5px;max-width:640px;margin-bottom:28px;}
+  .card{background:var(--paper-deep);border:1px solid var(--line);border-radius:12px;padding:26px 22px;}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:14px;font-size:12.5px;color:var(--ink-soft);}
+  .legend span{display:flex;align-items:center;gap:6px;}
+  .dot{width:10px;height:10px;border-radius:2px;display:inline-block;}
+  .insight{border-left:3px solid var(--celadon);padding:4px 0 4px 18px;margin-top:24px;color:var(--ink-soft);font-size:14.5px;}
+  .insight strong{color:var(--ink);font-weight:600;}
+
+  table.stat{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:10px;}
+  table.stat th, table.stat td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);}
+  table.stat th{font-weight:600;color:var(--ink-soft);font-size:11.5px;letter-spacing:.03em;text-transform:uppercase;}
+  table.stat td.num{text-align:right;font-variant-numeric:tabular-nums;}
+
+  pre.code{background:#1c1b18;color:#e7e3d6;padding:18px 20px;border-radius:10px;font-size:12.5px;overflow-x:auto;line-height:1.6;font-family:'Courier New',monospace;}
+  pre.code .tag{color:#8fd6c0;}
+  pre.code .attr{color:#e8b769;}
+  pre.code .val{color:#c9a6f0;}
+  pre.code .txt{color:#e7e3d6;}
+
+  .dl-btn{
+    display:inline-flex;align-items:center;gap:8px;margin-top:16px;
+    background:var(--seal);color:#fff;text-decoration:none;font-size:13.5px;font-weight:500;
+    padding:10px 18px;border-radius:8px;transition:opacity .15s;
+  }
+  .dl-btn:hover{opacity:.85;}
+
+  footer{padding:56px 0 24px;text-align:center;color:var(--ink-soft);font-size:12.5px;border-top:1px solid var(--line);}
+</style>
+</head>
+<body>
+
+<nav class="sidenav">
+  <div class="sidenav-title">바로가기</div>
+  <a href="#data">① 원본 데이터</a>
+  <a href="#markup">② 마크업 방법</a>
+  <a href="#verbtype">③ V2 유형 분포</a>
+  <a href="#aspect">④ 동태조사 분포</a>
+  <a href="#tree">⑤ 방사형 트리</a>
+  <a href="#conclusion">⑥ 결론</a>
+</nav>
+
+<header class="hero">
+  <div class="eyebrow">소논문 데이터 시각화</div>
+  <h1 class="paper-title">有자 겸어문과 有자 존현문의 비교 연구</h1>
+  <p class="paper-lede">BCC 코퍼스 504개 예문을 바탕으로, V2 자리 동사의 유형(동작·상태·관계)과 후행 동태조사(了·着·过) 분포를 통해 두 구문의 문법적 차이를 살펴봅니다.</p>
+</header>
+
+<main>
+
+<section id="data">
+  <div class="section-tag"><span class="stamp zh">料</span>원본 데이터</div>
+  <h2>원본 XML 데이터</h2>
+  <p class="section-desc">BCC 코퍼스에서 추출한 504개 예문에 동사 유형과 동태조사를 마크업한 원본 파일입니다.</p>
+  <div class="card">
+    <table class="stat">
+      <thead><tr><th>구문</th><th>하위범주</th><th style="text-align:right;">예문 수</th></tr></thead>
+      <tbody>
+        <tr><td rowspan="2">有자 겸어문</td><td>인칭대사 (PersonalNoun)</td><td class="num">126</td></tr>
+        <tr><td>일반명사 (CommonNoun)</td><td class="num">126</td></tr>
+        <tr><td rowspan="2">有자 존현문</td><td>처소사 (PlaceNoun)</td><td class="num">126</td></tr>
+        <tr><td>시간사 (TimeNoun)</td><td class="num">126</td></tr>
+        <tr><td colspan="2"><strong>전체</strong></td><td class="num"><strong>504</strong></td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:13px;color:var(--ink-soft);margin:16px 0 4px;">파일 미리보기 (앞부분 일부):</p>
+    <pre class="code">&lt;<span class="tag">有자문</span>&gt;
+  &lt;<span class="tag">有자겸어문</span>&gt;
+    &lt;<span class="tag">PersonalNoun</span>&gt;
+      &lt;<span class="tag">Example</span> <span class="attr">id</span>="1"&gt;<span class="txt">他们有26种产品</span>&lt;<span class="tag">Verb</span> <span class="attr">type</span>="<span class="val">action</span>"&gt;<span class="txt">获得</span>&lt;/<span class="tag">Verb</span>&gt;<span class="txt">国、部、市优质产品称号。</span>&lt;/<span class="tag">Example</span>&gt;
+      ...
+    &lt;/<span class="tag">PersonalNoun</span>&gt;
+  &lt;/<span class="tag">有자겸어문</span>&gt;
+&lt;/<span class="tag">有자문</span>&gt;</pre>
+    <a class="dl-btn" download="유자_겸어문과_존현문_비교_연구_테이터_파일_1_.xml" href="data:application/xml;base64,POacieyekOusuD4NCgk85pyJ7J6Q6rK47Ja066y4Pg0KCQk8UGVyc29uYWxOb3VuPg0KCQkJPEV4YW1wbGUgaWQ9IjEiPuS7luS7rOaciTI256eN5Lqn5ZOBPFZlcmIgdHlwZT0iYWN0aW9uIj7ojrflvpc8L1ZlcmI+5Zu944CB6YOo44CB5biC5LyY6LSo5Lqn5ZOB56ew5Y+344CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIiPuS7luaciTIw5aSa5Lu26ZuV5aGRPFZlcmIgdHlwZT0iYWN0aW9uIj7lu7rnq4s8L1ZlcmI+5Zyo6K645aSa5aSn5Lit5Z+O5biC6YeM44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjMiPuS7luS7rOacieS4jeWwkeS9nOWTgTxWZXJiIHR5cGU9ImFjdGlvbiI+6I2j6I63PC9WZXJiPuWFqOWbveeFpOeCreezu+e7n+aWh+iJuuWIm+S9nOKAnOS5jOmHkeWlluKAneOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0Ij7ku5bku6zmnInmiJDnvqTnmoTpo57mnLo8VmVyYiB0eXBlPSJhY3Rpb24iPuWKqeaImDwvVmVyYj7lubbmjIfnpLrlsITlh7vnm67moIfjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNSI+5LuW5Lus5pyJ5aSn6YeP55qE5oqA5pyv6LWE5paZ5Y+v5LulPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LogIM8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYiPuS7luS7rOacieWkp+mHj+eahOearuWtkOS4jeiDvTxWZXJiIHR5cGU9ImFjdGlvbiI+5Yi2PC9WZXJiPumdqTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3Ij7ku5bku6zmnInlpKfniYfmspnojZLlsJrmnKo8VmVyYiB0eXBlPSJhY3Rpb24iPuW8gOWepjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOCI+5LuW5Lus5pyJN+W5tOeahOaXtumXtOadpTxWZXJiIHR5cGU9ImFjdGlvbiI+5YeG5aSHPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5Ij7ku5bku6zmnIk4MO+8heeahOaKgOW3peiDvTxWZXJiIHR5cGU9ImFjdGlvbiI+5o6M5o+hPC9WZXJiPuS6jOWIsOWNgeS6jOenjeaKgOacr+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMCI+5LuW5Lus5pyJ5Y2K5pWw5Lul5LiK55qE5pel5a2QPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7lnKjkuaHkuIvluqbov4fnmoTjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEiPuS7luS7rOacieW+iOWkmuS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7lvZPlnLDmsJHlhbXnu4Tnu4c8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTIiPuS7luS7rOacieW+iOWkmuS6uuWcqOmDqOmYn+mHjDxWZXJiIHR5cGU9ImFjdGlvbiI+5ouF5Lu7PC9WZXJiPjxhc3BlY3QgdHlwZT0iZXhwZXJpZW50aWFsIj7ov4c8L2FzcGVjdD7pooblr7zlt6XkvZw8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTMiPuS7luS7rOacieW+iOWkmuS6uuabvjxWZXJiIHR5cGU9ImFjdGlvbiI+5Ye65bitPC9WZXJiPuaIluWIl+W4rei/h+WOu+W5tOWPrOW8gOeahOWFqOWbveaImOaWl+iLsembhOS7o+ihqOS8muiurjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxNCI+5LuW5Lus5pyJ5Lik5Lu25LqL5q+U6L6D5a655piTPFZlcmIgdHlwZT0iYWN0aW9uIj7lgZo8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE1Ij7ku5bku6zmnInkuKTngrnlgZrms5U8VmVyYiB0eXBlPSJzdGF0ZSI+5YC85b6XPC9WZXJiPuiCr+WumjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxNiI+5LuW5Lus5pyJ5YWt55m+5aSa5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+5qCh5YaF576O5YyW5qCh6Zmi55qE5LmJ5Yqh5Yqz5YqoPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE3Ij7ku5bku6zmnInlha3kuIPkuKrkurrlr7nmiJHku6w8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+ihjDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5py65p6q5omr5bCEPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE4Ij7ku5bku6zmnInlsJHmlbDkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuiAg+i/mzwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5Lit562J5oqA5pyv5a2m5qCh44CB6auY5Lit5ZKM5aSn5a2mPC9FeGFtcGxlCSAgDQoJCQk8RXhhbXBsZSBpZD0iMTkiPuS7luS7rOacieS6lOWNgeWkmuS4quWKs+WKqOWKm+mVv+acnzxWZXJiIHR5cGU9ImFjdGlvbiI+5pCePC9WZXJiPuael+S4muWSjOeVnOeJp+S4mueUn+S6p+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyMCI+5LuW5Lus5pyJ6K645aSa5bm/5ZGKPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7lnKjkuLvkvZPnmoTkvY3nva7nlKjpspzmmI7nmoToibLlvanmj4/lhpnmraPpnaLkurrniak8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjEiPuS7luS7rOacieiuuOWkmuWlveeahOe7j+mqjDxWZXJiIHR5cGU9InN0YXRlIj7lgLzlvpc8L1ZlcmI+5YCf6Ym05ZKM5a2m5LmgPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIyIj7ku5bku6zmnInkuIDnmb7lpJrlkI3ph4fotK3kurrlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPua0u+i3gzwvVmVyYj7lnKjkuqzjgIHmtKXjgIHmsqrjgIHoi488L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjMiPuS7luS7rOacieiuuOWkmueQg+WRmOWcqOasp+a0sjxWZXJiIHR5cGU9ImFjdGlvbiI+5omTPC9WZXJiPueQgzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNCI+5LuW5Lus5pyJ6K645aSa5Lq6PFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7mgIDnnYDmn5Dnp43mlL/msrvliqjmnLrnmoTjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjUiPuS7luS7rOacieS4gOeZvuS6jOWNgeS6lOS6qeS4ieWIhueUsDxWZXJiIHR5cGU9ImFjdGlvbiI+5YeG5aSHPC9WZXJiPuenjeaXqeeouzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNiI+5LuW5Lus5pyJ5LiA6YOo5YiG55u05o6lPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0Pua7h+ahgum7lOi+ueWMuueahOatpuijheaWl+S6iTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNyI+5LuW5Lus5pyJ5LiA6YOo5YiGPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuiHqueUseWFmjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyOCI+5LuW5Lus5pyJ5LiA5Liq5aeR5aW25aW2PFZlcmIgdHlwZT0ic3RhdGUiPuS9jzwvVmVyYj7lnKjmnZHph4zjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjkiPuS7luS7rOacieS4gOS6m+S6ujxWZXJiIHR5cGU9ImFjdGlvbiI+6K6/6ZeuPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7kuK3lm73jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzAiPuS7luS7rOaciTEx5pSv6YOo6ZifPFZlcmIgdHlwZT0iYWN0aW9uIj7ljIXlm7Q8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+6Kej5pS+5Yy644CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjMxIj7ku5bku6zmnInlpJrlsJHkurrmhL/mhI88VmVyYiB0eXBlPSJhY3Rpb24iPuaSpOmAgDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzIiPuS7luS7rOacieWFq+S4quWwj+WnkOS4k+mXqDxWZXJiIHR5cGU9ImFjdGlvbiI+6LSf6LSjPC9WZXJiPuaJk+WNsOWQiOWQjDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMyI+5LuW5Lus5pyJ5LiN5bCR6aG+5a6iPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7lnKjov5nkuKrooZfljLrnmoQ8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzQiPuS7luS7rOacieWlveWkmjxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5Lic5YyX55qE6aOe6KGM5ZGYPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM1Ij7ku5bku6zmnInlvojlpJrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPueGrDwvVmVyYj7kuI3ov4fku47lkITmlrnpnaLljovlnKjlpLTkuIrnmoTngb7pmr48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzYiPuS7luS7rOacieW+iOWkmuaImOWjq+WcqOS7luaJi+mHjDxWZXJiIHR5cGU9ImFjdGlvbiI+6YCBPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7lkb08L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzciPuS7luS7rOacieWHoOS4quS6uuimgeaKiuaIkeS7rOeahOiIuTxWZXJiIHR5cGU9ImFjdGlvbiI+5byE5YiwPC9WZXJiPuWfjumHjOWOuzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzOCI+5LuW5Lus5pyJ5LqU5Liq5Lq65Zyo5Zyw5LiKPFZlcmIgdHlwZT0iYWN0aW9uIj7lnZA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+77yM5Zu05oiQ5ZyG5ZyIPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM5Ij7ku5bku6zmnInnur3nuqbkuIDlrrblvojlpKfnmoTmipXmnLrlhazlj7jnu5nku5bku6w8VmVyYiB0eXBlPSJhY3Rpb24iPuW9kzwvVmVyYj7lj4LosIs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDAiPuS7luS7rOacieiuuOWkmueDpuaBvOmcgOimgTxWZXJiIHR5cGU9InN0YXRlIj7lv5g8L1ZlcmI+5o6JPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQxIj7ku5bku6zmnInorrjlpJrkurrku47kuIvmlrDln448VmVyYiB0eXBlPSJhY3Rpb24iPuWbnuadpTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDIiPuS7luS7rOacieiuuOWkmuS6ujxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+56ys5LiA5qyh55yL5Yiw5paw5Zub5YabPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQzIj7ku5bku6zmnInkuKTkuIfotLXml4/lrZDlvJ/pmo/ml7Y8VmVyYiB0eXBlPSJhY3Rpb24iPuWHhuWkhzwvVmVyYj7mi7/otbfmrablmajmiZPlvIDms5Xlm73nmoTlpKfpl6g8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDQiPuS7luS7rOacieWQhOenjeWQhOagt+eahOeGj+iCieWPr+S7pTxWZXJiIHR5cGU9ImFjdGlvbiI+5YWF6aWlPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0NSI+5LuW5Lus5pyJ5Yeg5Liq5pyL5Y+L5q2j5aW9PFZlcmIgdHlwZT0iYWN0aW9uIj7lm548L1ZlcmI+5LmhPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ2Ij7ku5bku6zmnInlh6DkvY3lj5fov4fmlZnogrLnmoTkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuaLheS7uzwvVmVyYj7pooboopY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDciPuS7luS7rOacieS4gOS4quS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+55yLPC9WZXJiPjxhc3BlY3QgdHlwZT0icHJvZ3Jlc3NpdmUiPuedgDwvYXNwZWN0PuaIkTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0OCI+5LuW5Lus5pyJ5Yeg5Liq5Lq65Zyo5Y6C6YeMPFZlcmIgdHlwZT0iYWN0aW9uIj7pl7k8L1ZlcmI+5LqL77yM6KKr5byA6Zmk5LqGPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ5Ij7miJHku6zmnIkxMDAw5aSa5Lqp5Zyf5ZywPFZlcmIgdHlwZT0iYWN0aW9uIj7np43mpI08L1ZlcmI+6K6i5Y2V6JSs6I+c55u05L6b5LiK5rW3PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUwIj7miJHku6zmnIkxMDXlrrbmmJ/nuqfppa3lupflhajpg6g8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguS4jjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTEiPuaIkeS7rOaciTE1MDDkuIflhpzmsJHlt6XpnIDopoE8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+WfjjwvVmVyYj7liqHlt6U8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTIiPuaIkeS7rOaciTIw5aSa5ZCN5ZGY5belPFZlcmIgdHlwZT0iYWN0aW9uIj7nlZnlrog8L1ZlcmI+572R54K577yM5L+d6K+B5b+r6YCS5oyJ5pe26L6+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUzIj7miJHku6zmnIkyMOWkmuS9jeWMu+aKpOS6uuWRmOWboDxWZXJiIHR5cGU9ImFjdGlvbiI+5Yy75rK7PC9WZXJiPuOAgeeFp+mhvueXheS6uuiAjOWAkuS4izwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1NCI+5oiR5Lus5pyJMjPlkI3nkIPlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPuWHhuWkhzwvVmVyYj7nrKzkuozlnLrmr5TotZs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTUiPuaIkeS7rOaciTI177yF5Lul5LiK55qE55Sf5Lqn6IO95Yqb5ZyoPFZlcmIgdHlwZT0ic3RhdGUiPumXsue9rjwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTYiPuaIkeS7rOaciTMyMOWkmuWQjeW3peS9nOS6uuWRmDxWZXJiIHR5cGU9ImFjdGlvbiI+5omRPC9WZXJiPuWcqOS4gOe6v+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1NyI+5oiR5Lus5pyJMzIw5ZCN5Lya5ZGYPFZlcmIgdHlwZT0iYWN0aW9uIj7mipXouqs8L1ZlcmI+5Lmh5p2R5oyv5YW0PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU4Ij7miJHku6zmnIk05ZCN6L+Q5Yqo5ZGYPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+55Sw5b6E44CB5p+U6YGT5ZKM5Li+6YeN6aG555uu55qE5q+U6LWbPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU5Ij7miJHku6zmnIk05LiH5aSa5a6Y5YW1PFZlcmIgdHlwZT0iYWN0aW9uIj7lpYvmiJg8L1ZlcmI+5Zyo6ZW/5rGf5Lik5bK4PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYwIj7miJHku6zmnIk1MDDlpJrkurrlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPueUuzwvVmVyYj7ogIHomY48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjEiPuaIkeS7rOaciTXkvY3okKXplIDlkZjlkozlkZjlt6U8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5oiQ5Li6PC9WZXJiPuWlpei/kOeBq+eCrOaJizwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2MiI+5oiR5Lus5pyJOTDkuKrlkIzkuos8VmVyYiB0eXBlPSJhY3Rpb24iPuWAkuS4izwvVmVyYj7jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjMiPuaIkeS7rOacieS4jeWwkeeahOaKgOacr+S6uuWRmDxWZXJiIHR5cGU9InN0YXRlIj7mh4Llvpc8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuiLj+iBlOekvuS8muS4u+S5ieaKgOacr+mrmOaYjjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NCI+5oiR5Lus5pyJ5LiN5bCR5YWa5ZGY5oqK5YWa5a+55YWa5ZGY55qE5Z+65pys6KaB5rGC6YO9PFZlcmIgdHlwZT0ic3RhdGUiPuW/mDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjY1Ij7miJHku6zmnInkuI3lsJHnmoTlrabogIXlkozlrabnlJ/opoHku47nvo7lm708VmVyYiB0eXBlPSJhY3Rpb24iPuWbnuadpTwvVmVyYj7kuLrnpZblm73mnI3liqE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjYiPuaIkeS7rOacieS4jeWwkeeahOeglOeptuW3peS9nOiAheiHs+S7iuS7jeeEtjxWZXJiIHR5cGU9ImFjdGlvbiI+5bimPC9WZXJiPjxhc3BlY3QgdHlwZT0icHJvZ3Jlc3NpdmUiPuedgDwvYXNwZWN0PuaVmeadoeS4u+S5ieeahOS5oOawlDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NyI+5oiR5Lus5pyJ5LiN5bCR5YS/56ul5Ymn5L2c6ICF5Y+q566hPFZlcmIgdHlwZT0iYWN0aW9uIj7mi4k8L1ZlcmI+5p6q5qCT5omj5omz5py677yM6Iez5LqO5a2Q5by56aOe5Yiw5L2V5aSE5piv5LiN5pON5b+D55qEPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjY4Ij7miJHku6zmnInkuI3lsJHlubLpg6g8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5pivPC9WZXJiPumAmuaZk+S4muWKoeeahOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2OSI+5oiR5Lus5pyJ5LiN5bCR5aW955qE5oql57q45ZKM5p2C5b+XPFZlcmIgdHlwZT0iYWN0aW9uIj7lvpfliLA8L1ZlcmI+6Z2S5bm05Lus5pmu6YGN55qE5qyi6L+OPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjcwIj7miJHku6zmnInkuI3lsJHlpb3kuJzopb/orqnlpJblm73kurrnmb3nmb08VmVyYiB0eXBlPSJhY3Rpb24iPuaLv+i1sDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjcxIj7miJHku6zmnInkuI3lsJHpm4bkvZPlhpzluoTlkozlm73okKXlhpzlnLo8VmVyYiB0eXBlPSJhY3Rpb24iPue7j+iQpTwvVmVyYj7lvpfkuI3og73ku6Tkurrmu6HmhI88L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzIiPuaIkeS7rOacieS4jeWwkeiusOiAheWPqjxWZXJiIHR5cGU9InN0YXRlIj7llpzmrKI8L1ZlcmI+6L+96YCQ5LiA5Lqb6Zu256KO5paw6Ze7PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjczIj7miJHku6zmnInkuI3lsJHliafkvZzlrrblnKjoibrmnK/kuIo8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+ihjDwvVmVyYj7lpKfog4bnmoTliJvmlrDlkozmjqLntKI8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzQiPuaIkeS7rOacieS4jeWwkeenkeWtpuWutuOAgeaVmeaOiOOAgeWMu+eUn+WPiuWFtuS7luenkeWtpuW3peS9nOiAhemVv+acn+S4jeiDvTxWZXJiIHR5cGU9ImFjdGlvbiI+6ZuG5LitPC9WZXJiPueyvuWKm+S7juS6i+aVmeWtpuWSjOenkeWtpueglOeptuW3peS9nDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3NSI+5oiR5Lus5pyJ5LiN5bCR55yB5biC5Yy6PFZlcmIgdHlwZT0iYWN0aW9uIj7lu7rnq4s8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuefpeivhuS6p+adg+WuoeWIpOW6rTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3NiI+5oiR5Lus5pyJ5aSa5ZCN6Zif5ZGYPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7nrKzkuIDmrKHlj4LliqDkuJbkuZLotZs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzciPuaIkeS7rOacieS4jeWwkeW4iOeUn+WcqOeBq+i9puS4ijxWZXJiIHR5cGU9ImFjdGlvbiI+5biu5YqpPC9WZXJiPuWIl+i9puWRmOWAkueXsOebgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3OCI+5oiR5Lus5pyJ56ys5Zub6YeO5oiY5Yab5Zyo6L+Z5Liq5Yy65Z+fPFZlcmIgdHlwZT0iYWN0aW9uIj7kvZzmiJg8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc5Ij7miJHku6zmnInogLPmnLXlj6/ku6U8VmVyYiB0eXBlPSJhY3Rpb24iPuWQrDwvVmVyYj7vvIzmnInlmLTlj6/ku6Xpl67vvIzmnInohJHlrZDlj6/ku6Xmg7PlkozorrA8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODAiPuaIkeS7rOacieS6jOaetumjnuacuuiiq+Wwj+atpuWZqOaIluacuuaeqjxWZXJiIHR5cGU9ImFjdGlvbiI+5Ye75LitPC9WZXJiPuiAjOi0n+i9u+S8pOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4MSI+5oiR5Lus5pyJ5LqM5Y2B5Zub5Liq5Lq65bey57uPPFZlcmIgdHlwZT0iYWN0aW9uIj7lpLHljrs8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuS6sueIseeahOeIueWomDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4MiI+5oiR5Lus5pyJ5LqM5Y2B5LqU5Liq5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0Pui/meivvueoizwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4MyI+5oiR5Lus5pyJ5LqM5Y2B5LiA5oi3PFZlcmIgdHlwZT0iYWN0aW9uIj7nvLo8L1ZlcmI+54mbPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg0Ij7miJHku6zmnInkuKrpg6jpmJ/lnKjnn7Pmma/lsbHlj6Tln47liLDlhavop5LlnLDluKbooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuWbtOWbsDwvVmVyYj7kuInlpKnkuInlpJw8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODUiPuaIkeS7rOacieS4quaci+WPi+acgOi/keWcqOa5luWNlzxWZXJiIHR5cGU9ImFjdGlvbiI+5Yqg5YWlPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7kuIDkuKpNTU3ph5Hono3kupLliqnnpL7ljLrjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODYiPuaIkeS7rOacieS4quekvuWRmDxWZXJiIHR5cGU9InJlbGF0aW9uIj7lj6s8L1ZlcmI+5LiB5pyJ5bKQ77yM5piv5Liq6ICB6LSr5YacPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg3Ij7miJHku6zmnInkuKrorr7orqHkurrlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPuaOpeWPlzwvVmVyYj7kuIDku7blj43mmKDlhpzmnZHlpKfkuLDmlLbnmoTliJvkvZzku7vliqE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODgiPuaIkeS7rOacieS4quWFg+WZqOS7tjxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5aSp5rSl55Sf5Lqn55qEPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg5Ij7miJHku6zmnInkuKrlkZjlt6U8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPuW8oOaYpemdku+8jOaYr+aKgOacr+mqqOW5sjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MCI+5oiR5Lus5pyJ5aW95aSa6Zif5ZGY6YO9PFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7lnKjmoKHnmoTpq5jkuK3nlJ88L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTEiPuaIkeS7rOacieWlveWHoOS4quS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5bCEPC9WZXJiPumXqOaIkOWKnzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MiI+5oiR5Lus5pyJ5b6I5aSa5Ye65Y+j5Lqn5ZOBPFZlcmIgdHlwZT0iYWN0aW9uIj7ojrflvpc8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0Puasp+a0sueahOebuOWFs+iupOivgTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MyI+5oiR5Lus5pyJ5b6I5aSa55qE5ZWG5Lia5bel5L2c5ZCM5b+X5a+55Yac5p2RPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7nhp/mgonnmoQ8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTQiPuaIkeS7rOacieWFq+WNgeS4quS+jeWNq+WumOWcqOi/meWEvzxWZXJiIHR5cGU9ImFjdGlvbiI+5L+d5Y2rPC9WZXJiPuS/rumBk+mZojwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5NSI+5oiR5Lus5pyJ5LqM5Y2B5Lq65piO5aSpPFZlcmIgdHlwZT0iYWN0aW9uIj7lh7rlj5E8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk2Ij7miJHku6zmnInkuKrlhL/lrZA8VmVyYiB0eXBlPSJzdGF0ZSI+5ZyoPC9WZXJiPuWJjee6v++8jOaaguaXtuS5n+iuuOWkn+S6huWQpzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5NyI+5oiR5Lus5pyJ5Liq6ICB5biI5bCxPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7kuKrljZXouqvlpbPkurrvvIzkuIDkuKrlr6HlpofvvIzlrp7pmYXkuIrlubbkuI3nrpfnibnliKvogIE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTgiPuaIkeS7rOacieS4qumCu+WxheS7jui/meWEvzxWZXJiIHR5cGU9ImFjdGlvbiI+6Lev6L+HPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5OSI+5oiR5Lus5pyJ5Liq5aWz5oi/5a6iPFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7kuKrlubTovbvnmoTmoLzpsoHlkInkuprkuro8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAwIj7miJHku6zmnInkuKrkuro8VmVyYiB0eXBlPSJzdGF0ZSI+5L2PPC9WZXJiPuWcqOePrei+vuWcrTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDEiPuaIkeS7rOacieS4quWQjOS6izxWZXJiIHR5cGU9ImFjdGlvbiI+5q27PC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAyIj7miJHku6zmnInkuKrlrLflrLfmraM8VmVyYiB0eXBlPSJhY3Rpb24iPuWuszwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7ph43nl4U8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAzIj7miJHku6zmnInotLXlrqI8VmVyYiB0eXBlPSJhY3Rpb24iPuWIsDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNCI+5oiR5Lus5pyJ5b6I5aSa5LqL6KaBPFZlcmIgdHlwZT0iYWN0aW9uIj7lip48L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNSI+5oiR5Lus5pyJ5b6I5aW955qE6I2J6I2v5Y+v5LulPFZlcmIgdHlwZT0iYWN0aW9uIj7msrs8L1ZlcmI+6L+Z5Lqb5q+b55eFPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNiI+5oiR5Lus5pyJ5Yeg5Liq5oi/6Ze05Y+v5LulPFZlcmIgdHlwZT0iYWN0aW9uIj7lh7rnp588L1ZlcmI+77yM5b2S54ix5oCd6L6+57uP566hPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNyI+5oiR5Lus5pyJ5Yeg5Liq5Lq66KKr5L2g5LusPFZlcmIgdHlwZT0iYWN0aW9uIj7mjYnmnaU8L1ZlcmI+5YWz5Zyo5aSn54mi6YeMPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwOCI+5oiR5Lus5pyJ5Yeg5Liq5Lq6PFZlcmIgdHlwZT0ic3RhdGUiPuiAg+iZkTwvVmVyYj48YXNwZWN0IHR5cGU9ImV4cGVyaWVudGlhbCI+6L+HPC9hc3BlY3Q+6L+Z5Liq6Zeu6aKYPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwOSI+5oiR5Lus5pyJ5Yeg5Liq5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lj5fkvKQ8L1ZlcmI+77yM6L+Y5pyJ5Yeg5Liq5Lq65q275LqGPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMCI+5oiR5Lus5pyJ5Yeg5Y+q54Wk5rCU54Gv5Y+v5LulPFZlcmIgdHlwZT0iYWN0aW9uIj7nlKjmnaU8L1ZlcmI+5Y+W5pqWPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMSI+5oiR5pyJ5Liq5Lqy5oiaPFZlcmIgdHlwZT0ic3RhdGUiPuaciTwvVmVyYj7nl4XvvIzpnIDopoHnu7TnlJ/ntKDpkojliYI8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEyIj7miJHku6zmnInkuKrlkIzkuos8VmVyYiB0eXBlPSJhY3Rpb24iPuatuzwvVmVyYj7kuo7oiqzlpKrlsLzjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEzIj7miJHmnIk05pys5Lmm5bey6KKrPFZlcmIgdHlwZT0iYWN0aW9uIj7or5HmiJA8L1ZlcmI+5rOV6K+t5Zyo5rOV5Zu95Y+R6KGM5LqG44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNCI+5oiR5pyJ5Liq5pyL5Y+L5LiTPFZlcmIgdHlwZT0iYWN0aW9uIj7mkJ48L1ZlcmI+55S154Gr6Iqx5YiH5YmyPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNSI+5oiR5pyJNjjkvY3kurLkuro8VmVyYiB0eXBlPSJzdGF0ZSI+5ZyoPC9WZXJiPua1t+Wklu+8jOWPquacieeItuS6sueahOWdn+Wik+WSjOaIkeeVmeWcqOWbveWGheOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTYiPuaIkeacieWFq+S4quWEv+WtkOOAgeS4gOS4quWls+WEv+WSjOWbm+S4quWtmeWtkDxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YabPC9WZXJiPuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTciPuaIkeacieS4queIseS6ujxWZXJiIHR5cGU9InN0YXRlIj7kvY88L1ZlcmI+5Zyo5ouN5aicPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExOCI+5oiR5pyJ5Liq6KGo5ZOl5Zyo6aaZ5rivPFZlcmIgdHlwZT0iYWN0aW9uIj7lvIA8L1ZlcmI+54+g5a6d6KGMPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExOSI+5oiR5pyJ5Liq5LiN5ruh5Y2B5Zub5bKB55qE5byf5byfPFZlcmIgdHlwZT0ic3RhdGUiPui/t+aBizwvVmVyYj7nvZHlkKc8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTIwIj7miJHmnInkuKrlvJ/lvJ/lnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuW/tTwvVmVyYj7kuaY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTIxIj7miJHmnInkuKrlhL/lrZA8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPuaigeS4reWNju+8jOWOn+WcqOmDkeW3nuW4guW7uuetkeW3peeoi+WtpuagoeS4iuWtpuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjIiPuaIkeacieS4quWEv+WtkOWcqOmDiuWMujxWZXJiIHR5cGU9ImFjdGlvbiI+5o+S6ZifPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjMiPuaIkeacieS4qumrmOS4reaXtueahOWQjOeql+WlveWPi+WcqOmmmea4rzxWZXJiIHR5cGU9ImFjdGlvbiI+5b2TPC9WZXJiPuaxvei9puWPuOacuuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjQiPuS7luaciTXkuKrlhYTlprk8VmVyYiB0eXBlPSJzdGF0ZSI+5ZyoPC9WZXJiPue8heeUuOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjUiPuaIkeacieS4quWTpeWTpTxWZXJiIHR5cGU9InJlbGF0aW9uIj7lj6s8L1ZlcmI+6Zi/6YeM77yM5LuW55+l6YGT55qE5oOF5Ya15q+U5oiR5aSaPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyNiI+5oiR5pyJ5Liq5pyL5Y+LPFZlcmIgdHlwZT0iYWN0aW9uIj7lvZM8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWHoOWNgeW5tOWwj+WtpuagoemVv++8jOe7iOi6q+acquWrge+8jOeLrOi6q+S4gOS6ujwvRXhhbXBsZT4NCgkJPC9QZXJzb25hbE5vdW4+DQoNCgkJPENvbW1vbk5vdW4+DQoJCQk8RXhhbXBsZSBpZD0iMSI+6K+65Y2O5pyJMzDmrL7oja/niak8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+WFpTwvVmVyYj7kuK3lm73ljLvkv53nm67lvZXjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMiI+6aaW5om56auY5Lit5q+V5Lia55Sf5pyJMTLkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuiAg+WFpTwvVmVyYj7lpKfkuJPpmaLmoKHjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMyI+54i25Lqy5pyJ6Zi/546JPFZlcmIgdHlwZT0iYWN0aW9uIj7ot588L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQiPuW3peeoi+acieWFq+S6v+S6uuawkeeahOS7o+ihqOWcqOi/memHjDxWZXJiIHR5cGU9ImFjdGlvbiI+5pa95belPC9WZXJiPizku5bku6zmmK/mnIDlubjnpo/mnIDlhYnojaPnmoTkurrjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNSI+5Lmm5bGV5pyJMTAz5Liq5Zu95a6255qEMzAwMOWkmuWutuWFrOWPuOWSjDEz5Liq5Zu96ZmF57uE57uHPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYiPuenkeaKgOaciTEwMDDlpJrpobnmiJDmnpw8VmVyYiB0eXBlPSJhY3Rpb24iPuiNo+iOtzwvVmVyYj7lhajlm73np5HlrablpKfkvJrlpZY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNyI+5Yac5oi35pyJMS4x5LiH5oi3PFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LkuI48L1ZlcmI+5YW25Lit44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgiPueuoee9keaciTEuOOS4h+WFrOmHjOaApemcgDxWZXJiIHR5cGU9ImFjdGlvbiI+5pS56YCgPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5Ij7otZvlraPmnIkxMDDlpJrlkI3lpJbnsY3nkIPlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPuWHuuWcujwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAiPuWFmuaciTEwMOWkmuS4quS7o+ihqOWbojxWZXJiIHR5cGU9ImFjdGlvbiI+5Ye66K6/PC9WZXJiPuS6lOWkp+a0suOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMSI+5Y+M5pa55pyJMTAw5aSa5Lq65Zyo5Lqk5oiY5LitPFZlcmIgdHlwZT0iYWN0aW9uIj7kuKfnlJ88L1ZlcmI+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyIj7lo6vlhbXmnIkxMDnkurrooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuaJk+atuzwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTMiPuWwj+m6puaciTEuNeS4h+S6qeWfuuacrDxWZXJiIHR5cGU9InN0YXRlIj7nu53kuqc8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE0Ij7pq5jls7DmnJ/mnIkxLjjkuIfkvZnlkI3lkZjlt6XlkIzml7Y8VmVyYiB0eXBlPSJhY3Rpb24iPuWli+aImDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTUiPuS5oeadkeaciTEuMjjkur/lhpzmsJE8VmVyYiB0eXBlPSJhY3Rpb24iPuWQg+S4ijwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+6Ieq5p2l5rC0PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE2Ij4xMjDlpJrkuIfkurrlj6PmnIkxLzPluLjlubTlnKjlpJY8VmVyYiB0eXBlPSJhY3Rpb24iPuWKoeW3pTwvVmVyYj7jgIHnu4/llYbjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTciPjQ15bKB5Lul5LiK55qE6buR5Lq65pyJMS8zPFZlcmIgdHlwZT0iYWN0aW9uIj7ooajnpLo8L1ZlcmI+5LiN6IO95pSv5LuY5oi/56ef5oiW5YG/6L+Y6LS35qy+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE4Ij7ph4zpnaLnmoTlhoXlrrnmnIkxLzM8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5LiN5pivPC9WZXJiPuWChembt+WutuS/oeiAjOaYr+S7juWChembt+iwiOmfs+S5kOOAgeiwiOiJuuacr+eahOWFtuWug+S9nOWTgeS4reaRmOWHuuadpeeahDwvRXhhbXBsZT4JICANCgkJCTxFeGFtcGxlIGlkPSIxOSI+6ams5bCU5Luj5aSr5YWo5Zu95Lq65Y+j5pyJMS8zPFZlcmIgdHlwZT0ic3RhdGUiPuWxheS9jzwvVmVyYj7lnKjpppbpg73pqazntK88L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjAiPueZjOeXh+aciTEvM+WPrzxWZXJiIHR5cGU9ImFjdGlvbiI+6aKE6ZiyPC9WZXJiPu+8jDEvM+WPr+ayu+aEiO+8jDEvM+WPr+e8k+inozwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyMSI+5YWo576O6aG25bCW55qE5Lq65bel5pm66IO95Lq65omN5pyJMS8zPFZlcmIgdHlwZT0icmVsYXRpb24iPuadpeiHqjwvVmVyYj7kuK3lm73jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjIiPuS/nemanOaIv+aciTEvM+S4u+S9k+e7k+aehOWfuuacrDxWZXJiIHR5cGU9ImFjdGlvbiI+5a6M5oiQPC9WZXJiPu+8jDEvM+i/m+WFpealvOWxguaWveW3pe+8jDEvM+WujOaIkOWfuuehgOaWveW3peOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyMyI+56i757Gz5pyJMS8z5bem5Y+zPFZlcmIgdHlwZT0iYWN0aW9uIj7mu57nlZk8L1ZlcmI+5Zyo5Yac5rCR5omL5Lit44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjI0Ij7lhpzmsJHlt6XmnIkxLzTku6XkuIrnmoTkuro8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5pivPC9WZXJiPjE5NjLigJQxOTcy5bm05Ye655Sf55qE44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjI1Ij7kuIDmoIvlu7rnrZHmnIkxLzXnmoTkvY/miLfmmpbmsJQ8VmVyYiB0eXBlPSJhY3Rpb24iPuWBnOaOiTwvVmVyYj7vvIzmgJXmmK/lhajmpbzlsLHopoHlh4nkuobjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjYiPuiEsei0q+S6uuWPo+aciTEwMDAw5aSa5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7kuqvlj5c8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWwseS4muWFjei0ueWfueiureOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNyI+5paw5auB5o6l55qEMTc2MOajteaenOagkeaciTEwMDDmo7U8VmVyYiB0eXBlPSJhY3Rpb24iPuaMgjwvVmVyYj7mnpzkuoY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjgiPuS4reWbveW9k+S7o+aWh+WtpuaciTEwMDDkvZnpg6jkvZzlk4Hooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuivkeaIkDwvVmVyYj7oi7HjgIHms5XjgIHlvrfjgIHmhI/jgIHml6XjgIHpn6njgIHkv4TjgIHopb/nj63niZnjgIHokaHokITniZnnrYnlpJrnp43mloflrZfku4vnu43liLDlm73lpJY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjkiPuavleS4muiuuuaWh+aciTEwMDDlrZc8VmVyYiB0eXBlPSJhY3Rpb24iPuayoeaghzwvVmVyYj7lh7rlpIQ8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzAiPui0p+i9puaciTEwMOWkmuWPsDxWZXJiIHR5cGU9ImFjdGlvbiI+5rue55WZPC9WZXJiPuWcqOS4reaWueWPo+WyuDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMSI+NzjmiLflhpzmsJHmnIkxMDDlpJrlpLTnlJ/njKo8VmVyYiB0eXBlPSJhY3Rpb24iPuWNljwvVmVyYj7kuI3lh7rljrs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzIiPuiLj+aWueaciTEwMOWQjeWKn+WLi+i/kOWKqOWRmDxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMyI+6K+l57O757uf5pyJMTAw5L2Z5aWX5Zyo5YWo5Zu9PFZlcmIgdHlwZT0iYWN0aW9uIj7mjqjlub88L1ZlcmI+5bqU55SoPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM0Ij7mraTmrKHkvJrorq7mnIkxMDDkvZnkvY3pnZ7lhazmnInkvIHkuJrnmoTlpbPkvIHkuJrlrrY8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguWKoDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzUiPuWFqOW4guWFrOWuieW5suitpuaciTEwMTfkurrmrKE8VmVyYiB0eXBlPSJhY3Rpb24iPuaLkui0vzwvVmVyYj7jgIHmi5LmlLbnpLzlk4ExOTU25Lu2LOaAu+S7t+WAvOi+vjfkuIfkvZnlhYMs5ouS5ZCD6K+3Mjg0MeS6uuasoeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzNiI+MTg05ZCN5bmy6YOo5pyJMTAy5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lvpfliLA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PumAieaLlOS9v+eUqOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzNyI+5pys5bGK5Lmm5bGV5pyJMTAz5Liq5Zu95a6255qEMzAwMOWkmuWutuWFrOWPuOWSjDEz5Liq5Zu96ZmF57uE57uHPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM4Ij7lhajns7vnu5/mnIkxMDPlkI3lhZrlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPuWPl+WIsDwvVmVyYj7lhZrnuqrlpITliIbvvIzljrvlubTlh4/lsJHliLAzNuS6uuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzOSI+5LuK5bm05YWo5Zu95ZCE5p2h5oiY57q/5pyJMTA1OeWQjeS8mOengOiBjOW3pTxWZXJiIHR5cGU9ImFjdGlvbiI+6I2j6I63PC9WZXJiPuWFqOWbveS6lOS4gOWKs+WKqOWllueroOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MCI+5YWo5Yab5pyJMTA15Liq5Y2V5L2N5ZKMMzDlkI3kuKrkurrooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuivhOS4ujwvVmVyYj7lhajlm73jgIHlhajlhpvmlofkvZPlt6XkvZzlhYjov5vpm4bkvZPlkozlhYjov5vkuKrkuro8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDEiPuaWsOS4iumhueebruaciTEwN+S4qjxWZXJiIHR5cGU9ImFjdGlvbiI+5a6e546wPC9WZXJiPuW9k+W5tOaKleS6p++8jOW9k+W5tOingeaViOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MiI+5q2k5qyh6aOe5py6MTA45ZCN5LmY5a6i5pyJMTA35ZCNPFZlcmIgdHlwZT0iYWN0aW9uIj7lip7nkIY8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuiIquepuuS6uui6q+S/nemZqTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MyI+5YWo5Zu95pyJMS42OOS4h+WFrOmHjOeahOmrmOmTgeato+WcqDxWZXJiIHR5cGU9ImFjdGlvbiI+5bu66K6+PC9WZXJiPuS4reOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0NCI+MzA45ZCN5Luj6KGo5pyJMTA45Lq65bCG5YWI5ZCOPFZlcmIgdHlwZT0iYWN0aW9uIj7mi4Xku7s8L1ZlcmI+5ZCE5Liq6aKG5a+86IGM5Yqh44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ1Ij7ph43luobluIIxNzPkuKrlupTmgKXmsrvnkIbpobnnm67mnIkxMDnkuKrpobnnm67lt7I8VmVyYiB0eXBlPSJhY3Rpb24iPuWujOW3pTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDYiPuS8iuacl+Wjq+WFteaciTEwOeS6uuiiqzxWZXJiIHR5cGU9ImFjdGlvbiI+5omT5q27PC9WZXJiPu+8jDEx6L6G5Z2m5YWL6KKr5pGn5q+B44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ3Ij7ov5nmibnmrablmajmnIkxMO+8heKAlDIw77yF6ZqP5pe25Y+v6IO9PFZlcmIgdHlwZT0iYWN0aW9uIj7niIbngrg8L1ZlcmI+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ4Ij7lhpzmnZHlsYXmsJHmnIkxMO+8hTxWZXJiIHR5cGU9ImFjdGlvbiI+6LSt5LmwPC9WZXJiPuKAnOWutuW6reW9semZouKAnTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0OSI+6K+l56S+55qE5Lmm5pyJMTDvvIXku6XkuIo8VmVyYiB0eXBlPSJhY3Rpb24iPuW8gOWxlTwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5a+55aSW5ZCI5L2c5Ye654mI5ZKM54mI5p2D6LS45piTPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUwIj7lhajlm73ogJXlnLDmnIkxMO+8heS7peS4ijxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+X5YiwPC9WZXJiPuS4jeWQjOeoi+W6pueahOmHjemHkeWxnuaxoeafk+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1MSI+5Y2B5LqU5aSn5oql5ZGK5pyJMTDlpIQ8VmVyYiB0eXBlPSJhY3Rpb24iPuaPkOWIsDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+56eR5oqA5bel5L2c44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUyIj7lkJXnkKbmnIkxMOS4quS4jeWQjOS4muWKoeeahOW+ruS/oee+pOWPr+S7peWQkeS8geS4mumcgOimgTxWZXJiIHR5cGU9ImFjdGlvbiI+5o+Q5L6bPC9WZXJiPuWNs+aXtuacjeWKoeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1MyI+57q657uH6KGM5Lia5pyJMTDkuKrljoLpnIDopoE8VmVyYiB0eXBlPSJhY3Rpb24iPuWFszwvVmVyYj7jgIHlgZzjgIHmi4bjgIHov4HvvIzmtonlj4rlpKfmibnlirPliqjlipvnmoTosIPmlbTlkozovaznp7vjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTQiPue+juWbvea1t+WGm+aciTEw5Liq5aSn5LyB5Lia44CBMTDmiYDlpKflrabmraPlnKjlpKflips8VmVyYiB0eXBlPSJhY3Rpb24iPueglOeptjwvVmVyYj7lkozlj5HlsZXov5nkuKrpobnnm67vvIzmgLvmipXotYTlt7Lovr4y77yMMDAw5LiH576O5YWD44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU1Ij435Liq5pWZ5biI5pyJMTDkuKo8VmVyYiB0eXBlPSJhY3Rpb24iPuiOt+W+lzwvVmVyYj7lpKfkuJPku6XkuIrmloflh63jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTYiPuWFqOadkTM25oi35Lq65pyJMTDmiLfkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWPl+ebijwvVmVyYj7kuo7mlofljJbor5Xngrnlu7rorr48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTciPuS8iuaLieWFi+i1t+mjnui/juaImOeahOmjnuacuuaciTEw5p626KKrPFZlcmIgdHlwZT0iYWN0aW9uIj7lh7vokL08L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU4Ij7lhpvpmJ/ns7vnu5/miqXpgIHnmoTlj4Lor4TkvZzlk4Hlkozmlofnq6DmnIkxMOS7tjxWZXJiIHR5cGU9ImFjdGlvbiI+5YWl6YCJPC9WZXJiPu+8jOaAu+aUv+ayu+mDqOiNo+iOt+KAnOS6lOS4quS4gOW3peeoi+e7hOe7h+W3peS9nOWlluKAnTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1OSI+5a6e5Lmg5Luj6IGM55qE55m+5L2Z5ZCN5a2m5ZGY5pyJMTDlkI08VmVyYiB0eXBlPSJhY3Rpb24iPuerizwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5LqM562J5Yqf44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYwIj7pn6nlm73pmJ/mo4vmiYvmnIkxMOS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5pmL57qnPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2MSI+5q+P5Liq6IGM5L2N5pyJMTDkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuiDnOWHujwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjIiPuWGm+S6uuaciTEw5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lj5fkvKQ8L1ZlcmI+77yM5YW25LitM+S6uumHjeS8pOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2MyI+5Lit5Zu955WZ5a2m55Sf5pyJMTLkuro8VmVyYiB0eXBlPSJhY3Rpb24iPumBh+mavjwvVmVyYj7vvIw0NuS6uuWPl+S8pOS9j+mZouOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NCI+5bGF5rCR5pyJMTDkur/lpJrkurrlnKg8VmVyYiB0eXBlPSJzdGF0ZSI+5oyo6aW/PC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NSI+55SY6IKD55+/5Lqn5YKo6YeP5pyJMTDnp408VmVyYiB0eXBlPSJzdGF0ZSI+5bGFPC9WZXJiPuWFqOWbvemmluS9je+8jDM056eN5bGF5YWo5Zu95YmNNeS9jeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NiI+6Z+p5Zu9NjXlsoHku6XkuIrnmoTogIHkurrmnIkxMS44JeaDszxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5LiOPC9WZXJiPuekvuS8mua0u+WKqDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NyI+572X5ZGo5pyJMTEw6YOo5Ymn5L2cPFZlcmIgdHlwZT0iYWN0aW9uIj7mkKzkuIo8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuiInuWPsOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2OCI+44CK57qi5qW85qKm44CL6YGX56i/5pyJIuS6lOWFreeovyLooqvlgJ/pmIXogIU8VmVyYiB0eXBlPSJhY3Rpb24iPumBl+WksTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjkiPuW/g+WGheiGnOW8ueWKm+e6pOe7tOWinueUn+iAheaciTHvvI8055qE55eF5Lq65a655piTPFZlcmIgdHlwZT0iYWN0aW9uIj7lj5HnlJ88L1ZlcmI+6KGA5qCT44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjcwIj7ov5nkvJ/lpKfnmoTlt6XnqIvmnInlhavkur/kurrmsJHnmoTku6PooajlnKjov5nph4w8VmVyYiB0eXBlPSJhY3Rpb24iPuaWveW3pTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzEiPuS7u+WFiOeUn+acieafj+aLieWbvuW6leaJjeWNjuS5nzxWZXJiIHR5cGU9ImFjdGlvbiI+5pa95bGVPC9WZXJiPuS4jeWHuuadpeeahOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MiI+5Yac5rCR5bel5pyJMS805Lul5LiK55qE5Lq6PFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj4xOTYy4oCUMTk3MuW5tOWHuueUn+eahOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MyI+5q+U6LWb57uT5p6c5pyJ55m+5YiG5LmL5YWr5Y2BPFZlcmIgdHlwZT0icmVsYXRpb24iPuWPluWGszwvVmVyYj7kuo7pqaznp43nmoTlpb3lnY/jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzQiPuacgOmrmOe6p+iTneWxseWSluWVoeacieeZvuWIhuS5i+WFq+WNgeS6lOmDvTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5ZCR5pel5pys5Ye65Y+j55qEPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc1Ij4xOTA457qn55qE5aWz5qCh5Y+L5pyJ55m+5YiG5LmL5YWt5Y2BPFZlcmIgdHlwZT0iYWN0aW9uIj7lh7rluK08L1ZlcmI+5aW55Lus55qE6IGa5Lya44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc2Ij7mmKjlpKnnmoTmiqXnurjmnInnmb7liIbkuYvkuInljYHnmoTnr4fluYU8VmVyYiB0eXBlPSJhY3Rpb24iPuiusjwvVmVyYj7nmoTmmK/kuI3mipjkuI3miaPnmoTniq/nvarjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzciPuadvumcsuacieeZvuWIhuS5i+S6lOWNgTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5Lu35qC855u45a+55L6/5a6c55qE5rKD5YWL5ZCV5YW56LSn44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc4Ij7lnKPlpKnlrZDmnInnmb7ngbU8VmVyYiB0eXBlPSJhY3Rpb24iPuWRteaKpDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzkiPuaXpeacrOeOsOS7o+WGm+S6i+WvhueggeWtpuacieWNiuWjgeaxn+WxsTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5L2g55qE5a+85biI5Yib5bu655qEPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgwIj7kurrlj6PmnIkxMDAwMOWkmuS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5Lqr5Y+XPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7lsLHkuJrlhY3otLnln7norq3jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODEiPuS4gOaguee6uOaNu+acieWNiuaguTxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+Y5oiQPC9WZXJiPueBsOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4MiI+56qX5a2Q5pyJ5Y2K5oiqPFZlcmIgdHlwZT0iYWN0aW9uIj7ln4s8L1ZlcmI+5Zyo6Zuq6YeM77yM6JOd6Imy55qE5puZ5YWJ6ZqU552A56qX5a2Q54Wn6L+b5p2l44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgzIj7kurrmnInljYrmlbDpg708VmVyYiB0eXBlPSJhY3Rpb24iPuiBmumbhjwvVmVyYj7lnKjov5nph4w8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODQiPuWdjuWfjueahOitpuWvn+acieWNiuaVsDxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+56eR6KW/5ZiJ5Lq644CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg1Ij7lpI/lsJTnmoTlsI/lpbPlranmnInljYrmlbDku6XkuIrlh6DkuY7pg708VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPui/meexu+eahOWQjeWtlzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4NiI+56ul5ael5pyJ5biu5omLPFZlcmIgdHlwZT0iYWN0aW9uIj7liLDmnaU8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg3Ij7ov5nkuKrliafmnKzmnInmr5TovoPov5vmraXnmoTmgJ3mg7PlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuaMh+WvvDwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7miJE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODgiPuiEkeWtkOacieeXhTxWZXJiIHR5cGU9InJlbGF0aW9uIj7kuI3nrYnkuo48L1ZlcmI+5bCx5piv55av5a2Q77yBPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg5Ij7kvKTlj6PmnInnjrvnkoM8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+WOuzwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkwIj7lsI/ooaPoo7PmnInkuI3lubPmraPnmoTlnLDmlrnopoE8VmVyYiB0eXBlPSJhY3Rpb24iPuaRuDwvVmVyYj7kuKrkuozmrKHkuobjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTEiPumcsum6pue9l+eahOavjeS6suacieeXhTxWZXJiIHR5cGU9InN0YXRlIj7lnKg8L1ZlcmI+6LqrPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkyIj7or43msYfmnInkuI3lsJHov5g8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5pivPC9WZXJiPuS7juWPpOWFuOS5pumHjOadpeeahOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MyI+5aaH5aWz5pyJ5LiN5bCR5LqL5oOF5Y+vPFZlcmIgdHlwZT0iYWN0aW9uIj7lgZo8L1ZlcmI+77ya55yL5a2p5a2Q77yM57yd57qr77yM5a2m55yL5oqk44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk0Ij7miYvlpLTmnInkuI3lsJHkuovopoE8VmVyYiB0eXBlPSJhY3Rpb24iPuWKnjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTUiPuS7lueahOWtpueUn+acieS4jeWwkTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5LuK5aSp6JGX5ZCN55qE5Lqs5Ymn5ryU5ZGY44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk2Ij7mnpzlrZDmnInkuI3lsJE8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5pivPC9WZXJiPueUseilv+WxseS4juWMl+WxseadpeeahDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5NyI+5YWo6YOo566h55CG5Lq65ZGY5pyJMTEw5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7okL3ogZg8L1ZlcmI+77yM5Yiw5LyB5Lia5Z+65bGC5bel5L2c44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk4Ij7msLTloZTmnZExMTXmiLflhpzmiLfmnIkxMTLmiLc8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguS4jjwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5YWo5Zu956eR5a2m5aSn5Lya5aWWPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk5Ij7lsJHlhL/oibrmnK/lm6LmnIkxMDAw5ZCN5bmz5Z2H5bm06b6EMTDlsoHnmoTlsI/mvJTlkZg8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguWKoDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5YWs55uK5p6X5pS255uK5p2D5L+h5omY6K6h5YiSPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwMCI+5Y+M5pa55pyJMTEy5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7kvZzor4E8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwMSI+5YWo5Y6/56eR5Lul5LiK5bmy6YOo5pyJMTE05Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lu7o8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuengeaIvzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDIiPuWFqOe6vzE4N+agueawtOazpeeUtee6v+adhuaciTExNeaguTxWZXJiIHR5cGU9ImFjdGlvbiI+5rW45rOhPC9WZXJiPuWcqOa0quawtOS5i+S4reOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDMiPumbhuS9k+aciTExNemXtOWFrOaIvzxWZXJiIHR5cGU9InN0YXRlIj7pl7I8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+RXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDQiPuesrOWFreeJiOaciTExNeS9jemZouWjqzxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5LiOPC9WZXJiPuWJjeacn+etluWIku+8jDIx5L2N6Zmi5aOr5ouF5Lu75YiG5YaM5Li757yW44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNSI+5Y+C5oiY55qE5bmy6YOo5oiY5aOr5pyJMTE2M+S6uuWcqOeBq+e6vzxWZXJiIHR5cGU9ImFjdGlvbiI+56uL5YqfPC9WZXJiPuWPl+WlljwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDYiPuWPl+Wus+iAheaciTExNuWQjTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5LiN5ruhNeWygeeahOWEv+erpeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDciPuS4reWbveS5kuS5k+eQg+mYn+aciTExNuS6ujxWZXJiIHR5cGU9InJlbGF0aW9uIj7miJDkuLo8L1ZlcmI+5LiW55WM5Yag5YabPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwOCI+5YWo5Zu96ams6ZOD6Jav5pyJMTHvvIXlt7Lnu488VmVyYiB0eXBlPSJhY3Rpb24iPuaUtuiOtzwvVmVyYj7lrozmr5XvvIzmn4/mnpfkuJPljLrlt7LmlLbojrfkuoYzMO+8heOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDkiPuacrOWxiuS8oOWqkuWkp+WlluaciTEx6YOo55S15b2xPFZlcmIgdHlwZT0iYWN0aW9uIj7lhaXlm7Q8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMCI+MTblkI3mo4DpqozlkZjmnIkxMuWQjemDvTxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5Lit5LiT5paH5YyW56iL5bqm44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMSI+5pS/5bqc5bel5L2c5oql5ZGK5pyJMTHlpIQ8VmVyYiB0eXBlPSJhY3Rpb24iPuaPkOWIsDwvVmVyYj7mlL/lupzlpoLkvZXlr7nlvoXkurrmsJHnvqTkvJfnmoTpl67popjjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEyIj7kvJrorq7mnIkxMDDlpJrkuKrlm73lrrblkozlm73pmYXnu4Tnu4fnmoTku6PooajlnKjkvJrkuIo8VmVyYiB0eXBlPSJhY3Rpb24iPuWPkTwvVmVyYj7oqIA8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEzIj7lpbPnr67nlLLnuqfogZTotZvmnIkxMeS4qumYnzxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTQiPjIw5aSa5Liq5YWJ5qON5rGJ5pyJMTHkuKo8VmVyYiB0eXBlPSJhY3Rpb24iPuWotjwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5aqz5aaH44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNSI+6L+Z5Liq5Y6C55qE6Z2S5bm05bel5Lq65pyJMTLlkI08VmVyYiB0eXBlPSJhY3Rpb24iPuiAg+i/mzwvVmVyYj7pq5jnrYnpmaLmoKHvvIzkuIPlkI3ogIPov5vnlLXop4blpKflraY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE2Ij7lhajov5DkvJrmr5TotZvpobnnm67mnIkxMemhueWcqOiQqOmprOWFsOWlh+e6quW/temmhuWRqOi+uTxWZXJiIHR5cGU9ImFjdGlvbiI+5Li+5YqePC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTciPumUgOWUrueahOWltueyieaciTEyMOS4quaJueasoeiiqzxWZXJiIHR5cGU9ImFjdGlvbiI+5qOA5Ye6PC9WZXJiPuiBmuawsOiDuui2heagh+aIlueQhuWMluaMh+agh+S4jeWQiOagvDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTgiPuWls+WtkOWNleaJk+aciTEyMOWQjemAieaJizxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPizkuK3lm73pgInmiYs25ZCN44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExOSI+5LiW55WM5paH5YyW6YGX5Lqn5Zu96ZmF6K665Z2b5pyJMTIw5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMCI+MTc16aG55Yi25bqm5Yib5paw5Li+5o6q5pyJMTIz6aG5PFZlcmIgdHlwZT0iYWN0aW9uIj7okL3lnLA8L1ZlcmI+5a6e5pa9PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMSI+MTUwMOaIt+WGnOawkeaciTEyODDmiLc8VmVyYiB0eXBlPSJhY3Rpb24iPumAieaLqTwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+57uP5rWO5pWI55uK5aW955qE5p6X5p6c6IuXPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMiI+6LaK5Yab5Y+R5bCE55qE5LiA6Zu25LqU5q+r57Gz5Y+j5b6E55qE54Ku5by55pyJMTLlj5E8VmVyYiB0eXBlPSJhY3Rpb24iPuiQvTwvVmVyYj7lnKjms7Dlm73looPlhoXjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTIzIj7pk4Hot6/ns7vnu5/mnIkxMuS4quWkp+S4reWei+mhueebruWSjOWNlemhueW3peeoizxWZXJiIHR5cGU9ImFjdGlvbiI+5bu65oiQPC9WZXJiPuaKleS6pzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjQiPuatjOWJp+iKguaciTEy5Liq5Zu95a6255qENDDlpJrkvY3oibrmnK/lrrY8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguS4jjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTI1Ij4xNeaIt+S6uuaciTEy5oi3PFZlcmIgdHlwZT0iYWN0aW9uIj7nm5botbc8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PueTpuaIv++8jOaXpeWtkOW8gOWni+i/h+W+l+WlveS6hu+8gTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjYiPui/mTI15Lq65pyJMTLkuro8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5p2l6IeqPC9WZXJiPuWQhOaWuemdoueahOaOqOiNkDwvRXhhbXBsZT4JCQkJDQoJCTwvQ29tbW9uTm91bj4NCgk8L+acieyekOqyuOyWtOusuD4NCg0KCTzmnInsnpDsobTtmITrrLg+DQoJCTxQbGFjZU5vdW4+DQoJCQk8RXhhbXBsZSBpZD0iMSI+5qCR5peB5pyJ6Iy26IqxPFZlcmIgdHlwZT0iYWN0aW9uIj7nm5vlvIA8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIiPuWutumHjOacieS4quWls+S7hjxWZXJiIHR5cGU9InJlbGF0aW9uIj7lh7rnlJ88L1ZlcmI+5Zyo5Zyj5aSa5piO5ZCE44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjMiPuepuuS4reaciemjnuW8uTxWZXJiIHR5cGU9ImFjdGlvbiI+6aOePC9WZXJiPjxhc3BlY3QgdHlwZT0iZXhwZXJpZW50aWFsIj7ov4c8L2FzcGVjdD7vvIzmiJHku6zkuYvkuK3kuI3lsJHkurrnqoHnhLblj5jlvpfnibnliKvkuqLlpYvjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNCI+5LiN6L+c5aSE5pyJ5Lic6KW/5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7np7vliqg8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUiPuWFmumHjOaciembhOW/g+WjruW/l+eahOS6ujxWZXJiIHR5cGU9InN0YXRlIj7mnIk8L1ZlcmI+5ZCR5LiK54is55qE5py65LyaPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYiPuihl+WktOacieaWl+autOS6i+S7tjxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+R55SfPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3Ij7ooZfml4HmnInpm7bokL3nmoTnqbrlv4PnoJbnmoTlm5vmlrnmiL/lrZA8VmVyYiB0eXBlPSJhY3Rpb24iPuaVo+iQvTwvVmVyYj7lnKjlpJXpmLPkuIvjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOCI+5Y+w5YmN5pyJ5LiA5Lqb5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7mjpI8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+6Zif44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkiPumXqOW6leS4i+acieS4gOmBk+S6ruWFiTxWZXJiIHR5cGU9ImFjdGlvbiI+5ryPPC9WZXJiPuWHuuadpTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMCI+5Lic5bK45pyJ5LiA5bqn5Z+O6YeM5bey57uPPFZlcmIgdHlwZT0iYWN0aW9uIj7lu7o8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuS4gOS4quWBmummmeawtOeahOWOguWtkCzkuJPpl6jmlLbovpvlpLfoirHolb48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEiPuS4nOWyuOacieS4gOS9jeS8mumjnuihjOeahOaIkueBteWcqDxWZXJiIHR5cGU9ImFjdGlvbiI+562J5b6FPC9WZXJiPuaIkeS7rOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMiI+5aKZ5LiL5pyJ5LiA5p2h6JuHPFZlcmIgdHlwZT0iYWN0aW9uIj7nm5g8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+77yM5pyJ6Z2i55uG6YKj5LmI5aSn5LiA5ZuiPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEzIj7lhajlm73mnIkxLzXnmoTln47luII8VmVyYiB0eXBlPSJhY3Rpb24iPuWBmjwvVmVyYj48YXNwZWN0IHR5cGU9ImV4cGVyaWVudGlhbCI+6L+HPC9hc3BlY3Q+5YiS6K6+5peg6L2m5Yy65Z+f55qE5bCd6K+V44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE0Ij7lt7fph4zmnInorrjlpJrni5c8VmVyYiB0eXBlPSJhY3Rpb24iPuWSrDwvVmVyYj7vvIzpgrvlrrbnmoTpuKHlsLHmiZHmiZHmo7Hmo7HlvoDmoJHkuIrniKw8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTUiPuWGm+WGheWkluacieS6jOWNgeWkmuS4h+S6ujxWZXJiIHR5cGU9ImFjdGlvbiI+6KeC55yLPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7ku5bku6znmoTmvJTlh7rvvIzlj43mmKDpg73lvojlpb3jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTYiPuaIt+WGheacieS4gOS9jeiAgeS6ujxWZXJiIHR5cGU9InN0YXRlIj7pnIDopoE8L1ZlcmI+5Lq654Wn5paZ55qE77yM5q+P5aSp6LaF6L+H5Lik5Liq5bCP5pe255qE5Y2g77yS77yX77yO77yQ77yFPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE3Ij7lr7rkuK3mnInkuIDlubTogIHku4blpoc8VmVyYiB0eXBlPSJhY3Rpb24iPueci+WuiDwvVmVyYj7miZPmias8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTgiPuihl+WkluacieS4quS6uuatozxWZXJiIHR5cGU9ImFjdGlvbiI+6LeRPC9WZXJiPuWOu+i1tuS4gOi+hui9pjwvRXhhbXBsZQkgIA0KCQkJPEV4YW1wbGUgaWQ9IjE5Ij7lnLDljLrmnIkxMCXnmoTnlLXllYbnlKjmiLflnKjpgJ/ljZbpgJrkuIo8VmVyYiB0eXBlPSJhY3Rpb24iPui/m+ihjDwvVmVyYj48YXNwZWN0IHR5cGU9ImV4cGVyaWVudGlhbCI+6L+HPC9hc3BlY3Q+5Lqk5piT44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIwIj7ouqvovrnmnInkuKrkvLrlgJnlpbnnmoTkuKvlpLQ8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPuWFpeeUuzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyMSI+5p6X5aSW5pyJ5Y2B5p2l5Liq54K55a2QPFZlcmIgdHlwZT0iYWN0aW9uIj7ln4vkvI88L1ZlcmI+77yM57uZ5oiR5LiA6Zi16LW25p2A77yM6YCa57uf6YCD5LqG77yBPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIyIj7lpKnlpJbmnInkuIDlr7nnnLznnZvlnKjlm7rmiaflnLA8VmVyYiB0eXBlPSJhY3Rpb24iPuebrzwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7miJHvvIzmiZPph4/nnYDmiJE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjMiPuWPsOi+ueacieWlszxWZXJiIHR5cGU9ImFjdGlvbiI+5p2lPC9WZXJiPueqg+WQrO+8jOassuWtpuWjsOWQjOaEj+S4jeWQjOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNCI+5Lmh5LiK5pyJ5LiA5LyZ5bCR5bm05bi4PFZlcmIgdHlwZT0iYWN0aW9uIj7mrLrotJ88L1ZlcmI+5aSW5p2l5ZWG5oi3PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjI1Ij7lsrjkuIrmnInkuKrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWWiuWPqzwvVmVyYj7miJHnmoTlkI3lrZc8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjYiPue6pOe7tOmalOS4i+acieiEiuelnue7j+aguTxWZXJiIHR5cGU9ImFjdGlvbiI+6YCa6L+HPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyNyI+5qCh6YeM5pyJ5Yeg5Liq5Lit6KOF5ZKM6KW/6KOF55qE5Lq65ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7ot7M8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+77yM57+7552A77yM5a+75om+552APC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjI4Ij7msLTlhoXmnInvvJXvvJTkuKrmsJTliqjoloTohpzpmIA8VmVyYiB0eXBlPSJhY3Rpb24iPuaOp+WItjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjkiPuWyuOaXgeacieWwj+awtOm4n+WQseWQseWQseWQseeahDxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+rPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMCI+5bK45peB5pyJ5LqU44CB5YWt55m+5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7liLA8L1ZlcmI+5LiA6LW35pS25ZCs5bm/5pKt77yM54Wk55+/5bel5Lq65a625bGe44CB6YeR6bG85rGg5aaH5aWz5aeU44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjMxIj7mgIDkuK3mnInkuIDnp43lpbnku47mnKrkvZPpqoznmoTmrKLmhInlkozlv6vkuZDmraM8VmVyYiB0eXBlPSJhY3Rpb24iPuetiTwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7lpbk8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzIiPuWkqeS4iuacieS4nOilvzxWZXJiIHR5cGU9ImFjdGlvbiI+5o6JPC9WZXJiPuS4i+adpTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMyI+5p6X6L655pyJ5LiA5Y+q5YWU5a2Q5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7ot7Pot4M8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM0Ij7moJHlupXmnInlsI/njKs8VmVyYiB0eXBlPSJhY3Rpb24iPuaIj+iAjTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzUiPuePreWGheacieS6lOS4quaImOWjq+S4jeS8mjxWZXJiIHR5cGU9ImFjdGlvbiI+556E5YeGPC9WZXJiPuWSjOaLhuWNuOaequaenTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzNiI+55yB5aSW5pyJ5Y2D5L2Z5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7mnaU8L1ZlcmI+6L+Z5Liq5Lmh6ICD5a+f44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM3Ij7mo5rlhoXmnInnlJ/plIjnmoTpk4Hmn7HlkozmnKjmn7E8VmVyYiB0eXBlPSJhY3Rpb24iPuaUr+aSkTwvVmVyYj7mpbzkuIrvvIzmo5rpobbljbTnoLTkuoblpb3lh6DkuKrmtJ7jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzgiPuS6leS4reaciea0u+mxvDxWZXJiIHR5cGU9ImFjdGlvbiI+5ri45YqoPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzOSI+54mH5LiK5pyJ6L275bqm6aqo6LSoPFZlcmIgdHlwZT0iYWN0aW9uIj7noLTlnY88L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQwIj7mnIDliY3msr/mnInkuKTlpLTlpKfnn7Plg488VmVyYiB0eXBlPSJhY3Rpb24iPuWgtTwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7vvIzkvKDor7TmmK/mnajlha3pg47mjYnmnaXlrojpl6jnmoTph47osaHlj5jmiJDnmoQ8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDEiPuiIueWGheacieawtOWvhuiIseWjgTxWZXJiIHR5cGU9ImFjdGlvbiI+5YiG6ZqUPC9WZXJiPuiIseWupO+8jOW5tuS4lOS7peWKoOWOi+i9veazleS/neaMgeihjOiIueW5s+eoszwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MiI+5YmN5YaF5pa55pyJ55CD5Z6L5YyF6Iac5LmL6IK/55ikPFZlcmIgdHlwZT0iYWN0aW9uIj7ljovlkJE8L1ZlcmI+5Lit57q/5L6nPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQzIj7msrPlhoXmnInlm5vljYHlpJrkuIfkurrlhYjlkI48VmVyYiB0eXBlPSJhY3Rpb24iPuS4vuihjDwvVmVyYj7lkITnp43pm4bkvJrlkoznpLrlqIHmuLjooYw8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDQiPuWfjumHjOacieS4quWVhuS6ujxWZXJiIHR5cGU9InN0YXRlIj7nl4U8L1ZlcmI+5b6X5b+r5q275LqG44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ1Ij7ovpblhoXmnInkuIDmnaHlsI/lt7c8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPuKAnOWNq+eUn+W3t+KAnTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0NiI+6KGX5Y2X5pyJ5LiJ5a625bqX6ZO66KKrPFZlcmIgdHlwZT0iYWN0aW9uIj7noLQ8L1ZlcmI+6Zeo5rSX5YqrPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ3Ij7mnrbml4HmnInlt6Xkurrku6w8VmVyYiB0eXBlPSJhY3Rpb24iPuaRhjwvVmVyYj7otbfmnaXnmoTlsI/lgYflsbHvvIzkuIrovrnmnInkupvlsI/ojYnjgIHlsI/oirHjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDgiPueql+aXgeacieS4gOagquW+iOWkp+eahOWxseiMseiQuOWcqOaciOWNjuS4rTxWZXJiIHR5cGU9ImFjdGlvbiI+6ZeqPC9WZXJiPjxhc3BlY3QgdHlwZT0icHJvZ3Jlc3NpdmUiPuedgDwvYXNwZWN0PuaBrOmdmeeahOWFieOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0OSI+5bGL5LiL5pyJ6ISa5qGpPFZlcmIgdHlwZT0iYWN0aW9uIj7mlK88L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+77yM5Li05rC06ICM56uL44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUwIj7pl6jlpJbmnInkuKrpmYznlJ/kuro8VmVyYiB0eXBlPSJhY3Rpb24iPuW4puadpTwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5LiA5p2h5raI5oGv44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUxIj7oiLHpl6jlj6PmnInkuJzopb88VmVyYiB0eXBlPSJhY3Rpb24iPuWKqDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+5LiA5LiLPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUyIj7lvZPlj6PmnInmlYzkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuadpTwvVmVyYj7llabvvIE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTMiPum8u+S4iuacieWHoOmil+ePjeePoOS8vOeahOaxl+ePoDxWZXJiIHR5cGU9ImFjdGlvbiI+5ruaPC9WZXJiPuWHuuadpTxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTQiPuWfjumHjOacieS4quS6suaImuWwsTxWZXJiIHR5cGU9InN0YXRlIj7kvY88L1ZlcmI+5Zyo5LuW5a626ZqU5aOB44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU1Ij7pl6jlj6PmnInkuKrogIHluIg8VmVyYiB0eXBlPSJhY3Rpb24iPuecizwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTYiPuWkqeS4iuacieS4quS7meWls+WEv+WcqDxWZXJiIHR5cGU9ImFjdGlvbiI+5ZSx5q2MPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1NyI+6L+c56m65pyJ5rWT54Of5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7oiJLljbc8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU4Ij7lsYvph4zmnInkuKrlpbPkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWTrTwvVmVyYj7otbfmnaXvvIzpq5jnvornjJzliLDlpbnlsLHmmK/lkajph5HoirHjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTkiPuWFs+S4i+aciemHjeWFtTxWZXJiIHR5cGU9ImFjdGlvbiI+6am75a6IPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2MCI+6Ii55LiK5pyJ5Liq5Lq65q2j5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7mkpI8L1ZlcmI+572R5o2V6bG844CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYxIj7mnZHph4zmnIkxLzPnmoTmnZHmsJE8VmVyYiB0eXBlPSJhY3Rpb24iPuWkluWHujwvVmVyYj7pgIPojZLopoHppa3jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjIiPumVh+mHjOaciTEwMDDlpJrmiLc8VmVyYiB0eXBlPSJhY3Rpb24iPuWAkuS4izwvVmVyYj7jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjMiPuWcsOS4iuacieS4quavm+iMuOiMuOeahOS4nOilvzxWZXJiIHR5cGU9ImFjdGlvbiI+6ZeqPC9WZXJiPjxhc3BlY3QgdHlwZT0iZXhwZXJpZW50aWFsIj7ov4c8L2FzcGVjdD48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjQiPuadkemHjOaciTEwMDDlpJrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuS7juS6izwvVmVyYj7lrrbmlL/mnI3liqHjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjUiPumZoumHjOaciTEwMDDlpJrkurropoE8VmVyYiB0eXBlPSJhY3Rpb24iPuWKoOePrTwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjYiPuWOgumHjOaciTEwMDDlpJrogYzlt6XlrZDlpbM8VmVyYiB0eXBlPSJzdGF0ZSI+5b6F5LiaPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NyI+5p2R6YeM5pyJMTAwMOWktOeUn+eMqjxWZXJiIHR5cGU9ImFjdGlvbiI+5Ye6PC9WZXJiPuagj+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2OCI+5Y6/6YeM5pyJMTAw5aSa5Liq5Lmh6ZWH5Zyo55yB5YaF5aSWPFZlcmIgdHlwZT0iYWN0aW9uIj7orr7nq4s8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0Pue7j+iQpemDqOOAgeiBlOe7nOeCueOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2OSI+5p2R6YeM5pyJMTAw5aSa5oi3PFZlcmIgdHlwZT0iYWN0aW9uIj7kubA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWwj+axvei9pu+8gTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MCI+6Lqr5peB5pyJ5Liq5aWz5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7nq5k8L1ZlcmI+6LW35p2lPGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MSI+5p2R6YeM5pyJMTAw5aSa5oi3PFZlcmIgdHlwZT0iYWN0aW9uIj7np43mpI08L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+MjAwMOWkmuS6qei+o+akkuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MiI+5p2R6YeM5pyJMTAw5aSa5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lpJblh7o8L1ZlcmI+5Yqh5belPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjczIj7mnZHph4zmnIkxMDDkvZnlrrY8VmVyYiB0eXBlPSJhY3Rpb24iPuWBnOeBqzwvVmVyYj7mrYfkuJrjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzQiPuadkemHjOaciTXlkI3pnZLlubTooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuW+geWFpTwvVmVyYj7pg6jpmJ/vvIzmtL7lvoDkuK3lm73lpKfpmYbliY3nur/jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzUiPuawtOS4reacieeZvem4peWcqDxWZXJiIHR5cGU9ImFjdGlvbiI+5ayJ5oiPPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3NiI+5aKZ5LiK5pyJ5Liq6JyY6Jub5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7niKzliqg8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc3Ij7ov5HlpITmnInpq5jlsITngq7lupXlraTlhps8VmVyYiB0eXBlPSJhY3Rpb24iPuWwhOWHuzwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzgiPuael+S4reacieeZveiJsueJm+e+pOWcqDxWZXJiIHR5cGU9ImFjdGlvbiI+5ZCDPC9WZXJiPuiNieOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3OSI+5p6X5Lit5pyJ55m954Of6KKF6KKFPFZlcmIgdHlwZT0iYWN0aW9uIj7ljYfotbc8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgwIj7moJHkuIrmnInnmb3mpYI8VmVyYiB0eXBlPSJhY3Rpb24iPuaMhzwvVmVyYj7ot688L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODEiPuWutumHjOacieS/neWnhjxWZXJiIHR5cGU9ImFjdGlvbiI+5ouFPC9WZXJiPjxhc3BlY3QgdHlwZT0icHJvZ3Jlc3NpdmUiPuedgDwvYXNwZWN0Pu+8jOWbnuWOu+eahOaXqeaZmuayoeWFs+ezu+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4MiI+5rW35LiK5pyJ5pq06aOO6ZuoPFZlcmIgdHlwZT0iYWN0aW9uIj7ooq3mnaU8L1ZlcmI+77yM5ZCT5b6X55Om6I6x5Li95oWM5b+Z5LuO6Zyy5Y+w5LiK6YCD6LWw44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgzIj7loKTkuIrmnInog4zmnqrnmoTkurrlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuitpuaIkjwvVmVyYj7vvIzosIHkuZ/kuI3lvpfov4fljrs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODQiPuWutumHjOacieacrOS5pumHjDxWZXJiIHR5cGU9InN0YXRlIj7mnIk8L1ZlcmI+5LiA5byg5o+S5Zu+77yM55S755qE5piv5LiA54mH6buR5pqXPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg1Ij7ohLjkuIrmnInmsZfnj6DlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPua1geWKqDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODYiPuWxi+mHjOacieabtOWkmueahOWPpOeOqTxWZXJiIHR5cGU9ImFjdGlvbiI+5pGGPC9WZXJiPuWcqOeOu+eSg+afnOmHjOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4NyI+6Zeo5aSW5pyJ5YW1PFZlcmIgdHlwZT0iYWN0aW9uIj7miorlrog8L1ZlcmI+5LiA5Lu25Y+N5pig5Yac5p2R5aSn5Liw5pS255qE5Yib5L2c5Lu75YqhPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg4Ij7lnLrlpJbmnInlhbU8VmVyYiB0eXBlPSJhY3Rpb24iPuW3oemAuzwvVmVyYj7vvIzpmLLlpIfpgJrlhbPoioLjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODkiPuiEuOS4iuacieWGsOWHieeahOS4nOilv+S4gOa7tOa7tDxWZXJiIHR5cGU9ImFjdGlvbiI+5rqFPC9WZXJiPuS4iuadpe+8jOmakOmakOeUn+eWvDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MCI+55y86YeM5pyJ5LiN5bCR55qE55y85rOq5Zyo6YKj5YS/PFZlcmIgdHlwZT0iYWN0aW9uIj7mlL48L1ZlcmI+5YWJ77yM5L2G5piv5LuW55qE6Z2i5a2U56Gu5piv5pi+5Ye65LiA56eN5b6I57Sn5bygPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkxIj7ovabnq5nlh7rlj6PlpITmnInkuI3lsJHlvIDml4vnmoTkuKrkvZPmiLflnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuWMheaPvTwvVmVyYj7nlJ/mhI/vvIzmnaHku7bljYHliIbku6TkurrlnoLmto48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTIiPueql+Wkluaciem4veWtkOWcqDxWZXJiIHR5cGU9ImFjdGlvbiI+6aOe57+UPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MyI+6KGX5LiK5pyJ5LiN5bCR5Lq65Lqy55y8PFZlcmIgdHlwZT0iYWN0aW9uIj7nm67nnbk8L1ZlcmI+5LuW5Ye65YWl5LqO5bu25oGp5be3572X5bmy55qE5a626ZeoPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk0Ij7lnLDkuIvmnInkuI3lsJHkurrlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuWRu+WQnzwvVmVyYj7lkpLpqoLvvIzlgbblsJTmnInlhbXliIPnm7jkuqTlkIbllp3kuYvlo7A8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTUiPuWfjumHjOacieS4jeWwkeeOi+WFrOWwhuWGm+W+iDxWZXJiIHR5cGU9InN0YXRlIj7ltIfmi5w8L1ZlcmI+5aW544CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk2Ij7ov5HlpITmnInluIPosLfpuJ/phaPpgILlnLA8VmVyYiB0eXBlPSJhY3Rpb24iPuWUsTwvVmVyYj7otbfmnaU8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTciPuWutumHjOacieiPnOWIgDxWZXJiIHR5cGU9InJlbGF0aW9uIj7mmK88L1ZlcmI+5LiN5piv5bCx5p2A5Lq65ZGAPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk4Ij7lrrbph4zmnInmrovnlr7lranlrZA8VmVyYiB0eXBlPSJhY3Rpb24iPuS4ijwvVmVyYj7lrabvvIzmr43kurLkuZ/lvpfot5/nnYDljrvjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTkiPuays+i+ueacieiNieW+hOWPr+S7pTxWZXJiIHR5cGU9ImFjdGlvbiI+6LWwPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDAiPuiIueS4iuacieiMtjxWZXJiIHR5cGU9ImFjdGlvbiI+5ZadPC9WZXJiPu+8jOacieeCueW/g+WQgzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDEiPuWFqOWbveaciTEvMTDnmoTkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWBmjwvVmVyYj48YXNwZWN0IHR5cGU9ImV4cGVyaWVudGlhbCI+6L+HPC9hc3BlY3Q+5b+X5oS/6ICF44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwMiI+6L+c5aSE5pyJ6J2J5aOwPFZlcmIgdHlwZT0iYWN0aW9uIj7mkYfmm7M8L1ZlcmI+77yM6Iqx5bey5bCG5byA77yM5pil5bey5riQ5rWTPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwMyI+6Lqr6L655pyJ6ZW/5a2Q5aSr5aaH5ZKM5LiA5Liq5a2Z5aWzPFZlcmIgdHlwZT0iYWN0aW9uIj7pmao8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNCI+6Zeo5YmN5pyJ6LaF5LmO5a+75bi455qE5LiA5aSn576k6Z2e5bi46LSr5Zuw55qE5Lq65ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7lm7Tnu5U8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+54Gr54Sw6Lez6IiePC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNSI+6L+R5aSE5pyJ6L2mPFZlcmIgdHlwZT0iYWN0aW9uIj7lvIDmnaU8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNiI+6Lev5LiK5pyJ6L2m6L6G6KGM5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7otorov4c8L1ZlcmI+6YKj5bqn5Lq654Of56iA5bCR55qE5bCP5bGx44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwNyI+6Zeo5aSW5pyJ6L2m5a2QPFZlcmIgdHlwZT0iYWN0aW9uIj7nrYk8L1ZlcmI+5oiR77yM6KeB5oiR5Ye65p2l77yM5Y+45py65Y+R5Yqo5LqG6L2m5a2Q44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwOCI+5qW85LiL5pyJ6L2m5a2QPFZlcmIgdHlwZT0iYWN0aW9uIj7ov5vmnaU8L1ZlcmI+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwOSI+5a625Lit5pyJ5oiQ5aCG55qE5LqL5oOF6KaBPFZlcmIgdHlwZT0iYWN0aW9uIj7lgZo8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMCI+5LiK56m65pyJ5oiQ576k55qE6Jy76JyTPFZlcmIgdHlwZT0iYWN0aW9uIj7nm5jml4s8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMSI+6Zeo5Y+j5pyJ5oyB5p6q5aOr5YW1PFZlcmIgdHlwZT0iYWN0aW9uIj7lrojljas8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMiI+5Zyw5LiK5pyJ6Jmr5a2QPFZlcmIgdHlwZT0iYWN0aW9uIj7lkqw8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExMyI+6Lev5peB5pyJ5bmi5bCP5oi/5a2Q6KaBPFZlcmIgdHlwZT0iYWN0aW9uIj7lh7rnp588L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNCI+56qX5aSW5pyJ57KX5aSn55qE6ZOB5qCF5qCPPFZlcmIgdHlwZT0iYWN0aW9uIj7miorlrog8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNSI+6L+c5pa55pyJ5p2R6ZKfPFZlcmIgdHlwZT0iYWN0aW9uIj7puKPlk408L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNiI+5aSp6L655pyJ5aSn54mH5aSn54mH5rWF54Gw6Imy55qE5LqR5ZyoPFZlcmIgdHlwZT0iYWN0aW9uIj7nv7vmu5o8L1ZlcmI+77yM5rCU5Yq/5rG55raMPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExNyI+56qX5Y+j5pyJ5aSn5Zui5aSn5Zui55qE5rC05rG95LuO6YeM6L65PFZlcmIgdHlwZT0iYWN0aW9uIj7po5g8L1ZlcmI+5Ye65p2l44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExOCI+6Zeo5Y+j5pyJ5oi057yg5be+5bi955qE5aSn6IOh5a2Q5Y2w5bqm6Zeo5Y2rPFZlcmIgdHlwZT0iYWN0aW9uIj7miorlrog8L1ZlcmI+77yM6IWw5L2p5b2p6Z6Y55qE5Y2w5bqm5byv5YiA44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjExOSI+56qX5aSW5pyJ5YiA5YWJPFZlcmIgdHlwZT0iYWN0aW9uIj7pl6rliqg8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMCI+5LiN6L+c5aSE5pyJ6YGT6Lev5riF5rSB566h55CG5aSE55qE5Y2h6L2mPFZlcmIgdHlwZT0iYWN0aW9uIj7otJ/otKM8L1ZlcmI+5Zyo5aSc6Ze06L+Q6LWw5Z6D5Zy+44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMSI+5bGx5LiK5pyJ6YGT5rOJ5rC0PFZlcmIgdHlwZT0iYWN0aW9uIj7mtYE8L1ZlcmI+5LiL5p2l77yM56ue5piv5rua54Ot55qE44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMiI+6L2m5LiK5pyJ5b636YeM5aWz546LPFZlcmIgdHlwZT0iYWN0aW9uIj7ljrs8L1ZlcmI+5pu/5YS/5a2Q5LiK6aaZ56W35ZGK55qE44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyMyI+6L+c5aSE5pyJ54Gv54GrPFZlcmIgdHlwZT0iYWN0aW9uIj7pl6rng4E8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyNCI+6auY5aSE5pyJ54Gv5rOhPFZlcmIgdHlwZT0iYWN0aW9uIj7mgqw8L1ZlcmI+5LqO5YW25LiK44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyNSI+6Lev5LiK5pyJ562J6L2m55qE5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7luKY8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+6JGXPC9hc3BlY3Q+576K77yM5o6u6JGX5aSn6KKL55qE6ams6ZOD6Jav6bq76KKLPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEyNiI+6L2m5LiK5pyJ56ys5LiJ6ICFPFZlcmIgdHlwZT0ic3RhdGUiPuWcqDwvVmVyYj48L0V4YW1wPuWcugkJCQkNCgkJPC9QbGFjZU5vdW4+DQoJCQ0KCQk8VGltZU5vdW4+DQoJCQk8RXhhbXBsZSBpZD0iMSI+5Y2K5bm05YaF5pyJMS45NeS6v+e9keawkTxWZXJiIHR5cGU9ImFjdGlvbiI+5LiK572RPC9WZXJiPuaXtumBh+WIsOi/h+eXheavkuWSjOacqOmprOeahOaUu+WHuzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyIj7njrDlnKjmnIkwLjPvvIXnmoTlrabmoKHlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuS9v+eUqDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMyI+5Y675bm05pyJMS4xN+S4h+S6uuasoTxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7nsbvkvLzlirPliqg8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNCI+5LiK5Y2K5bm05pyJMS4x5LiH5oi35LyB5LiaPFZlcmIgdHlwZT0iYWN0aW9uIj7kuqvlj5c8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWunuWcsOaguOafpeKAnOWuuee8uuWKnueQhuKAneeahOacjeWKoeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1Ij7ku4rlubTmnIkxLjI25LiH5ZCN54m55Zuw5LyB5Lia5LiL5bKX6IGM5bel44CB56a76YCA5LyR6IGM5bel5Y+K5Z+O6ZWH5aSx5Lia6IGM5belPFZlcmIgdHlwZT0iYWN0aW9uIj7lvpfliLA8L1ZlcmI+5pWR5rWO44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYiPuWOu+W5tOaciTEuM+S4h+WQjee9l+WFtOS6muS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+56a75byAPC9WZXJiPue8heeUuDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3Ij7lvZPlpKnmnIkxLjXkuIfku7bpu4Tph5Hnj6Dlrp3ooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuS5sDwvVmVyYj7otbDjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOCI+5b2T5aSp5pyJMS415LiH576k5LyXPFZlcmIgdHlwZT0iYWN0aW9uIj7lhaXlnLo8L1ZlcmI+5bqU6IGY77yM5YWx562+6K6i5oSP5ZCR5oCn55So5bel5Y2P6K6uMzYyMOS7veOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5Ij7njrDlnKjmnIkxLjXkur/kurrmraPlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPue7j+WPlzwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7pqqjlhbPoioLngo7nmoTmipjno6jjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAiPuWOu+W5tOaciTEuNjLkur/lhpzmsJHlt6XlnKjljr/ln5/lhoU8VmVyYiB0eXBlPSJhY3Rpb24iPuWwseS4mjwvVmVyYj7ljaDlhajlm73lhpzmsJHlt6XmgLvmlbDnmoQ1NSXjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEiPuS7iuW5tOaciTEuN+S4h+WkmuWQjeS7o+ihqOWbouaIkOWRmOOAgTcwMDDlpJrlkI3pnZ7mlL/lupznu4Tnu4fku6PooajlkowxNTAw5ZCN5paw6Ze76K6w6ICFPFZlcmIgdHlwZT0iYWN0aW9uIj7lj4LliqA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuacrOasoeWkp+S8muOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMiI+5LuK5bm05pyJMS8z55qE5Y+C5bGV5ZWGPFZlcmIgdHlwZT0icmVsYXRpb24iPuadpeiHqjwvVmVyYj7kuK3lm708L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTMiPuS7iuW5tOaciTEvM+eahOeItuavjee7meWtqeWtkDxWZXJiIHR5cGU9ImFjdGlvbiI+5LmwPC9WZXJiPueOqeWFt+eahOW8gOmUgOS4jeS8mui2hei/hzEwMOasp+WFgzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxNCI+5Y675bm05pyJMS8z55qE6YeR6ZO26Iqx55m955m9PFZlcmIgdHlwZT0iYWN0aW9uIj7ojZLmjok8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0Pu+8jOS6p+mHj+aNn+Wksei+vjIwMDDlhazmlqTjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTUiPuWOu+W5tOaciTEvM+eahOS8geS4mjxWZXJiIHR5cGU9ImFjdGlvbiI+5YGc5belPC9WZXJiPu+8jOebiOWIqeeahOS8geS4mui2iuadpei2iuWwkeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxNiI+546w5Zyo5pyJMS8z55qE5bCR5pWw5peP6KOU5YS/56ulPFZlcmIgdHlwZT0ic3RhdGUiPuWkhOS6jjwvVmVyYj7otKvlm7DlvZPkuK08L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTciPuavj+S4quW3peS9nOaXpeaciTEy5a6256eR5oqA57G75LyB5Lia5Zyo6L+Z6YeMPFZlcmIgdHlwZT0iYWN0aW9uIj7ms6jlhow8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjE4Ij7njrDlnKjmnIkxLzTnmoTkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguS4jjwvVmVyYj7kuYnliqHmtLvliqjvvIwxLzPnmoTljY7mspnkurrlvZPov4flv5fmhL/ogIXjgII8L0V4YW1wbGUJICANCgkJCTxFeGFtcGxlIGlkPSIxOSI+546w5Zyo5pyJMS8255qE5a626ZW/552h5YmN5qC55pys5LiNPFZlcmIgdHlwZT0iYWN0aW9uIj7nu5k8L1ZlcmI+5a2p5a2Q6K6y5pWF5LqLPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjIwIj7mnKrmnaXmnIkxMCXnmoTlhpzmnZHlu7rorr7nlKjlnLA8VmVyYiB0eXBlPSJhY3Rpb24iPui9rOWMljwvVmVyYj7kuLrln47plYflu7rorr7nlKjlnLA8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjEiPui/keaXpeaciTEwMDDlpJrkuKroiKrnj63ooqs8VmVyYiB0eXBlPSJhY3Rpb24iPuWPlua2iDwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjIiPueOsOWcqOaciTEwMDDlpJrkuKrln7rnoYDorr7mlr3lkoznpL7kvJrlhaznm4rpobnnm67mraPlnKjliqDlv6s8VmVyYiB0eXBlPSJhY3Rpb24iPuWunuaWvTwvVmVyYj7vvIzmgLvmipXotYTovr41NDDkur/lhYPjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjMiPueOsOWcqOaciTEwMDDlpJrlkI3lsJHlubTlhL/nq6XmraPlnKg8VmVyYiB0eXBlPSJhY3Rpb24iPuWtpuS5oDwvVmVyYj7lvLnpkqLnkLTjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjQiPuS7iuW5tOaciTEwMDDlpJrlkI3lpJblm73orrDogIU8VmVyYiB0eXBlPSJhY3Rpb24iPumHh+iuvzwvVmVyYj7kuKTkvJo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjUiPuS7iuWkqeaciTEwMDDlpJrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuS4vuihjDwvVmVyYj7igJzpsoHlsJTov5vlhpvigJ3jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjYiPueOsOWcqOaciTEwMDDlpJroiZjoiLnlj6o8VmVyYiB0eXBlPSJhY3Rpb24iPuWBnOazijwvVmVyYj7lnKjpmYTov5HmsrPpgZPjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMjciPueOsOWcqOaciTEwMDDlpJrkuIfkuro8VmVyYiB0eXBlPSJzdGF0ZSI+5aSE5LqOPC9WZXJiPumlpemlv+S5i+S4rTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyOCI+5bm05bqV5pyJMTAwMOWkmuW6p+WFjei0uTxWZXJiIHR5cGU9ImFjdGlvbiI+5byA5pS+PC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIyOSI+5LuK5bm05pyJMTAwMOWQjeWnlOWGheeRnuaLieWMu+eUn+WwhjxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5LiOPC9WZXJiPuKAnOa3seWFpei0q+awkeWMuuKAneiuoeWIkuOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMCI+5LiK5Y2K5bm05pyJMTAwMOWQjeWtpueUnzxWZXJiIHR5cGU9ImFjdGlvbiI+5oql6K+7PC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMSI+546w5Zyo5pyJMTAwMOWPque+iuimgTxWZXJiIHR5cGU9ImFjdGlvbiI+6LWwPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzMiI+546w5Zyo5pyJMTAw5aSa5Liq5Zu95a6255qE5aSn5L2/6YO9PFZlcmIgdHlwZT0icmVsYXRpb24iPuaYrzwvVmVyYj7pgqPlqpvnmoTmnIvlj4s8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzMiPuS7iuWkqeaciTEwMOWkmuS4quWbveWutueahOS7o+ihqDxWZXJiIHR5cGU9ImFjdGlvbiI+6IGa6ZuGPC9WZXJiPuWcqOS4gOi1tzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzNCI+546w5Zyo5pyJMTAw5aSa5Liq5bCG6aKGPFZlcmIgdHlwZT0iYWN0aW9uIj7ogZTlkI08L1ZlcmI+5Y+N5a+56L+Z56eN6ZSZ6K+v5Yaz5a6a77yI5Y2z5oiS5Lil77yJPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM1Ij7ku4rlubTmnIkxMDDlpJrkuKrkuK3lsI/lnovojLblnLo8VmVyYiB0eXBlPSJhY3Rpb24iPuW8gOWnizwvVmVyYj7nlKjpq5jmipXlhaXlvIDlj5HkvJjotKjkuqflk4HjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMzYiPuWOu+W5tOaciTEwMOWkmuaIt+eyrumjn+aUtuWFpTxWZXJiIHR5cGU9ImFjdGlvbiI+6LaFPC9WZXJiPuS4h+aWpDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzNyI+5LuK5bm05pyJMTAw5aSa5qO15byA5aeLPFZlcmIgdHlwZT0iYWN0aW9uIj7mjII8L1ZlcmI+5p6c5LqG44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjM4Ij7njrDlnKjmnIkxMDDlpJrlkI0z6IezNuWygeeahOWEv+erpeWcqOagoTxWZXJiIHR5cGU9ImFjdGlvbiI+5a2m5LmgPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIzOSI+5Y675bm05pyJMTAw5aSa5ZCN6Z2S5bm044CB5Zui5ZGY5ZCR5YWa57uE57uHPFZlcmIgdHlwZT0iYWN0aW9uIj7pgJLkuqQ8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWFpeWFmueUs+ivt+S5puOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MCI+5Y675bm05pyJMTAw5aSa5ZCN6Z2S5bm05ZugPFZlcmIgdHlwZT0iYWN0aW9uIj7mi5Lnu508L1ZlcmI+5Y675Lul5Y2g5Yy65pyN5YW15b256ICM6KKr5b2T5bGA6YCB5LiK5rOV5bqtPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQxIj7lvZPlpKnmnIkxMDDlpJrlkI3kuK3lsI/lrabnlJ88VmVyYiB0eXBlPSJhY3Rpb24iPuadpeWIsDwvVmVyYj7lrp7ot7XmlZnogrLln7rlnLDvvIzmjJbnlarolq/jgIHph47ngoo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDIiPuW9k+WkqeaciTEwMOWkmuS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5oql5ZCNPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0MyI+5LuK5bm05pyJMTAw5aSa5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lm57mnaU8L1ZlcmI+56eN5rC056i777yM5aSn5a625piv5aWU552A5aW95pS/562W44CB5aW95pyN5Yqh5p2l55qE44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ0Ij7njrDlnKjmnIkxMDDlpJrkuIflubLpg6g8VmVyYiB0eXBlPSJhY3Rpb24iPue7kzwvVmVyYj7lr7nlrZDjgIHorqTkurLmiJo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNDUiPuS7iuW5tOaciTEwMOWkmuS4h+WKs+WKoeW3pTxWZXJiIHR5cGU9ImFjdGlvbiI+55WZPC9WZXJiPuWcqOa3seWcs+i/h+W5tOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0NiI+5LuK5bm05pyJMTAw5aSa5LiH5Lqp5Yac55SwPFZlcmIgdHlwZT0iYWN0aW9uIj7ph4fnlKg8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuaOp+awruWinumSvuaKgOacr+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0NyI+5Y675bm05pyJMTAw5aSa5LiH6Zq+5rCRPFZlcmIgdHlwZT0iYWN0aW9uIj7mirXovr48L1ZlcmI+5b635Zu9PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjQ4Ij7ljrvlubTmnIkxMDDlpJrkuIflubPmlrnnsbPnmoTmiL/lsYs8VmVyYiB0eXBlPSJyZWxhdGlvbiI+5bGe5LqOPC9WZXJiPui/meenjeaDheWGtTwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI0OSI+6Kej5pS+5ZCO5pyJMTAw5aSa5LiH5Lq66KKrPFZlcmIgdHlwZT0iYWN0aW9uIj7mnYA8L1ZlcmI+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUwIj7ov5HlubTmnaXmnIkxMDDlpJrpobnnm7jlhbPlt6XkvZw8VmVyYiB0eXBlPSJhY3Rpb24iPui/mzwvVmVyYj7moKHlm63jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTEiPueOsOWcqOaciTEwMOWkmuW6p+aLlOW7iuaIvzxWZXJiIHR5cGU9ImFjdGlvbiI+57uP6L+HPC9WZXJiPuS/neaKpOaAp+aUuemAoDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1MiI+5LiK5Y2K5bm05pyJMTAw5a625LyB5LiaPFZlcmIgdHlwZT0iYWN0aW9uIj7ov5vooYw8L1ZlcmI+546w5Luj5LyB5Lia5Yi25bqm5pS56Z2p6K+V54K5PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjUzIj7ku4rlubTmnIkxMDDlkI08VmVyYiB0eXBlPSJhY3Rpb24iPuiAg+S4ijwvVmVyYj7lhajlm73ph43ngrnlkoznnIHlsZ7ph43ngrnpmaLmoKHnmoTnibnlm7DnlJ/lg4/olKHnmpPkuIDmoLc8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTQiPuS7iuW5tOaciTEwMOWQjeS5oeadkeWwj+WtpuS8mOengOaVmeW4iDxWZXJiIHR5cGU9ImFjdGlvbiI+6I63PC9WZXJiPuWlluOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1NSI+5LuK5bm05pyJMTAw5Lq65Y+vPFZlcmIgdHlwZT0iYWN0aW9uIj7kuqvlj5c8L1ZlcmI+5q+P5pyIMzAw5YWD6IezNDAw5YWD55qE5rSl6LS0PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU2Ij7mmKjmmZrmnIkxMDDkuIfkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuiBmumbhjwvVmVyYj7lnKjml7bmiqXlub/lnLo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNTciPuW9k+aZmuaciTEwMOS4h+WFg+eahOi1jOminTxWZXJiIHR5cGU9ImFjdGlvbiI+6L+b5YWlPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI1OCI+5Y675bm05pyJMTAw5LiH6IezMjAw5LiH6Zi/5a+M5rGX5bmz5rCR55u05o6lPFZlcmIgdHlwZT0iYWN0aW9uIj7mrbs8L1ZlcmI+5LqO6IuP6IGU55qE5Yab5LqL6KGM5Yqo44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjU5Ij7ku4rlubTmnIkxMDDkvY3liqDlnLDmlrnmlZnogrLlrpjlkZjlkozkuK3lsI/lrabmoKHplb88VmVyYiB0eXBlPSJhY3Rpb24iPuiuv+WNjjwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjAiPuS4iuWNiuW5tOaciTEwMjflrrbkvIHkuJo8VmVyYiB0eXBlPSJhY3Rpb24iPuWunueOsDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+56eB5pyJ5YyWPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjYxIj7ku4rlubTmnIkxMDLkuKrkuK3lpK7pg6jpl6jlkJHnpL7kvJo8VmVyYiB0eXBlPSJhY3Rpb24iPuWFrOW8gDwvVmVyYj7lhrPnrpc8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjIiPuS4iuS4quaciOaciTEwNeS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5byAPC9WZXJiPuWwj+W3rumAg+WbnuWutuS5oeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2MyI+6L+R5bm05pyJMTA45bmF5L2c5ZOB5Zyo5YWo5Zu95bCR5YS/5pGE5b2x5q+U6LWb5LitPFZlcmIgdHlwZT0iYWN0aW9uIj7ojrc8L1ZlcmI+5aWWPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjY0Ij7ljrvlubTmnIkxMDjkvY3lubLpg6jlrrblsZ7mnKrog73mraPluLg8VmVyYiB0eXBlPSJhY3Rpb24iPuadpTwvVmVyYj7pmJ/mjqLkurLjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjUiPuS4reaXrOaciTEw77yF55qE55Sf5Lqn5Lu75YqhPFZlcmIgdHlwZT0ic3RhdGUiPuayoeaciTwvVmVyYj7lrozmiJA8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjYiPueOsOWcqOaciTEw5Zy65q+U6LWb44CB5oC76K6hMjDkvZnlkI3oo4HliKTlkozov5DliqjlkZg8VmVyYiB0eXBlPSJzdGF0ZSI+5pyJPC9WZXJiPumXrumimDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI2NyI+5LiK5Y2K5bm05pyJMTDlpJrkuKrlu7rnrZHpmJ/mg7M8VmVyYiB0eXBlPSJhY3Rpb24iPuaJv+WMhTwvVmVyYj7luILlsYDmnLrlhbPmsr/ooZfmpbzlkozlip7lhazmpbzliqDpq5jlt6XnqIs8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNjgiPuW9k+WkqeaciTEw5aSa5Liq5peF6KGM5ZuiPFZlcmIgdHlwZT0iYWN0aW9uIj7kuZjlnZA8L1ZlcmI+6auY6ZOB6LW05YaF5ZywPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjY5Ij7ku4rlubTmnIkxMOWkmuWutuWklui1hOmTtuihjOW3sjxWZXJiIHR5cGU9ImFjdGlvbiI+6I63PC9WZXJiPua4r+W6nOaJueWHhuWcqOi/memHjOiuvueri+WIhuihjDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MCI+546w5Zyo5pyJMTDlpJrpl7TphZLlupflt7I8VmVyYiB0eXBlPSJhY3Rpb24iPuWBnOatojwvVmVyYj7mjqXlj5fmmI7lubQ25pyIMjXml6Xoh7M35pyINeaXpeacn+mXtOeahOaWsOWuoumihOiuouaIv+mXtDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MSI+5LuK5bm05pyJMTDlpJrlkI3pq5jmoKHmr5XkuJrnlJ/ljbPlsIY8VmVyYiB0eXBlPSJhY3Rpb24iPuenjeakjTwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD4yMDAw5aSa5Lqp6L6j5qSS44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjcyIj7ljrvlubTmnIkxMOWkmuS4h+WfjumHjOS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5p2lPC9WZXJiPuadkemHjOKAnOiAjeKAnei/hzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3MyI+5LuK5aSp5pyJMTDlpJrkuIfluILmsJE8VmVyYiB0eXBlPSJhY3Rpb24iPuadpTwvVmVyYj7liLDnjrDlnLrmiJbpgJrov4fnlLXop4bnm7Tmkq3op4LnnIvkuobljZfmmIbmlofljJbliJfovaboibrmnK/lm6LnmoTmvJTlh7o8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzQiPueOsOWcqOaciTEw5aSa5L2N5bCP5Yy65Lia5Li75q+P6ZqU5LiJ5Zub5aSpPFZlcmIgdHlwZT0iYWN0aW9uIj7mnaU8L1ZlcmI+5YWF5LiA5qyh55S1PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc1Ij7ljrvlubTmnIkxMOS4qumSoueahOWTgeenjTxWZXJiIHR5cGU9InJlbGF0aW9uIj7miJDkuLo8L1ZlcmI+6YOo5LyY5Lqn5ZOBPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijc2Ij7ku4rlubTmnIkxMOS4queggeWktOacuuWcuuS/seS5kOmDqOiiq+a1t+WGmzxWZXJiIHR5cGU9ImFjdGlvbiI+6YCa5oqlPC9WZXJiPuihqOW9sOS4uuKAnOWNgeS9s+KAneS/seS5kOmDqDwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3NyI+5Y675bm05pyJMTDkuKrmlK/pmJ/nuqfljZXkvY3ooqvmraborabmgLvpg6jlkozlnLDmlrnmnInlhbPpg6jpl6g8VmVyYiB0eXBlPSJyZWxhdGlvbiI+6K+E5Li6PC9WZXJiPuaLpeaUv+eIseawkeWFiOi/m+mbhuS9kzwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI3OCI+5Y675bm05pyJMTDkuKrph43ngrnogIHljLrljr88VmVyYiB0eXBlPSJhY3Rpb24iPuiEsei0qzwvVmVyYj48L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iNzkiPuS7iuWkqeaciTEw5Lu25YWa5ZGY6aKG5a+85bmy6YOo55qE6Zeu6aKY57q/57Si6KaBPFZlcmIgdHlwZT0iYWN0aW9uIj7mlbTnkIY8L1ZlcmI+5a6M5oiQPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgwIj7ku4rmmZrmnIkxMOWQjeS4reWbvemAieaJizxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjjkuKrnuqfliKvnmoTop5LpgJDjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODEiPuW5tOWJjeaciTEw5Lq65LuO5q2m5rGJPFZlcmIgdHlwZT0iYWN0aW9uIj7liqHlt6U8L1ZlcmI+5Zue5p2lPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjgyIj7ku4rlpKnmnIkxMOS6uumrmOWFtOWcsDxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7nuqrlv7XlpKfkvJo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODMiPuS7iuW5tOaciTEw5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7ogIPkuIo8L1ZlcmI+5riF5Y2O5YyX5aSnPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg0Ij7lubTpl7TmnIkxMOS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+5q27PC9WZXJiPuS6jueLgueKrOeXheOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4NSI+5Y675bm05pyJMTDoiZjlpKflnovmsrnova48VmVyYiB0eXBlPSJhY3Rpb24iPuWHujwvVmVyYj7kuos8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODYiPuS7iuWkqeaciTEw5LiH5ZCN5b+X5oS/6ICFPFZlcmIgdHlwZT0iYWN0aW9uIj7otbDkuIo8L1ZlcmI+6KGX5aS0PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijg3Ij7njrDlnKjmnIkxMOS4h+WGnOawkTxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5LiOPC9WZXJiPuaNleiZvuOAgei0qeiZvjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI4OCI+5LuK5bm05pyJMTDkuIfnvqTkvJc8VmVyYiB0eXBlPSJhY3Rpb24iPui1tjwvVmVyYj7kvJo8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iODkiPuS7iuaZmuaciTEw5LiH5Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7nu4TmiJA8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PjEw5YWs6YeM6ZW/55qE5YWJ6ZO+PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkwIj7ku4rlubTmnIkxMOS9jeS4quS6uuWSjOS4gOS4qumbhuS9k+acgOe7iDxWZXJiIHR5cGU9ImFjdGlvbiI+6I63PC9WZXJiPuWlluOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5MSI+5b2T5aSp5pyJMTDkvY3mgqPogIXlh4blpIc8VmVyYiB0eXBlPSJhY3Rpb24iPumHh+mbhjwvVmVyYj7lkr3mi63lrZDov5vooYzliIbms4znianlrp7pqozjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTIiPuS7iuW5tOaciTEw5Lq/5qyn5YWD55qE546w6YeR5Y+vPFZlcmIgdHlwZT0iYWN0aW9uIj7kvps8L1ZlcmI+6Ieq55Sx5pSv6YWNPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjkzIj7kuIrljYrlubTmnIkxMOenjeiNr+WTgeiiqzxWZXJiIHR5cGU9ImFjdGlvbiI+5YGc55SoPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSI5NCI+5LuK5bm05pyJMTEw5aSa5ZCN6IGM5bel55qE5a625bGePFZlcmIgdHlwZT0iYWN0aW9uIj7luKY8L1ZlcmI+PGFzcGVjdCB0eXBlPSJwcm9ncmVzc2l2ZSI+552APC9hc3BlY3Q+5a2p5a2Q5Yiw55+/5LiK6L+H5bm0PC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk1Ij7kuIrljYrlubTmnIkxMTDlrrblpJblm73lhazlj7jlnKjnvo7lm73ogqHluII8VmVyYiB0eXBlPSJhY3Rpb24iPuaMgjwvVmVyYj7niYw8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTYiPuS7iuW5tOaciTExMTflrrY8VmVyYiB0eXBlPSJhY3Rpb24iPuWPl+WIsDwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+6KGo5b2wPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9Ijk3Ij7ljrvlubTmnIkxMTHlkI3mr5XkuJrnlJ88VmVyYiB0eXBlPSJhY3Rpb24iPuetvue6pjwvVmVyYj7opb/pg6g8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTgiPuS7iuW5tOaciTExMjXkuKrln47luII8VmVyYiB0eXBlPSJhY3Rpb24iPuWPguWKoDwvVmVyYj7igJzml6Dovabml6XigJ08L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iOTkiPuWOu+W5tOaciTExNuS4queUn+S6p+mYnzxWZXJiIHR5cGU9ImFjdGlvbiI+5a6e6KGMPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7ljIXkuqfliLDmiLc8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAwIj7njrDlnKjmnIkxMTblkI3nl4XkurrlnKjmt7HliIfmsrvnlpfpg6g8VmVyYiB0eXBlPSJhY3Rpb24iPuaOpeWPlzwvVmVyYj7msrvnlpfjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTAxIj4yMDIw5bm05pyJMTAw5LiH576O5Zu95Lq6PFZlcmIgdHlwZT0iYWN0aW9uIj7lrabkuaA8L1ZlcmI+5rGJ6K+t44CCPC9FeGFtcGxlPg0KCQkJPEV4YW1wbGUgaWQ9IjEwMiI+MTk5NOW5tOaciTEwMzbvvI425LiH5ZCN5YWI6L+b6Z2S5bm0PFZlcmIgdHlwZT0iYWN0aW9uIj7liqDlhaU8L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWboue7hOe7h++8jOWQhOadoeaImOe6v+WbouWRmOaVsOmHj+WFqOmdouWinumVv+OAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDMiPuS7iuWkqeacieS4quWQjOWtpuWSjOaIkTxWZXJiIHR5cGU9ImFjdGlvbiI+5o2iPC9WZXJiPuWBmuWAvOaXpeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDQiPuaYqOWkqeacieS4quiBjOWRmOS5n+e7p+e7rTxWZXJiIHR5cGU9ImFjdGlvbiI+5L2/55SoPC9WZXJiPui/meS4qumUmeaLvOeahOWtl++8jOabv+S7luWcqOmjnuacuuelqOS4iumdouWGmeS4iuKAnGQuby7luIPpm7fnvZfigJ3jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTA1Ij7ku47liY3mnInkuKrlgLznj63lpKflpKvkuZ88VmVyYiB0eXBlPSJyZWxhdGlvbiI+5pivPC9WZXJiPuWMl+a1t+mBk+eahO+8jOS7luaYr+WHvemmhuS6ujwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDYiPuS7juWJjeacieS4quS4reWbveWwj+mTgeWMoDxWZXJiIHR5cGU9ImFjdGlvbiI+6LefPC9WZXJiPjxhc3BlY3QgdHlwZT0icHJvZ3Jlc3NpdmUiPuedgDwvYXNwZWN0Pui/h+mCo+W6p+S6uueDn+eogOWwkeeahOWwj+WxseOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDciPuS4iuWNiOacieS4qumHjeimgeS8muiuruW/hemhuzxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+C5YqgPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDgiPuaYpeWkqeacieWQhOW8j+WQhOagt+eahOm4nzxWZXJiIHR5cGU9ImFjdGlvbiI+5Y+rPC9WZXJiPjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMDkiPuS4i+WNiOacieS4quS6uuimgTxWZXJiIHR5cGU9ImFjdGlvbiI+5p2lPC9WZXJiPueci+aIkeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMTAiPueOsOWcqOacieS4quS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+6LWwPC9WZXJiPui/h+WOuzxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7jgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTExIj7ku47liY3mnInkuKrllYbkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuWPqzwvVmVyYj7pmL/lh6Hmj5DluK7ku5bmkKzkuIDmkZ7nm5jlrZDliLDku5blrrY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEyIj7mmZrkuIrmnInkuKrlk6jlhbU8VmVyYiB0eXBlPSJhY3Rpb24iPuermTwvVmVyYj7lspfvvIzpmLLmraLotbDnp4HotKnlrZDmupzov5vmnaXjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTEzIj7ku47liY3mnInkuKrljYHlhavlsoHnmoTnrKzkuIDpq5jmoKHnmoTlrabnlJ88VmVyYiB0eXBlPSJhY3Rpb24iPueVmeS4izwvVmVyYj7igJjml6XjgIHkuI3lj6/op6PigJnov5nlj6Xor53lkI7ot7Pmva3oh6rmnYDkuobjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE0Ij7mmZrkuIrmnInkuKrmnIvlj4s8VmVyYiB0eXBlPSJhY3Rpb24iPuW4pjwvVmVyYj48YXNwZWN0IHR5cGU9InByb2dyZXNzaXZlIj7nnYA8L2FzcGVjdD7lhL/lrZDmnaXnnIvmiJE8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE1Ij7mmKjlpKnmnInkuKrmnIvlj4s8VmVyYiB0eXBlPSJhY3Rpb24iPue7mTwvVmVyYj7miJHnnIvkuobnr4fkuJzopb88L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE2Ij7ku4rlpKnmnInkuKrkurLmiJo8VmVyYiB0eXBlPSJhY3Rpb24iPuivtzwvVmVyYj7ku5bku6zlkIPppa08L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE3Ij7mmKjlpKnmnInkuKrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuadpTwvVmVyYj7vvIzorrDkuI3otbflp5PlkI3kuoY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE4Ij7mmKjlpKnmnInkuKrkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuadpeiuvzwvVmVyYj7vvIznnJ/mgKrvvIzlsLHmmK/pgqPkuKrlsI/loZ7ms73nurPlhYvjgII8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTE5Ij7ku47liY3mnInkuKrkurrlkI08VmVyYiB0eXBlPSJyZWxhdGlvbiI+5Y+rPC9WZXJiPuWTiOmHjO+8jOWPiOensOiNkuWOn+eLvOOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjAiPuS4i+WNiOacieS4quS6uuimgTxWZXJiIHR5cGU9ImFjdGlvbiI+5p2lPC9WZXJiPueci+aIkeOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjEiPuaZmuS4iuacieS4quWuouS6ujxWZXJiIHR5cGU9ImFjdGlvbiI+55yLPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7pgqPnkLTjgII8L0V4YW1wbGU+PEV4YW1wbGUgaWQ9IjEyMiI+5pio5aSp5pyJ5Liq5ruh6IS46bq755qu44CB5LiR5b6X5Y+v5oCV55qE6ZO26KGM6ICB5p2/PFZlcmIgdHlwZT0iYWN0aW9uIj7nnIvkuK08L1ZlcmI+PGFzcGVjdCB0eXBlPSJjb21wbGV0ZWQiPuS6hjwvYXNwZWN0PuWlueOAgjwvRXhhbXBsZT4NCgkJCTxFeGFtcGxlIGlkPSIxMjMiPuaYqOWkqeacieS4qumtlOacr+W4iOWcqOWJp+mZojxWZXJiIHR5cGU9ImFjdGlvbiI+6KGo5ryUPC9WZXJiPjxhc3BlY3QgdHlwZT0iY29tcGxldGVkIj7kuoY8L2FzcGVjdD7lh6Dnp43pnZ7luLjmlrDlpYfnmoTprZTmnK/vvIzmnInotqPmnoHkuoY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTI0Ij7mmKjlpKnmnInkuKrnlLfkuro8VmVyYiB0eXBlPSJhY3Rpb24iPuadpTwvVmVyYj7nlLXor53vvIzor7TlpoLmnpzmiJHkuI3nq4vliLvlgZzmraLkuInkvZPpl67popjnmoTnoJTnqbY8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTI1Ij7ku4rlpKnmnInkuKrorablr588VmVyYiB0eXBlPSJhY3Rpb24iPuWIsDwvVmVyYj7lupfpl6jlj6Plm7TnnYDigJjph47pqazigJnovazkuobkuInlnIg8L0V4YW1wbGU+DQoJCQk8RXhhbXBsZSBpZD0iMTI2Ij7ku47liY3mnInkuKrlhazkuLvmiJjkubHkuK08VmVyYiB0eXBlPSJhY3Rpb24iPui1sOWksTwvVmVyYj48YXNwZWN0IHR5cGU9ImNvbXBsZXRlZCI+5LqGPC9hc3BlY3Q+PC9FeGFtcGxlPg0KCQk8L1RpbWVOb3VuPg0KCTwv5pyJ7J6Q7KG07ZiE66y4Pg0KPC/mnInsnpDrrLg+DQoNCg==">⤓ 원본 XML 파일 다운로드</a>
+  </div>
+</section>
+
+<section id="markup">
+  <div class="section-tag"><span class="stamp zh">標</span>마크업 방법</div>
+  <h2>마크업 방법</h2>
+  <p class="section-desc">모든 분석은 아래 다섯 종류의 태그를 정규식으로 파싱해 이루어졌습니다.</p>
+  <div class="card">
+    <table class="stat">
+      <thead><tr><th>태그</th><th>의미</th><th>값</th></tr></thead>
+      <tbody>
+        <tr><td class="zh">&lt;有자겸어문&gt; / &lt;有자존현문&gt;</td><td>구문 유형</td><td>—</td></tr>
+        <tr><td class="zh">&lt;PersonalNoun&gt; / &lt;CommonNoun&gt;</td><td>겸어문 하위범주</td><td>인칭대사 / 일반명사</td></tr>
+        <tr><td class="zh">&lt;PlaceNoun&gt; / &lt;TimeNoun&gt;</td><td>존현문 하위범주</td><td>처소사 / 시간사</td></tr>
+        <tr><td class="zh">&lt;Example id="N"&gt;</td><td>개별 예문 (1~504)</td><td>—</td></tr>
+        <tr><td class="zh">&lt;Verb type="..."&gt;</td><td>V2 동사 유형</td><td>action / state / relation</td></tr>
+        <tr><td class="zh">&lt;aspect type="..."&gt;</td><td>V2 후행 동태조사</td><td>completed(了) / progressive(着) / experiential(过)</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:13px;color:var(--ink-soft);margin:16px 0 4px;">예시 (동태조사가 마크업된 예문):</p>
+    <pre class="code">&lt;<span class="tag">Example</span> <span class="attr">id</span>="12"&gt;<span class="txt">墙上</span>&lt;<span class="tag">Verb</span> <span class="attr">type</span>="<span class="val">action</span>"&gt;<span class="txt">挂</span>&lt;/<span class="tag">Verb</span>&gt;&lt;<span class="tag">aspect</span> <span class="attr">type</span>="<span class="val">progressive</span>"&gt;<span class="txt">着</span>&lt;/<span class="tag">aspect</span>&gt;<span class="txt">一幅画。</span>&lt;/<span class="tag">Example</span>&gt;</pre>
+    <p style="font-size:13px;color:var(--ink-soft);margin-top:14px;">동태조사 태그가 없는 예문은 <strong>무표지(unmarked)</strong>로 집계했습니다.</p>
+  </div>
+</section>
+
+<section id="verbtype">
+  <div class="section-tag"><span class="stamp zh">動</span>V2 유형 분포</div>
+  <h2>有자 겸어문·有자 존현문의 V2 유형 분포 — 전체 및 하위범주 비교</h2>
+  <p class="section-desc">V2(NP2 뒤에 오는 동사)를 동작동사·상태동사·관계동사로 분류하고, 구문 전체 및 하위범주(인칭대사·일반명사·처소사·시간사)별로 그 비율을 비교했습니다.</p>
+
+  <div class="card" style="margin-bottom:24px;">
+    <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">분류 기준</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">V2는 의미 기능에 따라 세 가지로 분류하고, 예문의 해당 동사에 <code style="background:#1c1b18;color:#e7e3d6;padding:1px 6px;border-radius:4px;font-size:12.5px;">&lt;Verb type="..."&gt;</code> 태그를 부여했다.</p>
+    <ul style="margin:0 0 18px;padding-left:20px;color:var(--ink-soft);font-size:14.5px;line-height:1.9;">
+      <li><strong style="color:var(--ink);">관계동사(relation)</strong> — NP2의 신분·소속·정체성을 규정하는 동사. 是(~이다), 叫(~라고 하다), 属于(~에 속하다) 등</li>
+      <li><strong style="color:var(--ink);">상태동사(state)</strong> — NP2의 지속적인 상태·속성·심리를 나타내는 동사. 喜欢(좋아하다), 值得(~할 만하다), 住(살다) 등</li>
+      <li><strong style="color:var(--ink);">동작동사(action)</strong> — NP2와 관련된 구체적 행위·사건을 나타내는 동사. 参加(참가하다), 从事(종사하다), 报名(신청하다) 등</li>
+    </ul>
+    <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 동작동사가 423건(83.9%)으로 가장 많았고, 관계동사(47건, 9.3%)와 상태동사(34건, 6.7%)는 상대적으로 적었다. 구문별로는 有자겸어문(77.0%)이 有자존현문(90.9%)보다 동작동사 비중이 훨씬 낮은데, 이는 인칭대사(관계 14.3%)뿐 아니라 일반명사(관계 14.3%)에서도 관계동사 비중이 똑같이 높게 나타나기 때문이다 — 겸어문은 NP2가 사람이든 사물이든 신분·소속을 규정하는 서술이 상대적으로 많다.</p>
+    <p style="margin:0 0 8px;font-weight:600;font-size:13.5px;">예문</p>
+    <div style="border-left:3px solid var(--gold);padding-left:16px;color:var(--ink-soft);font-size:14px;line-height:2;">
+      他们有许多人<span class="zh" style="color:var(--ink);font-weight:600;">是</span>怀着某种政治动机的。 <span style="font-size:12px;">— 관계동사</span><br>
+      他们有一个姑奶奶<span class="zh" style="color:var(--ink);font-weight:600;">住</span>在村里。 <span style="font-size:12px;">— 상태동사</span><br>
+      八中有100多名学生<span class="zh" style="color:var(--ink);font-weight:600;">报名</span>希望参与。 <span style="font-size:12px;">— 동작동사</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="legend">
+      <span><i class="dot" style="background:#2a78d6"></i>동작동사 (action)</span>
+      <span><i class="dot" style="background:#eda100"></i>상태동사 (state)</span>
+      <span><i class="dot" style="background:#4a3aa7"></i>관계동사 (relation)</span>
+    </div>
+    <div style="position:relative;width:100%;height:340px;">
+      <canvas id="chartVerbType" role="img" aria-label="有자 겸어문과 有자 존현문의 V2 유형 분포. 겸어문 전체 action194 state22 relation36. 인칭대사 action92 state16 relation18. 일반명사 action102 state6 relation18. 존현문 전체 action229 state12 relation11. 처소사 action114 state8 relation4. 시간사 action115 state4 relation7."></canvas>
+    </div>
+  </div>
+  <div class="insight">존현문은 동작동사 90.9%로 사건의 출현·이동에 훨씬 집중되는 반면, 겸어문은 상태·관계동사(23.0%)가 더 높습니다. 이 차이는 <strong>인칭대사</strong>(관계 14.3%)와 <strong>일반명사</strong>(관계 14.3%) 양쪽 모두에서 고르게 나타나며, 처소사·시간사는 동작동사 비중이 90~91%로 거의 같습니다 — 겸어문 쪽의 관계동사 비중 자체가 전반적으로 높은 경향입니다.</div>
+</section>
+
+<section id="aspect">
+  <div class="section-tag"><span class="stamp zh">態</span>동태조사 분포</div>
+  <h2>有자 겸어문·有자 존현문의 V2 후행 동태조사 분포 — 전체 및 하위범주 비교</h2>
+  <p class="section-desc">V2 뒤에 붙는 동태조사 了(완료)·着(진행)·过(경험)의 분포를 동태조사가 표지된 예문 기준으로 비교했습니다.</p>
+
+  <div class="card" style="margin-bottom:24px;">
+    <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">분류 기준</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">V2 뒤에 붙는 동태조사를 예문에서 확인하여 <code style="background:#1c1b18;color:#e7e3d6;padding:1px 6px;border-radius:4px;font-size:12.5px;">&lt;aspect type="..."&gt;</code> 태그로 표시하고, 조사가 없는 경우는 <strong style="color:var(--ink);">무표지(unmarked)</strong>로 분류했다.</p>
+    <ul style="margin:0 0 18px;padding-left:20px;color:var(--ink-soft);font-size:14.5px;line-height:1.9;">
+      <li><strong style="color:var(--ink);">완료 了(completed)</strong> — 사건이 이미 일어나 완결되었음을 나타냄</li>
+      <li><strong style="color:var(--ink);">진행 着(progressive)</strong> — 동작·상태가 지속되고 있음을 나타냄</li>
+      <li><strong style="color:var(--ink);">경험 过(experiential)</strong> — 과거에 그 일을 경험한 적이 있음을 나타냄</li>
+      <li><strong style="color:var(--ink);">무표지(unmarked)</strong> — 별도의 동태조사 없이 쓰인 경우</li>
+    </ul>
+    <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 무표지가 410건(81.3%)으로 압도적으로 많았고, 표지된 예문(94건) 중에서는 완료 了가 59건(11.7%)으로 가장 많았다. 진행 着(28건, 5.6%)와 경험 过(7건, 1.4%)는 상대적으로 드물었다. 구문별로는 有자존현문(19.4%, 49/252)이 有자겸어문(17.9%, 45/252)보다 표지된 예문 비중이 조금 더 높다. 경험 过는 두 구문 모두에서 나타나지만 존현문·처소사에 특히 몰려 있는데(marked 기준 18.5%), "全国有1/5的城市做过…"처럼 비율·경험을 서술하는 문장이 많기 때문이다.</p>
+    <p style="margin:0 0 8px;font-weight:600;font-size:13.5px;">예문</p>
+    <div style="border-left:3px solid var(--gold);padding-left:16px;color:var(--ink-soft);font-size:14px;line-height:2;">
+      他们有26种产品<span class="zh" style="color:var(--ink);font-weight:600;">获得</span>国、部、市优质产品称号。 <span style="font-size:12px;">— 무표지</span><br>
+      他们有很多人参加<span class="zh" style="color:var(--ink);font-weight:600;">了</span>当地民兵组织。 <span style="font-size:12px;">— 완료 了</span><br>
+      台前有一些人排<span class="zh" style="color:var(--ink);font-weight:600;">着</span>队。 <span style="font-size:12px;">— 진행 着</span><br>
+      全国有1/5的城市做<span class="zh" style="color:var(--ink);font-weight:600;">过</span>划设无车区域的尝试。 <span style="font-size:12px;">— 경험 过 (존현문·처소사)</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="legend">
+      <span><i class="dot" style="background:#c0392b"></i>완료 了 (completed)</span>
+      <span><i class="dot" style="background:#2980b9"></i>진행 着 (progressive)</span>
+      <span><i class="dot" style="background:#8e44ad"></i>경험 过 (experiential)</span>
+    </div>
+    <div style="position:relative;width:100%;height:340px;">
+      <canvas id="chartAspect" role="img" aria-label="有자 겸어문과 有자 존현문의 V2 후행 동태조사 분포. 겸어문 전체 완료34 진행9 경험2. 인칭대사 완료18 진행6 경험2. 일반명사 완료16 진행3 경험0. 존현문 전체 완료25 진행19 경험5. 처소사 완료8 진행14 경험5. 시간사 완료17 진행5 경험0."></canvas>
+    </div>
+  </div>
+  <div class="insight">진행상 着는 존현문, 특히 <strong>처소사</strong>(51.9%)에서 두드러져 "어떤 장소에 무언가 지속적으로 존재·진행 중"이라는 존현문 특유의 의미와 맞아떨어집니다. 경험상 过도 처소사에서 가장 뚜렷한데(marked 기준 18.5%), 全国有1/5的城市做过…처럼 비율·경험을 서술하는 문장이 몰려 있기 때문입니다.</div>
+</section>
+
+<section id="tree">
+  <div class="section-tag"><span class="stamp zh">樹</span>방사형 트리</div>
+  <h2>有자 겸어문·有자 존현문 V2의 유형 및 동태조사 분포 비교</h2>
+  <p class="section-desc">중심의 有자문에서 겸어문·존현문 → 하위범주 → V2 유형 → 동태조사까지 이어지는 계층 구조를 방사형 트리로 표현했습니다. 원을 클릭하면 해당 범주의 실제 동사 어휘 분포가 아래에 나타납니다.</p>
+  <div class="card">
+    <div class="legend">
+      <span><i class="dot" style="background:#7F77DD;border-radius:50%;"></i>有자 겸어문 계열</span>
+      <span><i class="dot" style="background:#1D9E75;border-radius:50%;"></i>有자 존현문 계열</span>
+    </div>
+    <svg id="treeSvg" width="100%" viewBox="0 0 760 760" role="img" style="background:#fff;border-radius:8px;">
+      <title>有자문 방사형 트리</title>
+      <g id="linksLayer"></g>
+      <g id="nodesLayer"></g>
+    </svg>
+    <div id="crumb" style="font-size:12px;color:var(--ink-soft);margin:10px 0 4px;min-height:16px;"></div>
+    <div id="panel" style="border:0.5px solid var(--line);border-radius:12px;padding:14px 16px;background:#fff;">
+      <p style="margin:0;font-size:13px;color:var(--ink-soft);">원을 클릭하면 그 범주에 속한 동사 어휘 분포가 여기에 표시됩니다.</p>
+    </div>
+  </div>
+</section>
+
+<section id="conclusion">
+  <div class="section-tag"><span class="stamp zh">結</span>결론</div>
+  <h2>결론</h2>
+  <p class="section-desc">V2 유형과 후행 동태조사라는 서로 다른 두 층위의 문법 자질이 같은 방향을 가리킵니다.</p>
+  <div class="card">
+    <p style="margin:0 0 12px;color:var(--ink-soft);font-size:14.5px;">有자 겸어문은 NP1이 NP2를 보유한 상태에서 그 NP2의 <strong style="color:var(--ink);">속성이나 완결된 행위를 서술</strong>하는 데 특화되어 있고(상태·관계동사 23.0%, 완료 了가 marked 예문의 75.6%), 有자 존현문은 어떤 장소·시간에 무엇이 <strong style="color:var(--ink);">출현하거나 지속적으로 존재하는 사건</strong>을 그리는 데 특화되어 있습니다(동작동사 90.9%, 진행 着가 marked 예문의 38.8%로 특히 처소사에 집중).</p>
+    <p style="margin:0;color:var(--ink-soft);font-size:14.5px;">관계동사 비중은 인칭대사(14.3%)와 일반명사(14.3%)에서 정확히 같게 나타나, 겸어문 자체가 존현문보다 서술적 성격이 강한 구문임을 보여줍니다. 경험 과(过)는 겸어문과 존현문 양쪽에서 모두 나타나지만 존현문의 처소사에 특히 몰려 있으며(marked 기준 18.5%), 全国有1/5的城市做过…처럼 비율·경험을 서술하는 문장에서 주로 확인됩니다.</p>
+  </div>
+</section>
+
+
+</main>
+
+<footer>BCC XML 코퍼스 · 有자 겸어문·有자 존현문 비교 연구 · 총 504개 예문</footer>
+
+<script>
+(function(){
+  const fontColor = '#4a463d';
+  const gridColor = '#cfc8b4';
+  const countLabelPlugin = {
+    id: 'countLabel',
+    afterDatasetsDraw(chart) {
+      const ctx = chart.ctx;
+      chart.data.datasets.forEach((dataset, di) => {
+        const meta = chart.getDatasetMeta(di);
+        meta.data.forEach((bar, i) => {
+          const value = dataset.data[i];
+          if (!value) return;
+          ctx.save();
+          ctx.fillStyle = '#ffffff';
+          ctx.font = '600 11px sans-serif';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          const cxp = (bar.x + bar.base) / 2;
+          ctx.fillText(value, cxp, bar.y);
+          ctx.restore();
+        });
+      });
+    }
+  };
+  const rowBandPlugin = {
+    id: 'rowBand',
+    beforeDatasetsDraw(chart) {
+      const {ctx, chartArea, scales} = chart;
+      const yScale = scales.y;
+      const bandRows = [0, 3];
+      ctx.save();
+      bandRows.forEach(i => {
+        const top = yScale.getPixelForValue(i) - (yScale.getPixelForValue(0) - yScale.getPixelForValue(1))/2;
+        const bottom = yScale.getPixelForValue(i) + (yScale.getPixelForValue(0) - yScale.getPixelForValue(1))/2;
+        ctx.fillStyle = i === 0 ? 'rgba(127,119,221,0.06)' : 'rgba(29,158,117,0.06)';
+        ctx.fillRect(chartArea.left, top, chartArea.right-chartArea.left, bottom-top);
+      });
+      ctx.restore();
+    }
+  };
+
+  new Chart(document.getElementById('chartVerbType'), {
+    type: 'bar',
+    data: {
+      labels: ['겸어문 전체 (n=252)', '  ㄴ 인칭대사 (n=126)', '  ㄴ 일반명사 (n=126)', '존현문 전체 (n=252)', '  ㄴ 처소사 (n=126)', '  ㄴ 시간사 (n=126)'],
+      datasets: [
+        {label:'동작동사', data:[194,92,102,229,114,115], backgroundColor:'#2a78d6'},
+        {label:'상태동사', data:[22,16,6,12,8,4], backgroundColor:'#eda100'},
+        {label:'관계동사', data:[36,18,18,11,4,7], backgroundColor:'#4a3aa7'}
+      ]
+    },
+    plugins: [rowBandPlugin, countLabelPlugin],
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { stacked:true, max:260, ticks:{color:fontColor}, grid:{color:gridColor} },
+        y: { stacked:true, ticks:{color:'#22201b', font:{size:12}}, grid:{display:false} }
+      },
+      plugins: {
+        legend: { display:false },
+        tooltip: { callbacks: { label: (ctx) => {
+          const total = ctx.chart.data.datasets.reduce((s,d)=>s+d.data[ctx.dataIndex],0);
+          const pct = Math.round(ctx.raw/total*100);
+          return ctx.dataset.label + ': ' + ctx.raw + '건 (' + pct + '%)';
+        }}}
+      }
+    }
+  });
+
+  new Chart(document.getElementById('chartAspect'), {
+    type: 'bar',
+    data: {
+      labels: ['겸어문 전체 (n=45)', '  ㄴ 인칭대사 (n=26)', '  ㄴ 일반명사 (n=19)', '존현문 전체 (n=49)', '  ㄴ 처소사 (n=27)', '  ㄴ 시간사 (n=22)'],
+      datasets: [
+        {label:'완료 了', data:[34,18,16,25,8,17], backgroundColor:'#c0392b'},
+        {label:'진행 着', data:[9,6,3,19,14,5], backgroundColor:'#2980b9'},
+        {label:'경험 过', data:[2,2,0,5,5,0], backgroundColor:'#8e44ad'}
+      ]
+    },
+    plugins: [rowBandPlugin, countLabelPlugin],
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { stacked:true, max:52, ticks:{color:fontColor}, grid:{color:gridColor} },
+        y: { stacked:true, ticks:{color:'#22201b', font:{size:12}}, grid:{display:false} }
+      },
+      plugins: {
+        legend: { display:false },
+        tooltip: { callbacks: { label: (ctx) => {
+          const total = ctx.chart.data.datasets.reduce((s,d)=>s+d.data[ctx.dataIndex],0);
+          const pct = total ? Math.round(ctx.raw/total*100) : 0;
+          return ctx.dataset.label + ': ' + ctx.raw + '건 (' + pct + '%)';
+        }}}
+      }
+    }
+  });
+})();
+</script>
+
+<script>
+(function(){
+  const TREE = {"name":"有자문","count":504,"level":"root","topVerbs":[["是",27],["参加",20],["叫",11],["来",11],["参与",9],["做",5],["在",5],["准备",4],["进行",4],["住",4]],"children":[{"name":"겸어문","count":252,"level":"side","side":"겸어문","topVerbs":[["是",24],["参加",14],["参与",6],["叫",5],["准备",4],["在",4],["获得",3],["荣获",3],["担任",3],["住",3]],"children":[{"name":"인칭대사","count":126,"level":"subcat","side":"겸어문","subcat":"인칭대사","topVerbs":[["是",13],["参加",6],["准备",4],["叫",4],["住",3],["当",3],["在",3],["获得",2],["建立",2],["担任",2]],"children":[{"name":"동작","count":92,"level":"vt","side":"겸어문","subcat":"인칭대사","vt":"action","topVerbs":[["参加",6],["准备",4],["当",3],["获得",2],["建立",2],["担任",2],["进行",2],["搞",2],["回来",2],["死",2]],"children":[{"name":"무표지","count":70,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"action","asp":"unmarked","topVerbs":[["准备",4],["参加",2],["搞",2],["当",2],["回来",2],["获得",1],["建立",1],["荣获",1],["助战",1],["参考",1]]},{"name":"了","count":16,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"action","asp":"completed","topVerbs":[["参加",4],["进行",1],["考进",1],["访问",1],["送",1],["拿走",1],["建立",1],["失去",1],["加入",1],["获得",1]]},{"name":"着","count":5,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"action","asp":"progressive","topVerbs":[["包围",1],["坐",1],["看",1],["带",1],["害",1]]},{"name":"过","count":1,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"action","asp":"experiential","topVerbs":[["担任",1]]}]},{"name":"관계","count":18,"level":"vt","side":"겸어문","subcat":"인칭대사","vt":"relation","topVerbs":[["是",13],["叫",4],["成为",1]],"children":[{"name":"무표지","count":18,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"relation","asp":"unmarked","topVerbs":[["是",13],["叫",4],["成为",1]]}]},{"name":"상태","count":16,"level":"vt","side":"겸어문","subcat":"인칭대사","vt":"state","topVerbs":[["住",3],["在",3],["值得",2],["忘",2],["闲置",1],["懂得",1],["喜欢",1],["考虑",1],["有",1],["迷恋",1]],"children":[{"name":"무표지","count":12,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"state","asp":"unmarked","topVerbs":[["住",3],["在",3],["值得",2],["忘",1],["喜欢",1],["有",1],["迷恋",1]]},{"name":"了","count":2,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"state","asp":"completed","topVerbs":[["懂得",1],["忘",1]]},{"name":"着","count":1,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"state","asp":"progressive","topVerbs":[["闲置",1]]},{"name":"过","count":1,"level":"asp","side":"겸어문","subcat":"인칭대사","vt":"state","asp":"experiential","topVerbs":[["考虑",1]]}]}]},{"name":"일반명사","count":126,"level":"subcat","side":"겸어문","subcat":"일반명사","topVerbs":[["是",11],["参加",8],["参与",5],["施工",2],["荣获",2],["打死",2],["来自",2],["滞留",2],["享受",2],["受到",2]],"children":[{"name":"동작","count":102,"level":"vt","side":"겸어문","subcat":"일반명사","vt":"action","topVerbs":[["参加",8],["参与",5],["施工",2],["荣获",2],["打死",2],["滞留",2],["享受",2],["受到",2],["提到",2],["进入",1]],"children":[{"name":"무표지","count":84,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"action","asp":"unmarked","topVerbs":[["参加",7],["参与",4],["施工",2],["荣获",2],["打死",2],["滞留",2],["受到",2],["进入",1],["考入",1],["改造",1]]},{"name":"了","count":16,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"action","asp":"completed","topVerbs":[["享受",2],["吃上",1],["得到",1],["办理",1],["开展",1],["提到",1],["立",1],["搬上",1],["进去",1],["参与",1]]},{"name":"着","count":2,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"action","asp":"progressive","topVerbs":[["跟",1],["指导",1]]}]},{"name":"관계","count":18,"level":"vt","side":"겸어문","subcat":"일반명사","vt":"relation","topVerbs":[["是",11],["来自",2],["不是",1],["取决",1],["叫",1],["不等于",1],["成为",1]],"children":[{"name":"무표지","count":18,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"relation","asp":"unmarked","topVerbs":[["是",11],["来自",2],["不是",1],["取决",1],["叫",1],["不等于",1],["成为",1]]}]},{"name":"상태","count":6,"level":"vt","side":"겸어문","subcat":"일반명사","vt":"state","topVerbs":[["绝产",1],["居住",1],["挨饿",1],["居",1],["在",1],["闲",1]],"children":[{"name":"무표지","count":5,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"state","asp":"unmarked","topVerbs":[["绝产",1],["居住",1],["挨饿",1],["居",1],["在",1]]},{"name":"着","count":1,"level":"asp","side":"겸어문","subcat":"일반명사","vt":"state","asp":"progressive","topVerbs":[["闲",1]]}]}]}]},{"name":"존현문","count":252,"level":"side","side":"존현문","topVerbs":[["来",11],["叫",6],["参加",6],["获",4],["有",3],["做",3],["买",3],["把守",3],["是",3],["走",3]],"children":[{"name":"처소사","count":126,"level":"subcat","side":"존현문","subcat":"처소사","topVerbs":[["做",3],["叫",3],["来",3],["把守",3],["有",2],["咬",2],["等",2],["摆",2],["闪",2],["外出",2]],"children":[{"name":"동작","count":114,"level":"vt","side":"존현문","subcat":"처소사","vt":"action","topVerbs":[["做",3],["来",3],["把守",3],["咬",2],["等",2],["摆",2],["闪",2],["外出",2],["盛开",1],["飞",1]],"children":[{"name":"무표지","count":87,"level":"asp","side":"존현문","subcat":"처소사","vt":"action","asp":"unmarked","topVerbs":[["来",3],["把守",3],["咬",2],["摆",2],["外出",2],["盛开",1],["移动",1],["发生",1],["散落",1],["漏",1]]},{"name":"了","count":8,"level":"asp","side":"존현문","subcat":"처소사","vt":"action","asp":"completed","topVerbs":[["建",1],["观看",1],["带来",1],["动",1],["滚",1],["设立",1],["买",1],["站",1]]},{"name":"着","count":14,"level":"asp","side":"존현문","subcat":"처소사","vt":"action","asp":"progressive","topVerbs":[["排",1],["盘",1],["盯",1],["跳",1],["等",1],["堵",1],["闪",1],["支",1],["看",1],["种植",1]]},{"name":"过","count":5,"level":"asp","side":"존현문","subcat":"처소사","vt":"action","asp":"experiential","topVerbs":[["做",2],["飞",1],["进行",1],["闪",1]]}]},{"name":"상태","count":8,"level":"vt","side":"존현문","subcat":"처소사","vt":"state","topVerbs":[["有",2],["需要",1],["病",1],["住",1],["待业",1],["崇拜",1],["在",1]],"children":[{"name":"무표지","count":8,"level":"asp","side":"존현문","subcat":"처소사","vt":"state","asp":"unmarked","topVerbs":[["有",2],["需要",1],["病",1],["住",1],["待业",1],["崇拜",1],["在",1]]}]},{"name":"관계","count":4,"level":"vt","side":"존현문","subcat":"처소사","vt":"relation","topVerbs":[["叫",2],["出生",1],["是",1]],"children":[{"name":"무표지","count":4,"level":"asp","side":"존현문","subcat":"처소사","vt":"relation","asp":"unmarked","topVerbs":[["叫",2],["出生",1],["是",1]]}]}]},{"name":"시간사","count":126,"level":"subcat","side":"존현문","subcat":"시간사","topVerbs":[["来",8],["参加",6],["获",4],["参与",3],["学习",3],["叫",3],["使用",2],["享受",2],["买",2],["处于",2]],"children":[{"name":"동작","count":115,"level":"vt","side":"존현문","subcat":"시간사","vt":"action","topVerbs":[["来",8],["参加",6],["获",4],["参与",3],["学习",3],["使用",2],["享受",2],["买",2],["给",2],["走",2]],"children":[{"name":"무표지","count":93,"level":"asp","side":"존현문","subcat":"시간사","vt":"action","asp":"unmarked","topVerbs":[["来",8],["获",4],["参与",3],["学习",3],["参加",3],["使用",2],["买",2],["给",2],["聚集",2],["挂",2]]},{"name":"了","count":17,"level":"asp","side":"존현문","subcat":"시간사","vt":"action","asp":"completed","topVerbs":[["参加",3],["享受",1],["荒掉",1],["递交",1],["采用",1],["实现",1],["组成",1],["受到",1],["实行",1],["加入",1]]},{"name":"着","count":5,"level":"asp","side":"존현문","subcat":"시간사","vt":"action","asp":"progressive","topVerbs":[["带",2],["经受",1],["种植",1],["跟",1]]}]},{"name":"관계","count":7,"level":"vt","side":"존현문","subcat":"시간사","vt":"relation","topVerbs":[["是",2],["来自",1],["属于",1],["成为",1],["评为",1],["叫",1]],"children":[{"name":"무표지","count":7,"level":"asp","side":"존현문","subcat":"시간사","vt":"relation","asp":"unmarked","topVerbs":[["是",2],["来自",1],["属于",1],["成为",1],["评为",1],["叫",1]]}]},{"name":"상태","count":4,"level":"vt","side":"존현문","subcat":"시간사","vt":"state","topVerbs":[["处于",2],["没有",1],["有",1]],"children":[{"name":"무표지","count":4,"level":"asp","side":"존현문","subcat":"시간사","vt":"state","asp":"unmarked","topVerbs":[["处于",2],["没有",1],["有",1]]}]}]}]}]};
+
+  const cx = 380, cy = 380;
+  const radiusByDepth = [0, 105, 175, 235, 290];
+  const fillByDepthGyeom  = ['#F5F0E6', '#B7B0EE', '#CFC9F5', '#E4E1FA', '#F1EFFC'];
+  const fillByDepthJon    = ['#F5F0E6', '#6FCBA6', '#9FE0C3', '#C7EEDC', '#E2F6EC'];
+  const strokeGyeom = '#7F77DD';
+  const strokeJon = '#1D9E75';
+  const rootFill = '#E8E1CB';
+  const rootStroke = '#B8A96A';
+  const linkColorGyeom = '#AFA9EC';
+  const linkColorJon = '#5DCAA5';
+
+  function collectByDepth(node, depth, acc) {
+    acc[depth] = acc[depth] || [];
+    acc[depth].push(node);
+    node.depth = depth;
+    if (node.children) node.children.forEach(c => collectByDepth(c, depth+1, acc));
+    return acc;
+  }
+  const byDepth = collectByDepth(TREE, 0, {});
+  const maxCountByDepth = {};
+  Object.keys(byDepth).forEach(d => { maxCountByDepth[d] = Math.max(...byDepth[d].map(n => n.count)); });
+  const rRange = {0:[38,38],1:[24,30],2:[19,23],3:[15,22],4:[13,18]};
+
+  function nodeRadius(node) {
+    const rr = rRange[node.depth];
+    const mc = maxCountByDepth[node.depth];
+    return rr[0] + (rr[1]-rr[0]) * Math.sqrt(node.count / mc);
+  }
+  Object.values(byDepth).forEach(arr => arr.forEach(n => { n.r = nodeRadius(n); }));
+
+  const PAD = 7;
+  function computeRequired(node) {
+    const own = 2*Math.atan((node.r+PAD)/Math.max(radiusByDepth[node.depth],1));
+    if (!node.children || !node.children.length) { node.reqAngle = own; return own; }
+    let childSum = 0;
+    node.children.forEach(c => { childSum += computeRequired(c); });
+    node.reqAngle = Math.max(own, childSum);
+    return node.reqAngle;
+  }
+  computeRequired(TREE);
+
+  const allNodes = [];
+  const allLinks = [];
+
+  function layout(node, angleStart, angleEnd, parent) {
+    const angle = (angleStart+angleEnd)/2 - Math.PI/2;
+    const r = radiusByDepth[node.depth];
+    node.x = cx + r*Math.cos(angle);
+    node.y = cy + r*Math.sin(angle);
+    node.angle = angle;
+    node.parentRef = parent;
+    allNodes.push(node);
+    if (parent) allLinks.push({x1:parent.x, y1:parent.y, x2:node.x, y2:node.y, side:node.side});
+    if (node.children && node.children.length) {
+      const totalReq = node.children.reduce((s,c)=>s+c.reqAngle,0);
+      const available = angleEnd-angleStart;
+      const totalCount = node.children.reduce((s,c)=>s+c.count,0);
+      let angles;
+      if (totalReq <= available) {
+        const extra = available - totalReq;
+        angles = node.children.map(c => c.reqAngle + extra*(c.count/totalCount));
+      } else {
+        const scale = available/totalReq;
+        angles = node.children.map(c => c.reqAngle*scale);
+      }
+      let cur = angleStart;
+      node.children.forEach((c,i) => { layout(c, cur, cur+angles[i], node); cur += angles[i]; });
+    }
+  }
+  layout(TREE, 0, Math.PI*2, null);
+
+  const svgNS = 'http://www.w3.org/2000/svg';
+  const linksLayer = document.getElementById('linksLayer');
+  const nodesLayer = document.getElementById('nodesLayer');
+
+  allLinks.forEach(l => {
+    const line = document.createElementNS(svgNS,'line');
+    line.setAttribute('x1', l.x1); line.setAttribute('y1', l.y1);
+    line.setAttribute('x2', l.x2); line.setAttribute('y2', l.y2);
+    line.setAttribute('stroke', l.side==='겸어문' ? linkColorGyeom : linkColorJon);
+    line.setAttribute('stroke-width','1');
+    line.setAttribute('opacity','0.7');
+    linksLayer.appendChild(line);
+  });
+
+  function buildCrumb(node) {
+    const chain = [];
+    let cur = node;
+    while (cur) { chain.unshift(cur.name); cur = cur.parentRef; }
+    return chain.join(' > ');
+  }
+
+  let activeNode = null;
+
+  function resetPanel() {
+    document.querySelectorAll('.tree-node').forEach(el => el.setAttribute('stroke-width','1'));
+    document.getElementById('crumb').textContent = '';
+    const panel = document.getElementById('panel');
+    panel.innerHTML = '<p style="margin:0;font-size:13px;color:#4a463d;">원을 클릭하면 그 범주에 속한 동사 어휘 분포가 여기에 표시됩니다.</p>';
+    activeNode = null;
+  }
+
+  function selectNode(node, circleEl) {
+    if (activeNode === node) { resetPanel(); return; }
+    document.querySelectorAll('.tree-node').forEach(el => el.setAttribute('stroke-width','1'));
+    circleEl.setAttribute('stroke-width','3');
+    activeNode = node;
+
+    document.getElementById('crumb').textContent = buildCrumb(node) + '  (n=' + node.count + ')';
+
+    const panel = document.getElementById('panel');
+    panel.innerHTML = '';
+    const cap = 20;
+    const sideColor = node.side==='존현문' ? '#1D9E75' : node.side==='겸어문' ? '#7F77DD' : '#B4B2A9';
+    (node.topVerbs || []).forEach(([verb,count]) => {
+      const row = document.createElement('div');
+      row.style.cssText = 'display:flex;align-items:center;gap:10px;padding:5px 0;';
+      const lbl = document.createElement('div');
+      lbl.style.cssText = 'width:56px;font-family:serif;font-size:16px;flex-shrink:0;color:#22201b;';
+      lbl.textContent = verb;
+      const squares = document.createElement('div');
+      squares.style.cssText = 'display:flex;flex-wrap:wrap;gap:2px;flex:1;';
+      const n = Math.min(count, cap);
+      for (let i=0;i<n;i++) {
+        const sq = document.createElement('span');
+        sq.style.cssText = 'width:10px;height:10px;border-radius:2px;background:' + sideColor + ';display:inline-block;';
+        squares.appendChild(sq);
+      }
+      const pctVerb = Math.round(count/node.count*100);
+      const countLabel = document.createElement('div');
+      countLabel.style.cssText = 'font-size:12px;color:#4a463d;width:70px;text-align:right;flex-shrink:0;';
+      countLabel.textContent = count + '건 (' + pctVerb + '%)';
+      row.appendChild(lbl); row.appendChild(squares); row.appendChild(countLabel);
+      panel.appendChild(row);
+    });
+    if (!node.topVerbs || node.topVerbs.length===0) {
+      const p = document.createElement('p');
+      p.style.cssText = 'margin:0;font-size:13px;color:#4a463d;';
+      p.textContent = '해당 범주에 예문이 없습니다.';
+      panel.appendChild(p);
+    }
+  }
+
+  const fontByDepth = [15,13,12,11,10.5];
+
+  allNodes.forEach(node => {
+    const pct = node.parentRef ? Math.round(node.count/node.parentRef.count*100) : 100;
+    const circle = document.createElementNS(svgNS,'circle');
+    circle.setAttribute('cx', node.x); circle.setAttribute('cy', node.y); circle.setAttribute('r', node.r);
+    circle.setAttribute('stroke-width','1');
+    circle.classList.add('tree-node');
+    circle.style.cursor = 'pointer';
+    let fill, stroke;
+    if (node.level==='root') { fill = rootFill; stroke = rootStroke; }
+    else if (node.side==='겸어문') { fill = fillByDepthGyeom[node.depth]; stroke = strokeGyeom; }
+    else { fill = fillByDepthJon[node.depth]; stroke = strokeJon; }
+    circle.setAttribute('fill', fill);
+    circle.setAttribute('stroke', stroke);
+    circle.addEventListener('click', () => selectNode(node, circle));
+    const title = document.createElementNS(svgNS,'title');
+    const parentDesc = node.parentRef ? (' · 상위 대비 ' + pct + '%') : '';
+    title.textContent = node.name + ' — ' + node.count + '건' + parentDesc;
+    circle.appendChild(title);
+    nodesLayer.appendChild(circle);
+
+    const text = document.createElementNS(svgNS,'text');
+    text.setAttribute('x', node.x); text.setAttribute('y', node.y);
+    text.setAttribute('text-anchor','middle');
+    text.setAttribute('dominant-baseline','central');
+    text.setAttribute('fill', '#22201b');
+    text.setAttribute('font-family','sans-serif');
+    text.setAttribute('font-weight', node.depth<=1 ? '700' : '400');
+    text.style.pointerEvents = 'none';
+    text.style.fontSize = fontByDepth[node.depth] + 'px';
+    text.textContent = node.name;
+    nodesLayer.appendChild(text);
+  });
+})();
+</script>
+
+</body>
+</html>
