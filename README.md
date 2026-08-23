@@ -1,4 +1,4 @@
-[유자겸어문_존현문_비교연구.html](https://github.com/user-attachments/files/31331170/_._.html)
+[유자겸어문_존현문_비교연구.html](https://github.com/user-attachments/files/31346831/_._.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -216,14 +216,15 @@
       <li><strong style="color:var(--ink);">무표지(unmarked)</strong> — 별도의 동태조사 없이 쓰인 경우</li>
     </ul>
     <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
-    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 무표지가 410건(81.3%)으로 압도적으로 많았고, 나머지 중에서는 완료 了가 59건(11.7%)으로 가장 많았다. 진행 着(28건, 5.6%)와 경험 过(7건, 1.4%)는 상대적으로 드물었다. 구문별로는 有자겸어문(무표지 82.1%)이 有자존현문(무표지 80.6%)보다 무표지 비중이 조금 더 높은데, 이는 진행 着(존현문 7.5% vs 겸어문 3.6%)와 경험 过(존현문 2.0% vs 겸어문 0.8%)가 모두 존현문 쪽에 더 많이 나타나기 때문이다. 특히 처소사는 진행 着(11.1%)와 경험 过(4.0%)가 여섯 범주 중 가장 높다.</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 무표지가 411건(81.5%)으로 압도적으로 많았고, 나머지 중에서는 완료 了가 59건(11.7%)으로 가장 많았다. 진행 着(28건, 5.6%)와 경험 过(6건, 1.2%)는 상대적으로 드물었다. 구문별로는 有자겸어문(무표지 82.1%)이 有자존현문(무표지 81.0%)보다 무표지 비중이 조금 더 높은데, 이는 진행 着(존현문 7.5% vs 겸어문 3.6%)와 경험 过(존현문 1.6% vs 겸어문 0.8%)가 모두 존현문 쪽에 더 많이 나타나기 때문이다. 특히 처소사는 진행 着(11.1%)와 경험 过(2.4%)가 여섯 범주 중 가장 높다.</p>
     <p style="margin:0 0 8px;font-weight:600;font-size:13.5px;">예문</p>
     <div style="border-left:3px solid var(--gold);padding-left:16px;color:var(--ink-soft);font-size:14px;line-height:2;">
       他们有26种产品<span class="zh" style="color:var(--ink);font-weight:600;">获得</span>国、部、市优质产品称号。 <span style="font-size:12px;">— 무표지</span><br>
       他们有很多人参加<span class="zh" style="color:var(--ink);font-weight:600;">了</span>当地民兵组织。 <span style="font-size:12px;">— 완료 了</span><br>
       台前有一些人排<span class="zh" style="color:var(--ink);font-weight:600;">着</span>队。 <span style="font-size:12px;">— 진행 着</span><br>
       他们有很多人在部队里担任<span class="zh" style="color:var(--ink);font-weight:600;">过</span>领导工作。 <span style="font-size:12px;">— 경험 过 (겸어문·인칭대사)</span><br>
-      全国有1/5的城市做<span class="zh" style="color:var(--ink);font-weight:600;">过</span>划设无车区域的尝试。 <span style="font-size:12px;">— 경험 过 (존현문·처소사)</span>
+      全国有1/5的城市做<span class="zh" style="color:var(--ink);font-weight:600;">过</span>划设无车区域的尝试。 <span style="font-size:12px;">— 경험 过 (존현문·처소사)</span><br>
+      去年有10多万城里人来村里"耍"<span class="zh" style="color:var(--ink);font-weight:600;">过</span>。 <span style="font-size:12px;">— 경험 过 (존현문·시간사)</span>
     </div>
   </div>
 
@@ -235,10 +236,10 @@
       <span><i class="dot" style="background:#B4B2A9"></i>무표지 (unmarked)</span>
     </div>
     <div style="position:relative;width:100%;height:340px;">
-      <canvas id="chartAspect" role="img" aria-label="有자 겸어문과 有자 존현문의 V2 후행 동태조사 분포. 무표지 포함. 겸어문 전체 완료34 진행9 경험2 무표지207. 인칭대사 완료18 진행6 경험2 무표지100. 일반명사 완료16 진행3 경험0 무표지107. 존현문 전체 완료25 진행19 경험5 무표지203. 처소사 완료8 진행14 경험5 무표지99. 시간사 완료17 진행5 경험0 무표지104."></canvas>
+      <canvas id="chartAspect" role="img" aria-label="有자 겸어문과 有자 존현문의 V2 후행 동태조사 분포. 무표지 포함. 겸어문 전체 완료34 진행9 경험2 무표지207. 인칭대사 완료18 진행6 경험2 무표지100. 일반명사 완료16 진행3 경험0 무표지107. 존현문 전체 완료25 진행19 경험4 무표지204. 처소사 완료8 진행14 경험3 무표지101. 시간사 완료17 진행5 경험1 무표지103."></canvas>
     </div>
   </div>
-  <div class="insight">진행상 着는 존현문, 특히 <strong>처소사</strong>(11.1%)에서 두드러져 "어떤 장소에 무언가 지속적으로 존재·진행 중"이라는 존현문 특유의 의미와 맞아떨어집니다. 경험상 过도 처소사에서 가장 뚜렷한데(4.0%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장이 몰려 있기 때문입니다.</div>
+  <div class="insight">진행상 着는 존현문, 특히 <strong>처소사</strong>(11.1%)에서 두드러져 "어떤 장소에 무언가 지속적으로 존재·진행 중"이라는 존현문 특유의 의미와 맞아떨어집니다. 경험상 过도 처소사에서 가장 뚜렷한데(2.4%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장이 몰려 있기 때문입니다.</div>
 </section>
 
 <section id="tree">
@@ -268,7 +269,7 @@
   <p class="section-desc">V2 유형과 후행 동태조사라는 서로 다른 두 층위의 문법 자질이 같은 방향을 가리킵니다.</p>
   <div class="card">
     <p style="margin:0 0 12px;color:var(--ink-soft);font-size:14.5px;">有자 겸어문은 NP1이 NP2를 보유한 상태에서 그 NP2의 <strong style="color:var(--ink);">속성이나 완결된 행위를 서술</strong>하는 데 특화되어 있고(상태·관계동사 24.6%, 완료 了 13.5%), 有자 존현문은 어떤 장소·시간에 무엇이 <strong style="color:var(--ink);">출현하거나 지속적으로 존재하는 사건</strong>을 그리는 데 특화되어 있습니다(동작동사 89.7%, 진행 着 7.5%로 특히 처소사에 집중).</p>
-    <p style="margin:0;color:var(--ink-soft);font-size:14.5px;">관계동사 비중은 인칭대사(14.3%)와 일반명사(14.3%)에서 정확히 같게 나타나, 겸어문 자체가 존현문보다 서술적 성격이 강한 구문임을 보여줍니다. 경험 과(过)는 겸어문과 존현문 양쪽에서 모두 나타나지만 존현문의 처소사에 특히 몰려 있으며(4.0%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장에서 주로 확인됩니다.</p>
+    <p style="margin:0;color:var(--ink-soft);font-size:14.5px;">관계동사 비중은 인칭대사(14.3%)와 일반명사(14.3%)에서 정확히 같게 나타나, 겸어문 자체가 존현문보다 서술적 성격이 강한 구문임을 보여줍니다. 경험 과(过)는 겸어문과 존현문 양쪽에서 모두 나타나지만 존현문의 처소사에 특히 몰려 있으며(2.4%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장에서 주로 확인됩니다.</p>
   </div>
 </section>
 
@@ -354,8 +355,8 @@
       datasets: [
         {label:'완료 了', data:[34,18,16,25,8,17], backgroundColor:'#c0392b'},
         {label:'진행 着', data:[9,6,3,19,14,5], backgroundColor:'#2980b9'},
-        {label:'경험 过', data:[2,2,0,5,5,0], backgroundColor:'#8e44ad'},
-        {label:'무표지', data:[207,100,107,203,99,104], backgroundColor:'#B4B2A9'}
+        {label:'경험 过', data:[2,2,0,4,3,1], backgroundColor:'#8e44ad'},
+        {label:'무표지', data:[207,100,107,204,101,103], backgroundColor:'#B4B2A9'}
       ]
     },
     plugins: [rowBandPlugin, countLabelPlugin],
