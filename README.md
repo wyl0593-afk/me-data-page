@@ -1,10 +1,10 @@
-[유자겸어문_존현문_비교연구(최신).html](https://github.com/user-attachments/files/32804639/_._.html)
+[현대중국어 '有'자 겸어문과 존현문의 통사론적 비교 연구.html](https://github.com/user-attachments/files/32908433/default.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>有자 겸어문과 有자 존현문의 비교 연구</title>
+<title>현대중국어 '有'자 겸어문과 존현문의 통사론적 비교 연구</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Serif+SC:wght@400;600&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
@@ -110,7 +110,7 @@
 
 <header class="hero">
   <div class="eyebrow">소논문 데이터 시각화</div>
-  <h1 class="paper-title">有자 겸어문과 有자 존현문의 비교 연구</h1>
+  <h1 class="paper-title">현대중국어 '有'자 겸어문과 존현문의 통사론적 비교 연구</h1>
   <p class="paper-lede">BCC 코퍼스 504개 예문을 바탕으로, V2 자리 동사의 유형(동작·상태·관계)과 후행 동태조사(了·着·过) 분포를 통해 두 구문의 문법적 차이를 살펴봅니다.</p>
 </header>
 
@@ -180,7 +180,7 @@
       <li><strong style="color:var(--ink);">대상자(patient)</strong> — NP2가 V2가 나타내는 동작의 대상·피동주로 실현되는 경우</li>
     </ul>
     <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
-    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 행위자가 403건(80.0%)으로 다수를 차지했고 대상자는 101건(20.0%)이었다. 구문별로는 존현문(행위자 85.3%)이 겸어문(행위자 74.6%)보다 행위자 비중이 더 높았으며, 카이제곱 검정 결과 이 차이는 통계적으로 유의미하였다(χ²(1, N=504)=8.37, p=.004, φ=.13). 다만 효과크기는 작은 수준으로, 두 구문 모두 행위자 비중이 다수라는 공통점이 있다.</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 행위자가 403건(80.0%)으로 다수를 차지했고 대상자는 101건(20.0%)이었다. 구문별로는 존현문(행위자 85.3%)이 겸어문(행위자 74.6%)보다 행위자 비중이 더 높았다. 다만 두 구문 모두 행위자 비중이 다수라는 공통점이 있다.</p>
   </div>
 
   <div class="card">
@@ -209,7 +209,7 @@
       <li><strong style="color:var(--ink);">동작동사(action)</strong> — NP2와 관련된 구체적 행위·사건을 나타내는 동사. 参加(참가하다), 从事(종사하다), 报名(신청하다) 등</li>
     </ul>
     <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
-    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 동작동사가 416건(82.5%)으로 가장 많았고, 관계동사(47건, 9.3%)와 상태동사(41건, 8.1%)는 상대적으로 적었다. 구문별로는 有자겸어문(75.4%)이 有자존현문(89.7%)보다 동작동사 비중이 훨씬 낮은데, 이는 인칭대사(관계 14.3%)뿐 아니라 일반명사(관계 14.3%)에서도 관계동사 비중이 똑같이 높게 나타나기 때문이다 — 겸어문은 NP2가 사람이든 사물이든 신분·소속을 규정하는 서술이 상대적으로 많다. 동작동사 대 상태·관계동사(합산)의 비율 차이는 카이제곱 검정 결과 통계적으로 유의미하였다(χ²(1, N=504)=16.87, p&lt;.001, φ=.18).</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 동작동사가 416건(82.5%)으로 가장 많았고, 관계동사(47건, 9.3%)와 상태동사(41건, 8.1%)는 상대적으로 적었다. 구문별로는 有자겸어문(75.4%)이 有자존현문(89.7%)보다 동작동사 비중이 훨씬 낮은데, 이는 인칭대사(관계 14.3%)뿐 아니라 일반명사(관계 14.3%)에서도 관계동사 비중이 똑같이 높게 나타나기 때문이다 — 겸어문은 NP2가 사람이든 사물이든 신분·소속을 규정하는 서술이 상대적으로 많다.</p>
     <p style="margin:0 0 8px;font-weight:600;font-size:13.5px;">예문</p>
     <div style="border-left:3px solid var(--gold);padding-left:16px;color:var(--ink-soft);font-size:14px;line-height:2;">
       他们有许多人<span class="zh" style="color:var(--ink);font-weight:600;">是</span>怀着某种政治动机的。 <span style="font-size:12px;">— 관계동사</span><br>
@@ -246,7 +246,7 @@
       <li><strong style="color:var(--ink);">무표지(unmarked)</strong> — 별도의 동태조사 없이 쓰인 경우</li>
     </ul>
     <p style="margin:0 0 10px;font-weight:600;font-size:14.5px;">결과</p>
-    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 무표지가 411건(81.5%)으로 압도적으로 많았고, 나머지 중에서는 완료 了가 59건(11.7%)으로 가장 많았다. 진행 着(28건, 5.6%)와 경험 过(6건, 1.2%)는 상대적으로 드물었다. 구문별로는 有자겸어문(무표지 82.1%)이 有자존현문(무표지 81.0%)보다 무표지 비중이 조금 더 높은데, 이는 진행 着(존현문 7.5% vs 겸어문 3.6%)와 경험 过(존현문 1.6% vs 겸어문 0.8%)가 모두 존현문 쪽에 더 많이 나타나기 때문이다. 특히 처소사는 진행 着(11.1%)와 경험 过(2.4%)가 여섯 범주 중 가장 높다. 경험 过는 표본이 작아(6건) 통계 검정에서 제외하고, 완료 了 대 진행 着(N=87)만을 검정한 결과 구문 유형에 따라 통계적으로 유의미한 차이가 나타났다(χ²(1, N=87)=3.97, p=.046, φ=.21). 반면 동태조사 표지의 유무(了+着+过 합산 vs 무표지, N=504) 자체는 구문 유형 간에 유의미한 차이가 없었다(χ²(1, N=504)=0.05, p=.818) — 두 구문은 동태조사를 취하는지가 아니라 어떤 동태조사가 선택되는지에서만 갈린다.</p>
+    <p style="margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;">전체 504예문 중 무표지가 411건(81.5%)으로 압도적으로 많았고, 나머지 중에서는 완료 了가 59건(11.7%)으로 가장 많았다. 진행 着(28건, 5.6%)와 경험 过(6건, 1.2%)는 상대적으로 드물었다. 구문별로는 有자겸어문(무표지 82.1%)이 有자존현문(무표지 81.0%)보다 무표지 비중이 조금 더 높은데, 이는 진행 着(존현문 7.5% vs 겸어문 3.6%)와 경험 过(존현문 1.6% vs 겸어문 0.8%)가 모두 존현문 쪽에 더 많이 나타나기 때문이다. 특히 처소사는 진행 着(11.1%)와 경험 过(2.4%)가 여섯 범주 중 가장 높다. 경험 过는 표본이 작아(6건) 해석에 참고 자료로만 활용하였다. 완료 了와 진행 着의 비중은 구문 유형에 따라 뚜렷하게 갈리는 반면, 동태조사 표지 자체의 유무(了+着+过 합산 vs 무표지)는 겸어문·존현문 사이에 큰 차이가 없다 — 두 구문은 동태조사를 취하는지가 아니라 어떤 동태조사가 선택되는지에서만 갈린다.</p>
     <p style="margin:0 0 8px;font-weight:600;font-size:13.5px;">예문</p>
     <div style="border-left:3px solid var(--gold);padding-left:16px;color:var(--ink-soft);font-size:14px;line-height:2;">
       他们有26种产品<span class="zh" style="color:var(--ink);font-weight:600;">获得</span>国、部、市优质产品称号。 <span style="font-size:12px;">— 무표지</span><br>
@@ -298,8 +298,9 @@
   <h2>결론</h2>
   <p class="section-desc">V2 유형과 후행 동태조사라는 서로 다른 두 층위의 문법 자질이 같은 방향을 가리킵니다.</p>
   <div class="card">
-    <p style="margin:0 0 12px;color:var(--ink-soft);font-size:14.5px;">有자 겸어문은 NP1이 NP2를 보유한 상태에서 그 NP2의 <strong style="color:var(--ink);">속성이나 완결된 행위를 서술</strong>하는 데 특화되어 있고(상태·관계동사 24.6%, 완료 了 13.5%), 有자 존현문은 어떤 장소·시간에 무엇이 <strong style="color:var(--ink);">출현하거나 지속적으로 존재하는 사건</strong>을 그리는 데 특화되어 있습니다(동작동사 89.7%, 진행 着 7.5%로 특히 처소사에 집중).</p>
-    <p style="margin:0;color:var(--ink-soft);font-size:14.5px;">관계동사 비중은 인칭대사(14.3%)와 일반명사(14.3%)에서 정확히 같게 나타나, 겸어문 자체가 존현문보다 서술적 성격이 강한 구문임을 보여줍니다. 경험 과(过)는 겸어문과 존현문 양쪽에서 모두 나타나지만 존현문의 처소사에 특히 몰려 있으며(2.4%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장에서 주로 확인됩니다.</p>
+    <p style="margin:0 0 12px;color:var(--ink-soft);font-size:14.5px;">有자 겸어문은 NP1이 NP2를 보유한 상태에서 그 NP2의 <strong style="color:var(--ink);">속성이나 완결된 행위를 서술</strong>하는 데 상대적으로 특화되어 있고(상태·관계동사 24.6%, 완료 了 13.5%), 有자 존현문은 어떤 장소·시간에 무엇이 <strong style="color:var(--ink);">출현하거나 지속적으로 존재하는 사건</strong>을 그리는 데 상대적으로 특화되어 있습니다(동작동사 89.7%, 진행 着 7.5%로 특히 처소사에 집중).</p>
+    <p style="margin:0 0 12px;color:var(--ink-soft);font-size:14.5px;">다만 이 차이는 범주적 구분이 아니라 정도의 차이, 즉 경향성으로 이해할 필요가 있습니다. 겸어문에도 동작동사가 다수(75.4%)를 차지하고, 존현문에도 상태·관계동사가 일부(10.3%) 존재합니다. 경험 过(过) 역시 겸어문과 존현문 양쪽에서 모두 나타나지만 존현문의 처소사에 상대적으로 더 몰려 있으며(2.4%), 全国有1/5的城市做过…처럼 경험을 서술하는 문장에서 주로 확인됩니다.</p>
+    <p style="margin:0;color:var(--ink-soft);font-size:14.5px;">V2 유형과 후행 동태조사라는 서로 다른 문법 자질이 이처럼 일관되게 같은 방향을 가리킨다는 점은, NP1의 통사적 유동성을 1차 판별 기준으로 삼는 분석이 의미·화용적 차원에서도 뒷받침됨을 보여주는 정합성 증거로 해석할 수 있습니다.</p>
   </div>
 </section>
 
